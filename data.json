@@ -181,7 +181,7 @@
       "time": "35 - 45 min"
     },
     {
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "chi003",
       "description": "Andahuaylas",
       "horary": "12PM - 8PM",
@@ -194,7 +194,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "chi004",
       "description": "Andahuaylas",
       "horary": "8AM - 8PM",
@@ -207,7 +207,7 @@
       "time": "20 - 35 min"
     },
     {
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "chi007",
       "description": "Andahuaylas",
       "horary": "10:30PM - 8PM",
@@ -219,7 +219,7 @@
       "open": "10:30",
       "time": "40 - 50 min"
     },{
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "chi008",
       "description": "Andahuaylas",
       "horary": "10AM - 8PM",
@@ -258,7 +258,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "chi005",
       "description": "Andahuaylas",
       "horary": "11AM - 8PM",
@@ -763,7 +763,7 @@
   ],
   "pizzerias": [
     {
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "piz005",
       "description": "Andahuaylas",
       "horary": "10AM - 8PM",
@@ -846,7 +846,7 @@
       "closed": "22:00",
       "codCard": "pol002",
       "description": "Andahuaylas",
-      "horary": "4PM - 8PM",
+      "horary": "4PM - 10PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2Fpollo002.jpg?alt=media&token=24bc5f66-4587-4759-a276-ee4537c6ca13",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%20closed%2Fpollo002-02.jpeg?alt=media&token=5701c055-15cd-4bac-b77d-ed6b244bf0fb",
       "lat": "-13.656479",
@@ -869,10 +869,10 @@
       "time": "35 - 45 min"
     },
     {
-      "closed": "22:00",
+      "closed": "21:00",
       "codCard": "pol012",
       "description": "Andahuaylas",
-      "horary": "10AM - 8PM",
+      "horary": "10AM - 9PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2FEl%20Tio%20Beto.png?alt=media&token=8f8693c0-0fe2-4e3e-99b1-1ca37bcd0117",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%20closed%2FEl%20Tio%20Beto_closed.png?alt=media&token=51de5f79-67ed-4746-9792-541afe9cc2f3",
       "lat": "-13.6576136",
@@ -885,20 +885,20 @@
       "closed": "22:00",
       "codCard": "pol004",
       "description": "Andahuaylas",
-      "horary": "12PM - 8PM",
+      "horary": "6PM - 10PM",
       "image": "https://cutt.ly/PflWCRp",
       "imageClosed": "https://cutt.ly/tflWNbE",
       "lat": "-13.656520",
       "lng": "-73.389524",
       "name": "Don Jose",
-      "open": "12:00",
+      "open": "18:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "22:00",
+      "closed": "21:00",
       "codCard": "pol006",
       "description": "Andahuaylas - Lampa de Oro",
-      "horary": "1PM - 8PM",
+      "horary": "1PM - 9PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2Fpollo006.jpg?alt=media&token=02fc6c3f-488f-43a5-91e8-187a21883351",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%20closed%2Fpollo006-01.jpeg?alt=media&token=044fb8ee-a543-48f0-add6-63bdee16fe24",
       "lat": "-13.656510",
@@ -908,7 +908,7 @@
       "time": "30 - 40 min"
     },
     {
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "pol007",
       "description": "Andahuaylas",
       "horary": "11AM - 8PM",
@@ -921,7 +921,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "pol014",
       "description": "San Jerónimo",
       "horary": "3PM - 8PM",
@@ -934,7 +934,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "pol003",
       "description": "San Jerónimo",
       "horary": "5PM - 8PM",
@@ -960,7 +960,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "pol008",
       "description": "Andahuaylas",
       "horary": "6PM - 8PM",
