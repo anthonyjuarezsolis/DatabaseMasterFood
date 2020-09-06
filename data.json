@@ -17,6 +17,17 @@
       "lng": "-73.4032917",
       "name": "Licoreria Casa Chava",
       "open": "08:00"
+    },{
+      "closed": "12:00",
+      "codCard": "beb004",
+      "description": "Andahuaylas",
+      "horary": "8AM - 12PM",
+      "image": "https://cutt.ly/gfnZbUm",
+      "imageClosed": "https://cutt.ly/5fnZnPV",
+      "lat": "-13.655526",
+      "lng": "-73.3867085",
+      "name": "Don Quilmes",
+      "open": "08:00"
     }
   ],
   "cafés": [
@@ -207,6 +218,18 @@
       "name": "Chifa Kantong",
       "open": "10:30",
       "time": "40 - 50 min"
+    },{
+      "closed": "22:00",
+      "codCard": "chi008",
+      "description": "Andahuaylas",
+      "horary": "10AM - 8PM",
+      "image": "https://cutt.ly/vfnXNzh",
+      "imageClosed": "https://cutt.ly/VfnXN40",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "name": "Matias",
+      "open": "10:00",
+      "time": "40 - 50 min"
     },
     {
       "closed": "22:00",
@@ -247,7 +270,7 @@
       "open": "11:00",
       "time": "40 - 50 min"
     }
-  ],
+   ],
   "comida amazonica": [
     {
       "closed": "18:00",
@@ -526,6 +549,10 @@
   ],
   "numeros": [
     {
+      "local": "Don Quilmes",
+      "number": 980443216
+    },
+    {
       "local": "El Perolito",
       "number": 945761333
     },
@@ -740,8 +767,8 @@
       "codCard": "piz005",
       "description": "Andahuaylas",
       "horary": "10AM - 8PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%2Fpizza5.jpg?alt=media&token=330125ce-f146-4a7c-9440-5b0c79178d17",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%20closed%2Fpizza5__01.jpg?alt=media&token=ca45bcb7-3fb6-4271-9e5a-3cce00baf372",
+      "image": "https://cutt.ly/7fnXAHY",
+      "imageClosed": "https://cutt.ly/CfnXSsG",
       "lat": "-13.656649",
       "lng": "-73.389191",
       "name": "Matias",
@@ -4656,6 +4683,117 @@
         "title": "Red Bull 250ml"
       }
     ],
+    "beb004":[{
+      "amount": 1,
+      "category": "Vinos",
+      "codProduct": 1,
+      "codeStore": "beb004",
+      "company": "Don Quilmes",
+      "image": "",
+      "lat": "-13.655526",
+      "lng": "-73.3867085",
+      "price": "14.00",
+      "title": "Vino Artesanal Borgoña"
+    },{
+      "amount": 1,
+      "category": "Vinos",
+      "codProduct": 2,
+      "codeStore": "beb004",
+      "company": "Don Quilmes",
+      "image": "",
+      "lat": "-13.655526",
+      "lng": "-73.3867085",
+      "price": "14.00",
+      "title": "Vino de Higo"
+    },{
+      "amount": 1,
+      "category": "Pisco",
+      "codProduct": 3,
+      "codeStore": "beb004",
+      "company": "Don Quilmes",
+      "image": "",
+      "lat": "-13.655526",
+      "lng": "-73.3867085",
+      "price": "14.00",
+      "title": "Maracuya Sour con Pisco"
+    },{
+      "amount": 1,
+      "category": "Cremas",
+      "codProduct": 4,
+      "codeStore": "beb004",
+      "company": "Don Quilmes",
+      "image": "",
+      "lat": "-13.655526",
+      "lng": "-73.3867085",
+      "price": "20.00",
+      "title": "Crema de Pisco con Cafe"
+    },{
+      "amount": 1,
+      "category": "Cremas",
+      "codProduct": 5,
+      "codeStore": "beb004",
+      "company": "Don Quilmes",
+      "image": "",
+      "lat": "-13.655526",
+      "lng": "-73.3867085",
+      "price": "20.00",
+      "title": "Crema de Pisco con Algarrobina"
+    },{
+      "amount": 1,
+      "category": "Pisco",
+      "codProduct": 6,
+      "codeStore": "beb004",
+      "company": "Don Quilmes",
+      "image": "",
+      "lat": "-13.655526",
+      "lng": "-73.3867085",
+      "price": "25.00",
+      "title": "Pisco Acholado"
+    },{
+      "amount": 1,
+      "category": "Pisco",
+      "codProduct": 7,
+      "codeStore": "beb004",
+      "company": "Don Quilmes",
+      "image": "",
+      "lat": "-13.655526",
+      "lng": "-73.3867085",
+      "price": "25.00",
+      "title": "Pisco Acholado"
+    },{
+      "amount": 1,
+      "category": "Macerados",
+      "codProduct": 8,
+      "codeStore": "beb004",
+      "company": "Don Quilmes",
+      "image": "",
+      "lat": "-13.655526",
+      "lng": "-73.3867085",
+      "price": "20.00",
+      "title": "Macerado de Coca"
+    },{
+      "amount": 1,
+      "category": "Macerados",
+      "codProduct": 9,
+      "codeStore": "beb004",
+      "company": "Don Quilmes",
+      "image": "",
+      "lat": "-13.655526",
+      "lng": "-73.3867085",
+      "price": "20.00",
+      "title": "Macerado de Arandano"
+    },{
+      "amount": 1,
+      "category": "Macerados",
+      "codProduct": 10,
+      "codeStore": "beb004",
+      "company": "Don Quilmes",
+      "image": "",
+      "lat": "-13.655526",
+      "lng": "-73.3867085",
+      "price": "20.00",
+      "title": "Macerado de Matico con Eucalipto"
+    }],
     "bro001": [
       {
         "amount": 1,
@@ -26101,6 +26239,487 @@
         "title": "Agua mineral"
       }
     ],
+    "chi008":[{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 1,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "Chaufa con chancho"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 2,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "9.00",
+      "title": "Chaufa con carne"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 3,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "10.00",
+      "title": "Chaufa con pollo"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 4,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "11.00",
+      "title": "Combinado"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 5,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "10.00",
+      "title": "Aeropuerto"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 6,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "10.00",
+      "title": "Tipacay"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 7,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "10.00",
+      "title": "Pollo con chijaucay"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 8,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "14.00",
+      "title": "Pollo con durazno"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 9,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "Pollo con piña"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 10,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "Chancho con durazno"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 11,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "11.00",
+      "title": "Kanlu wantan"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 12,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "13.00",
+      "title": "Kanlu wantan de durazno"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 13,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "14.00",
+      "title": "Pollo con frutas"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 14,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "10.00",
+      "title": "Pollo al limon"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 15,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "13.00",
+      "title": "Alitas con verduras"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 16,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "13.00",
+      "title": "Alitas fritas"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 17,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "Sopa wantan de espantajo en salsa ostin"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 18,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "10.00",
+      "title": "Chancho con verduras"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 19,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "10.00",
+      "title": "Pollo con verduras"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 20,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "9.00",
+      "title": "Chaufa con verduras"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 21,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "Tortilla de verdura y chaufa"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 22,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "10.00",
+      "title": "Chancho con verdura"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 23,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "Tallarin con verdura"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 24,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "10.00",
+      "title": "Tallarin con carne"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 25,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "Tallarin con chancho"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 26,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "10.00",
+      "title": "Carne con verduras"
+    },{
+      "amount": 1,
+      "category": "Menu Chifa",
+      "codProduct": 27,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "Incluye sopa wantan",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "13.00",
+      "title": "Chaufa con pollo y salchicha"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 28,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "13.00",
+      "title": "Alitas fritas"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 29,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "1/8 Pollo broster"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 30,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "18.00",
+      "title": "1/4 Pollo broster"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 31,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "Tallarin saltado criollo"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 32,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "10.00",
+      "title": "Arroz a la cubana"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 33,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "Lomo saltado"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 34,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "Bistek"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 35,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "13.00",
+      "title": "Chicharron de pollo"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 36,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "13.00",
+      "title": "Pechuga a la parrilla"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 37,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "18.00",
+      "title": "Lomo a lo pobre"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 38,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "18.00",
+      "title": "Bistek a lo pobre"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 39,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "15.00",
+      "title": "Trucha frita"
+    },{
+      "amount": 1,
+      "category": "Menu Criollo",
+      "codProduct": 40,
+      "codeStore": "piz005",
+      "company": "Matias",
+      "description": "",
+      "image": "",
+      "lat": "-13.656649",
+      "lng": "-73.389191",
+      "price": "12.00",
+      "title": "Mostrito"
+    }],
     "chi500": [
       {
         "amount": 1,
@@ -45792,6 +46411,42 @@
         "lng": "-73.389191",
         "price": "25.00",
         "title": "Sangria Jarra"
+      },{
+        "amount": 1,
+        "category": "Combos",
+        "codProduct": 1863,
+        "codeStore": "piz005",
+        "company": "Matias",
+        "description": "1 Pizza familiar clasica + gaseosa 2L + broster + mostrito 1/8",
+        "image": "",
+        "lat": "-13.656649",
+        "lng": "-73.389191",
+        "price": "46.00",
+        "title": "Combo 1"
+      },{
+        "amount": 1,
+        "category": "Combos",
+        "codProduct": 1864,
+        "codeStore": "piz005",
+        "company": "Matias",
+        "description": "2 Pizza familiar clasica + gaseosa 2L + chaufa especial + pan al ajo personal",
+        "image": "",
+        "lat": "-13.656649",
+        "lng": "-73.389191",
+        "price": "75.00",
+        "title": "Combo 2"
+      },{
+        "amount": 1,
+        "category": "Combos",
+        "codProduct": 1865,
+        "codeStore": "piz005",
+        "company": "Matias",
+        "description": "Mostrito 1/8 + 1/2 jarra de maracuya + chaufa de pollo",
+        "image": "",
+        "lat": "-13.656649",
+        "lng": "-73.389191",
+        "price": "17.00",
+        "title": "Combo 3"
       }
     ],
     "piz006": [
@@ -53317,6 +53972,7 @@
     "jefferson_yoan12@hotmail.com",
     "briner_pablo@hotmail.com",
     "djhil11zeta@gmail.com",
-    "quispehuarcayarolands@gmail.com"
+    "quispehuarcayarolands@gmail.com",
+    "huaracahuamancristofer@hotmail.com"
   ]
 }
