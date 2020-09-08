@@ -3,7 +3,8 @@
     "anthonyjuarezsolis@gmail.com",
     "mirkopb96@gmail.com",
     "m5cxpvmxk9@privaterelay.appleid.com",
-    "denisrojas1028@gmail.com"
+    "denisrojas1028@gmail.com",
+    "briner_pablo@hotmail.com"
   ],
   "bebidas": [
     {
@@ -16,16 +17,10 @@
       "lat": "-13.6648212",
       "lng": "-73.4032917",
       "name": "Licoreria Casa Chava",
-<<<<<<< HEAD
-      "open": "00:00"
-    },{
-      "closed": "00:00",
-=======
       "open": "08:00"
     },
     {
       "closed": "12:00",
->>>>>>> e29e74e49da87e598268bb092c1180dc1831cbdb
       "codCard": "beb004",
       "description": "Andahuaylas",
       "horary": "8AM - 12PM",
@@ -34,7 +29,7 @@
       "lat": "-13.655526",
       "lng": "-73.3867085",
       "name": "Don Quilmes",
-      "open": "00:00"
+      "open": "08:00"
     },{
       "closed": "00:00",
       "codCard": "beb005",
@@ -248,14 +243,9 @@
       "name": "Chifa Kantong",
       "open": "00:00",
       "time": "40 - 50 min"
-<<<<<<< HEAD
-    },{
-      "closed": "00:00",
-=======
     },
     {
       "closed": "20:00",
->>>>>>> e29e74e49da87e598268bb092c1180dc1831cbdb
       "codCard": "chi008",
       "description": "Andahuaylas",
       "horary": "10AM - 8PM",
@@ -307,7 +297,7 @@
       "time": "40 - 50 min"
     }
   ],
-  "comida amazonica": [
+  "amazonía": [
     {
       "closed": "00:00",
       "codCard": "amaz001",
@@ -489,7 +479,7 @@
     {
       "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%205.png?alt=media&token=79da0286-3a12-4b7b-976c-78954bb0b93c",
       "subtitle": "Juanes, Tacachos",
-      "title": "Comida Amazonica"
+      "title": "Amazonía"
     },
     {
       "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%207.png?alt=media&token=3b9f7a72-eda2-40cc-bf1a-d98d4a1dc57a",
@@ -1025,13 +1015,8 @@
       "time": "40 - 50 min"
     },
     {
-<<<<<<< HEAD
-      "closed": "00:00",
-      "codCard": "pol008", 
-=======
       "closed": "20:00",
       "codCard": "pol008",
->>>>>>> e29e74e49da87e598268bb092c1180dc1831cbdb
       "description": "Andahuaylas",
       "horary": "6PM - 8PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2Fpollo008.jpg?alt=media&token=a6813cc2-a8a5-4ba0-b6a4-6d57e93164b3",
@@ -4753,722 +4738,6 @@
         "title": "Red Bull 250ml"
       }
     ],
-<<<<<<< HEAD
-    "beb004":[{
-      "amount": 1,
-      "category": "Vinos",
-      "codProduct": 1,
-      "codeStore": "beb004",
-      "company": "Don Quilmes",
-      "image": "https://cutt.ly/cfn0o78",
-      "lat": "-13.655526",
-      "lng": "-73.3867085",
-      "price": "14.00",
-      "title": "Vino Artesanal Borgoña"
-    },{
-      "amount": 1,
-      "category": "Vinos",
-      "codProduct": 2,
-      "codeStore": "beb004",
-      "company": "Don Quilmes",
-      "image": "https://cutt.ly/Sfn0aWc",
-      "lat": "-13.655526",
-      "lng": "-73.3867085",
-      "price": "14.00",
-      "title": "Vino de Higo"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 3,
-      "codeStore": "beb004",
-      "company": "Don Quilmes",
-      "image": "https://cutt.ly/nfn0a42",
-      "lat": "-13.655526",
-      "lng": "-73.3867085",
-      "price": "14.00",
-      "title": "Maracuya Sour con Pisco"
-    },{
-      "amount": 1,
-      "category": "Cremas",
-      "codProduct": 4,
-      "codeStore": "beb004",
-      "company": "Don Quilmes",
-      "image": "https://cutt.ly/Qfn0sPY",
-      "lat": "-13.655526",
-      "lng": "-73.3867085",
-      "price": "20.00",
-      "title": "Crema de Pisco con Cafe"
-    },{
-      "amount": 1,
-      "category": "Cremas",
-      "codProduct": 5,
-      "codeStore": "beb004",
-      "company": "Don Quilmes",
-      "image": "https://cutt.ly/ifn0dgq",
-      "lat": "-13.655526",
-      "lng": "-73.3867085",
-      "price": "20.00",
-      "title": "Crema de Pisco con Algarrobina"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 6,
-      "codeStore": "beb004",
-      "company": "Don Quilmes",
-      "image": "https://cutt.ly/Sfn0dZ4",
-      "lat": "-13.655526",
-      "lng": "-73.3867085",
-      "price": "25.00",
-      "title": "Pisco Acholado"
-    },
-    {
-      "amount": 1,
-      "category": "Macerados",
-      "codProduct": 7,
-      "codeStore": "beb004",
-      "company": "Don Quilmes",
-      "image": "https://cutt.ly/Afn0gvL",
-      "lat": "-13.655526",
-      "lng": "-73.3867085",
-      "price": "20.00",
-      "title": "Macerado de Coca"
-    },{
-      "amount": 1,
-      "category": "Macerados",
-      "codProduct": 8,
-      "codeStore": "beb004",
-      "company": "Don Quilmes",
-      "image": "https://cutt.ly/Jfn0g5V",
-      "lat": "-13.655526",
-      "lng": "-73.3867085",
-      "price": "20.00",
-      "title": "Macerado de Arandano"
-    },{
-      "amount": 1,
-      "category": "Macerados",
-      "codProduct": 9,
-      "codeStore": "beb004",
-      "company": "Don Quilmes",
-      "image": "https://cutt.ly/Ofn0hZN",
-      "lat": "-13.655526",
-      "lng": "-73.3867085",
-      "price": "20.00",
-      "title": "Macerado de Matico con Eucalipto"
-    }],
-    "beb005":[{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 1,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "10 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "11.00",
-      "title": "Lucky limon"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 2,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "20 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "21.00",
-      "title": "Lucky limon"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 3,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "10 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "11.00",
-      "title": "Lucky sandilla"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 4,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "20 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "21.00",
-      "title": "Lucky sandilla"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 5,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "10 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "11.00",
-      "title": "Lucky mora"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 6,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "20 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "21.00",
-      "title": "Lucky mora"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 7,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "10 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "11.00",
-      "title": "Lucky naranja"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 8,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "20 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "21.00",
-      "title": "Lucky naranja"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 9,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "10 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "8.50",
-      "title": "L&M"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 10,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "20 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "8.50",
-      "title": "L&M"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 11,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "20 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "3.50",
-      "title": "Golden verde"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 12,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "20 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "3.50",
-      "title": "Golden rojo"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 13,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "20 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "13.00",
-      "title": "Esse clasico"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 14,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "20 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "15.00",
-      "title": "Esse mora"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 15,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "10 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "10.00",
-      "title": "Malboro canela"
-    },{
-      "amount": 1,
-      "category": "Cigarros",
-      "codProduct": 16,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "16 unidades",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "14.00",
-      "title": "Nirvana canela"
-    },{
-      "amount": 1,
-      "category": "Cerveza",
-      "codProduct": 17,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "24.00",
-      "title": "Pilsen six pack"
-    },{
-      "amount": 1,
-      "category": "Cerveza",
-      "codProduct": 18,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "26.00",
-      "title": "Cusqueña trigo six pack"
-    },{
-      "amount": 1,
-      "category": "Cerveza",
-      "codProduct": 19,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "26.00",
-      "title": "Cusqueña negra six pack"
-    },{
-      "amount": 1,
-      "category": "Cerveza",
-      "codProduct": 20,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "28.00",
-      "title": "Corona six pack"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 21,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "750ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "31.00",
-      "title": "Havana club"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 22,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "700ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "20.00",
-      "title": "Emperador"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 23,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "700ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "22.00",
-      "title": "Calazan"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 24,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "750ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "28.00",
-      "title": "Cartavio selecto"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 25,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "750ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "33.00",
-      "title": "Flor de caña 4años"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 26,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "750ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "40.00",
-      "title": "Flor de caña 5años"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 27,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "1L",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "17.00",
-      "title": "Cabo blanco durazno"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 28,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "750ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "15.00",
-      "title": "Cabo blanco black"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 29,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "750ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "36.00",
-      "title": "Barcelo"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 30,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "750ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "26.00",
-      "title": "Medellin"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 31,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "1L",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "31.00",
-      "title": "Appleton"
-    },{
-      "amount": 1,
-      "category": "Ron",
-      "codProduct": 32,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "750ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "31.00",
-      "title": "Capitan morgan"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 33,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "30.00",
-      "title": "Pack Tabernero"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 34,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "700ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "26.00",
-      "title": "Tabernero botija botella"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 35,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "700ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "28.00",
-      "title": "Tabernero caja + shot"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 36,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "700ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "29.00",
-      "title": "Tabernero lata"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 37,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "750ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "27.00",
-      "title": "Queirolo"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 38,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "4L",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "110.00",
-      "title": "Queirolo"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 39,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "700ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "36.00",
-      "title": "4 gallos"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 40,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "4L",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "96.00",
-      "title": "Ocucaje"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 41,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "700ml",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "17.00",
-      "title": "Principe"
-    },{
-      "amount": 1,
-      "category": "Pisco",
-      "codProduct": 42,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "4L",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "95.00",
-      "title": "Ocucaje domajuana"
-    },{
-      "amount": 1,
-      "category": "Market",
-      "codProduct": 43,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "220gr",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "7.50",
-      "title": "Cheetos"
-    },{
-      "amount": 1,
-      "category": "Market",
-      "codProduct": 44,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "220gr",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "6.50",
-      "title": "Chizitos"
-    },{
-      "amount": 1,
-      "category": "Market",
-      "codProduct": 45,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "225gr",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "9.00",
-      "title": "Piqueo Snax"
-    },{
-      "amount": 1,
-      "category": "Market",
-      "codProduct": 46,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "124gr (cualquier sabor)",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "8.50",
-      "title": "Pringless"
-    },{
-      "amount": 1,
-      "category": "Market",
-      "codProduct": 47,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "180gr",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "9.00",
-      "title": "Papas Lays"
-    },{
-      "amount": 1,
-      "category": "Market",
-      "codProduct": 48,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "7.50",
-      "title": "Red Bull Energizante"
-    },{
-      "amount": 1,
-      "category": "Market",
-      "codProduct": 49,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "96gr",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "7.50",
-      "title": "Vizzio Bombon"
-    },{
-      "amount": 1,
-      "category": "Market",
-      "codProduct": 50,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "131gr",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "9.00",
-      "title": "Vizzio Grande"
-    },{
-      "amount": 1,
-      "category": "Market",
-      "codProduct": 51,
-      "codeStore": "beb005",
-      "company": "D'Bryan",
-      "description": "72gr",
-      "image": "",
-      "lat": "-13.6606257",
-      "lng": "-73.3916162",
-      "price": "4.50",
-      "title": "Vizzio Pequeño"
-    }],
-=======
     "beb004": [
       {
         "amount": 1,
@@ -5480,7 +4749,8 @@
         "lat": "-13.655526",
         "lng": "-73.3867085",
         "price": "14.00",
-        "title": "Vino Artesanal Borgoña"
+        "title": "Vino Artesanal Borgoña",
+        "description" : "A partir de 2 botellas el envio es gratis"
       },
       {
         "amount": 1,
@@ -5492,7 +4762,9 @@
         "lat": "-13.655526",
         "lng": "-73.3867085",
         "price": "14.00",
-        "title": "Vino de Higo"
+        "title": "Vino de Higo",
+        "description" : "A partir de 2 botellas el envio es gratis"
+
       },
       {
         "amount": 1,
@@ -5504,7 +4776,9 @@
         "lat": "-13.655526",
         "lng": "-73.3867085",
         "price": "14.00",
-        "title": "Maracuya Sour con Pisco"
+        "title": "Maracuya Sour con Pisco",
+        "description" : "A partir de 2 botellas el envio es gratis"
+ 
       },
       {
         "amount": 1,
@@ -5516,7 +4790,9 @@
         "lat": "-13.655526",
         "lng": "-73.3867085",
         "price": "20.00",
-        "title": "Crema de Pisco con Cafe"
+        "title": "Crema de Pisco con Cafe",
+        "description" : "A partir de 2 botellas el envio es gratis"
+
       },
       {
         "amount": 1,
@@ -5540,7 +4816,9 @@
         "lat": "-13.655526",
         "lng": "-73.3867085",
         "price": "25.00",
-        "title": "Pisco Acholado"
+        "title": "Pisco Acholado",
+        "description" : "A partir de 2 botellas el envio es gratis"
+
       },
       {
         "amount": 1,
@@ -5552,7 +4830,9 @@
         "lat": "-13.655526",
         "lng": "-73.3867085",
         "price": "20.00",
-        "title": "Macerado de Coca"
+        "title": "Macerado de Coca",
+        "description" : "A partir de 2 botellas el envio es gratis"
+
       },
       {
         "amount": 1,
@@ -5564,7 +4844,9 @@
         "lat": "-13.655526",
         "lng": "-73.3867085",
         "price": "20.00",
-        "title": "Macerado de Arandano"
+        "title": "Macerado de Arandano",
+        "description" : "A partir de 2 botellas el envio es gratis"
+
       },
       {
         "amount": 1,
@@ -5576,10 +4858,11 @@
         "lat": "-13.655526",
         "lng": "-73.3867085",
         "price": "20.00",
-        "title": "Macerado de Matico con Eucalipto"
+        "title": "Macerado de Matico con Eucalipto",
+        "description" : "A partir de 2 botellas el envio es gratis"
+
       }
     ],
->>>>>>> e29e74e49da87e598268bb092c1180dc1831cbdb
     "bro001": [
       {
         "amount": 1,
