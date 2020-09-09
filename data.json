@@ -8,7 +8,7 @@
   ],
   "bebidas": [
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "beb003",
       "description": "Andahuaylas",
       "horary": "8AM - 8PM",
@@ -20,7 +20,7 @@
       "open": "08:00"
     },
     {
-      "closed": "12:00",
+      "closed": "24:00",
       "codCard": "beb004",
       "description": "Andahuaylas",
       "horary": "8AM - 12PM",
@@ -45,7 +45,7 @@
   ],
   "cafés": [
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "caf004",
       "description": "Andahuaylas",
       "horary": "8AM - 9PM",
@@ -54,11 +54,11 @@
       "lat": "-13.6568318",
       "lng": "-73.3895528",
       "name": "D'Marce",
-      "open": "00:00",
+      "open": "08:00",
       "time": "35 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "caf008",
       "description": "Andahuaylas",
       "horary": "8AM - 8PM",
@@ -67,11 +67,11 @@
       "lat": "-13.6565615",
       "lng": "-73.3864404",
       "name": "San Roque",
-      "open": "00:00",
+      "open": "08:00",
       "time": "30 - 40 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "caf006",
       "description": "San Jerónimo",
       "horary": "3PM - 9:50PM",
@@ -80,13 +80,13 @@
       "lat": "-13.649923",
       "lng": "-73.364391",
       "name": "Coffee Luwak",
-      "open": "00:00",
+      "open": "15:00",
       "time": "40 - 50 min"
     }
   ],
   "calderías": [
     {
-      "closed": "00:00",
+      "closed": "14:00",
       "codCard": "cal002",
       "description": "Andahuaylas",
       "horary": "8AM - 2PM",
@@ -95,11 +95,11 @@
       "lat": "-13.656376",
       "lng": "-73.382767",
       "name": "La Cusqueñita",
-      "open": "00:00",
+      "open": "08:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "cal003",
       "description": "Andahuaylas",
       "horary": "6:30AM - 8PM",
@@ -108,10 +108,10 @@
       "lat": "-13.6578213",
       "lng": "-73.3882523",
       "name": "El Corderito",
-      "open": "00:00",
+      "open": "6:00",
       "time": "40 - 50 min"
     },{
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "cal004",
       "description": "Andahuaylas",
       "horary": "4AM - 9:30PM",
@@ -120,26 +120,24 @@
       "lat": "-13.6560983",
       "lng": "-73.3886954",
       "name": "Calderia Misky",
-      "open": "00:00",
+      "open": "4:00",
       "time": "40 - 50 min"
     }
   ],
   "cevicherías": [
     {
-      "closed": "00:00",
+      "closed": "17:00",
       "codCard": "cev004",
       "description": "Andahuaylas",
       "horary": "8AM - 5PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicherias%2Fcev004.jpeg?alt=media&token=a61d63d2-25f8-41ba-a266-1e21fa35e987",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicher%C3%ADas%20closed%2Fcev004-01.jpeg?alt=media&token=caec0320-b2d4-4c37-8834-cabebecfbfff",
-      "lat": "",
-      "lng": "",
       "name": "Armonia de Sabores",
-      "open": "00:00",
+      "open": "08s:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "16:00",
       "codCard": "cev001",
       "description": "Andahuaylas",
       "horary": "9AM - 4PM",
@@ -148,11 +146,11 @@
       "lat": "-13.663634",
       "lng": "-73.406601",
       "name": "D'Loa",
-      "open": "00:00",
+      "open": "09:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "16:00",
       "codCard": "cev005",
       "description": "San Jerónimo",
       "horary": "10AM - 3PM",
@@ -161,11 +159,11 @@
       "lat": "-13.649935",
       "lng": "-73.365216",
       "name": "El Limoncito",
-      "open": "00:00",
+      "open": "10:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "15:00",
       "codCard": "cev010",
       "description": "Andahuaylas",
       "horary": "10AM - 3PM",
@@ -174,11 +172,11 @@
       "lat": "-13.6579849",
       "lng": "-73.3837551",
       "name": "Los 3 Rocotos",
-      "open": "00:00",
+      "open": "10:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "16:00",
       "codCard": "cev009",
       "description": "Curibamba",
       "horary": "9AM - 4PM",
@@ -187,13 +185,13 @@
       "lat": "-13.6637608",
       "lng": "-73.4010446",
       "name": "Qari Mar",
-      "open": "00:00",
+      "open": "09:00",
       "time": "40 - 50 min"
     }
   ],
   "chifas": [
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "chi006",
       "description": "Andahuaylas",
       "horary": "10AM - 10PM",
@@ -202,11 +200,11 @@
       "lat": "-13.655221",
       "lng": "-73.388423",
       "name": "Chifa Chino",
-      "open": "00:00",
+      "open": "10:00",
       "time": "35 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "chi003",
       "description": "Andahuaylas",
       "horary": "12PM - 8PM",
@@ -215,11 +213,11 @@
       "lat": "-13.658882",
       "lng": "-73.389081",
       "name": "Mendoza Wok",
-      "open": "00:00",
+      "open": "12:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "chi004",
       "description": "Andahuaylas",
       "horary": "8AM - 8PM",
@@ -228,20 +226,20 @@
       "lat": "-13.657472",
       "lng": "-73.388249",
       "name": "El Dragon",
-      "open": "00:00",
+      "open": "08:00",
       "time": "20 - 35 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "chi007",
       "description": "Andahuaylas",
-      "horary": "10:30PM - 8PM",
+      "horary": "10:30AM - 8PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/chifas%2FChifa%20kantong.png?alt=media&token=637a0fe3-41e3-4d8e-9ca4-584e5f8cd647",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/chifas%20closed%2FChifa%20kantong_closed.png?alt=media&token=98645079-7c8a-4d6e-852c-63d0937a2a8b",
       "lat": "-13.6570033",
       "lng": "-73.3891073",
       "name": "Chifa Kantong",
-      "open": "00:00",
+      "open": "10:00",
       "time": "40 - 50 min"
     },
     {
@@ -254,11 +252,11 @@
       "lat": "-13.656649",
       "lng": "-73.389191",
       "name": "Matias",
-      "open": "00:00",
+      "open": "10:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "chi001",
       "description": "Andahuaylas",
       "horary": "11:30AM - 10PM",
@@ -267,11 +265,11 @@
       "lat": "-13.655221",
       "lng": "-73.388423",
       "name": "Chun Yon Sen",
-      "open": "00:00",
+      "open": "12:00",
       "time": "35 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "chi002",
       "description": "Andahuaylas",
       "horary": "12PM - 10PM",
@@ -280,11 +278,11 @@
       "lat": "-13.656392",
       "lng": "-73.384386",
       "name": "Chifa Milena",
-      "open": "00:00",
+      "open": "12:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "chi005",
       "description": "Andahuaylas",
       "horary": "11AM - 8PM",
@@ -293,13 +291,13 @@
       "lat": "-13.6560581",
       "lng": "-73.3900559",
       "name": "Iguana Grill",
-      "open": "00:00",
+      "open": "11:00",
       "time": "40 - 50 min"
     }
   ],
   "amazonía": [
     {
-      "closed": "00:00",
+      "closed": "18:00",
       "codCard": "amaz001",
       "description": "Andahuaylas",
       "horary": "10AM - 6PM",
@@ -308,7 +306,7 @@
       "lat": "-13.6627131",
       "lng": "-73.4021843",
       "name": "El Tambo del Ñañito",
-      "open": "00:00",
+      "open": "10:00",
       "time": "40 - 50 min"
     }
   ],
@@ -327,29 +325,29 @@
       "time": "30 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "bro003",
       "description": "Andahuaylas",
       "horary": "1:30PM - 10PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fbro003.jpg?alt=media&token=eb068cd1-94eb-413e-bdf1-bbe7e0676adb",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fbro003_closed.jpg?alt=media&token=0fd484ff-38e9-4caf-b598-9ccf8fbead65",
       "name": "Lucero",
-      "open": "00:00",
+      "open": "13:30",
       "time": "30 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "bro002",
       "description": "Andahuaylas",
       "horary": "2:00PM - 9:50PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fbro002.jpg?alt=media&token=5eaeb47c-a0e6-469b-b35b-7c2af5c85ecf",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fbro002_closed.jpg?alt=media&token=ec09291a-2dfd-48f6-96da-81cc81f33e62",
       "name": "Burger Queen",
-      "open": "00:00",
+      "open": "14:00",
       "time": "35 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "bro007",
       "description": "Andahuaylas",
       "horary": "12PM - 8PM",
@@ -358,11 +356,11 @@
       "lat": "-13.655654",
       "lng": "-73.388766",
       "name": "Hakuna Matata",
-      "open": "00:00",
+      "open": "12:00",
       "time": "30 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "21:00",
       "codCard": "bro008",
       "description": "Andahuaylas",
       "horary": "3PM - 9PM",
@@ -371,22 +369,22 @@
       "lat": "-13.6606",
       "lng": "-73.3867",
       "name": "Buguie Burguer",
-      "open": "00:00",
+      "open": "15:00",
       "time": "30 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "bro001",
       "description": "Andahuaylas",
       "horary": "4:30PM - 10PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fbro001.jpg?alt=media&token=45da3c96-60cb-482a-a304-7c6a58e4241a",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fbro001__01.jpg?alt=media&token=5d44bff9-98be-4c35-ad65-53a8f665a28a",
       "name": "Memo's Burger",
-      "open": "00:00",
+      "open": "16:30",
       "time": "30 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "bro004",
       "description": "Andahuaylas",
       "horary": "10AM - 8PM",
@@ -395,7 +393,7 @@
       "lat": "-13.653872",
       "lng": "-73.428660",
       "name": "La Salchipapera",
-      "open": "00:00",
+      "open": "10:00",
       "time": "30 - 45 min"
     },
     {
@@ -414,7 +412,7 @@
   ],
   "helados": [
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "hel001",
       "description": "Andahuaylas",
       "horary": "1:30PM - 10PM",
@@ -423,7 +421,7 @@
       "lat": "-13.653872",
       "lng": "-73.428660",
       "name": "La Salchipapera",
-      "open": "00:00",
+      "open": "13:00",
       "time": "30 - 45 min"
     }
   ],
@@ -504,7 +502,7 @@
   ],
   "makis": [
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "mak001",
       "description": "Andahuaylas",
       "horary": "11AM - 8PM",
@@ -513,11 +511,11 @@
       "lat": "-13.6560581",
       "lng": "-73.3900559",
       "name": "Iguana Grill",
-      "open": "00:00",
+      "open": "11:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "16:00",
       "codCard": "mak002",
       "description": "Andahuaylas",
       "horary": "9AM - 4PM",
@@ -526,13 +524,13 @@
       "lat": "-13.663634",
       "lng": "-73.406601",
       "name": "D'Loa",
-      "open": "00:00",
+      "open": "09:00",
       "time": "40 - 50 min"
     }
   ],
   "master food +": [
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "mas001",
       "description": "Andahuaylas",
       "horary": "9AM - 8PM",
@@ -541,13 +539,13 @@
       "lat": "-13.6661312",
       "lng": "-73.3956855",
       "name": "Iclub Peru",
-      "open": "00:00",
+      "open": "08:00",
       "time": "20 - 30 min"
     }
   ],
   "minimarkets": [
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "min002",
       "description": "Andahuaylas",
       "horary": "9AM - 8PM",
@@ -556,7 +554,7 @@
       "lat": "-13.6564198",
       "lng": "-73.3846719",
       "name": "MiMarket",
-      "open": "00:00",
+      "open": "09:00",
       "time": "45 - 50 min"
     },
     {
@@ -574,6 +572,10 @@
     }
   ],
   "numeros": [
+    {
+      "local": "Chifa Milena",
+      "number": 983662301
+    },
     {
       "local": "D'Bryan",
       "number": 920554394
@@ -805,7 +807,7 @@
   ],
   "pizzerias": [
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "piz005",
       "description": "Andahuaylas",
       "horary": "10AM - 8PM",
@@ -814,11 +816,11 @@
       "lat": "-13.656649",
       "lng": "-73.389191",
       "name": "Matias",
-      "open": "00:00",
+      "open": "10:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "piz004",
       "description": "Andahuaylas",
       "horary": "1PM - 8PM",
@@ -827,11 +829,11 @@
       "lat": "-13.6516287",
       "lng": "-73.3650569",
       "name": "Pizza Express",
-      "open": "00:00",
+      "open": "13:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "piz007",
       "description": "Andahuaylas",
       "horary": "2PM - 8PM",
@@ -840,11 +842,11 @@
       "lat": "-13.658852",
       "lng": "-73.399786",
       "name": " Franchesco Pizzeria",
-      "open": "00:00",
+      "open": "14:00",
       "time": "30 - 40 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "piz006",
       "description": "Andahuaylas",
       "horary": "5PM - 8PM",
@@ -853,11 +855,11 @@
       "lat": "-13.6661312",
       "lng": "-73.3956855",
       "name": "Hot Pizza",
-      "open": "00:00",
+      "open": "17:00",
       "time": "30 - 40 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "piz001",
       "description": "Andahuaylas",
       "horary": "5PM - 10PM",
@@ -866,11 +868,11 @@
       "lat": "-13.656674",
       "lng": "-73.388501",
       "name": "Venecia",
-      "open": "00:00",
+      "open": "17:00",
       "time": "60 - 120 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "piz002",
       "description": "Andahuaylas",
       "horary": "6PM - 8PM",
@@ -879,11 +881,11 @@
       "lat": "-13.655940",
       "lng": "-73.385522",
       "name": "Hornito",
-      "open": "00:00",
+      "open": "18:00",
       "time": "35 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "piz008",
       "description": "Andahuaylas",
       "horary": "4PM - 10PM",
@@ -892,13 +894,13 @@
       "lat": "-13.6561279",
       "lng": "-73.388704",
       "name": "IL Gatto",
-      "open": "00:00",
+      "open": "16:00",
       "time": "35 - 45 min"
     }
   ],
   "pollerias": [
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "pol002",
       "description": "Andahuaylas",
       "horary": "4PM - 10PM",
@@ -907,11 +909,11 @@
       "lat": "-13.656479",
       "lng": "-73.384285",
       "name": "Super Gallo",
-      "open": "00:00",
+      "open": "16:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "pol011",
       "description": "Andahuaylas",
       "horary": "5PM - 10PM",
@@ -920,11 +922,11 @@
       "lat": "-13.656050",
       "lng": "-73.388953",
       "name": "Mi Pollo Loco",
-      "open": "00:00",
+      "open": "17:00",
       "time": "35 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "21:00",
       "codCard": "pol012",
       "description": "Andahuaylas",
       "horary": "10AM - 9PM",
@@ -933,11 +935,11 @@
       "lat": "-13.6576136",
       "lng": "-73.3850035",
       "name": "El Tio Beto",
-      "open": "00:00",
+      "open": "10:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "pol004",
       "description": "Andahuaylas",
       "horary": "6PM - 10PM",
@@ -946,11 +948,11 @@
       "lat": "-13.656520",
       "lng": "-73.389524",
       "name": "Don Jose",
-      "open": "00:00",
+      "open": "18:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "21:00",
       "codCard": "pol006",
       "description": "Andahuaylas - Lampa de Oro",
       "horary": "1PM - 9PM",
@@ -959,11 +961,11 @@
       "lat": "-13.656510",
       "lng": "-73.383944",
       "name": "La Nueva Casona",
-      "open": "00:00",
+      "open": "13:00",
       "time": "30 - 40 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "pol007",
       "description": "Andahuaylas",
       "horary": "11AM - 8PM",
@@ -972,11 +974,11 @@
       "lat": "-13.660219",
       "lng": "-73.382988",
       "name": "El Zorro",
-      "open": "00:00",
+      "open": "11:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "pol014",
       "description": "San Jerónimo",
       "horary": "3PM - 8PM",
@@ -985,11 +987,11 @@
       "lat": "-13.6590422",
       "lng": "-73.3520112",
       "name": "Chicken King",
-      "open": "00:00",
+      "open": "15:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "pol003",
       "description": "San Jerónimo",
       "horary": "5PM - 8PM",
@@ -998,11 +1000,11 @@
       "lat": "-13.6517328",
       "lng": "-73.3659553",
       "name": "La Plaza",
-      "open": "00:00",
+      "open": "17:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "pol009",
       "description": "Andahuaylas",
       "horary": "5PM - 10PM",
@@ -1011,7 +1013,7 @@
       "lat": "-13.657562",
       "lng": "-73.386713",
       "name": "Pico de Oro",
-      "open": "00:00",
+      "open": "17:00",
       "time": "40 - 50 min"
     },
     {
@@ -1024,7 +1026,7 @@
       "lat": "-13.659002",
       "lng": "-73.389557",
       "name": "Tuc Tuc",
-      "open": "00:00",
+      "open": "18:00",
       "time": "30 - 40 min"
     }
   ],
@@ -4775,7 +4777,7 @@
         "image": "https://cutt.ly/nfn0a42",
         "lat": "-13.655526",
         "lng": "-73.3867085",
-        "price": "14.00",
+        "price": "18.00",
         "title": "Maracuya Sour con Pisco",
         "description" : "A partir de 2 botellas el envio es gratis"
  
@@ -5921,7 +5923,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "15.00",
-        "title": "Alitas broster crocante 8 piezas"
+        "title": "Crocante 8 piezas"
       },
       {
         "amount": 1,
@@ -5934,7 +5936,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "16.00",
-        "title": "Alitas broster crocante picante 8 piezas"
+        "title": "Crocante picante 8 piezas"
       },
       {
         "amount": 1,
@@ -54642,7 +54644,7 @@
   },
   "recreos": [
     {
-      "closed": "00:00",
+      "closed": "16:00",
       "codCard": "rec006",
       "description": "Curibamba",
       "horary": "10AM - 4PM",
@@ -54651,11 +54653,11 @@
       "lat": "-13.664546",
       "lng": "-73.413894",
       "name": "Sabores Andinos",
-      "open": "00:00",
+      "open": "10:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "15:00",
       "codCard": "rec011",
       "description": "Andahuaylas",
       "horary": "11:30AM - 3PM",
@@ -54664,11 +54666,11 @@
       "lat": "-13.6575685",
       "lng": "-73.3778505",
       "name": "El Perolito",
-      "open": "00:00",
+      "open": "11:30",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "17:00",
       "codCard": "rec009",
       "description": "Andahuaylas",
       "horary": "11AM - 5PM",
@@ -54677,11 +54679,11 @@
       "lat": "-13.6608774",
       "lng": "-73.3832314",
       "name": "Puma de Piedra",
-      "open": "00:00",
+      "open": "11:00",
       "time": "50 - 60 min"
     },
     {
-      "closed": "00:00",
+      "closed": "16:00",
       "codCard": "rec003",
       "description": "Talavera",
       "horary": "11AM - 4PM",
@@ -54690,11 +54692,11 @@
       "lat": "-13.659070",
       "lng": "-73.435178",
       "name": "Huallpar",
-      "open": "00:00",
+      "open": "11:00",
       "time": "60 - 120 min"
     },
     {
-      "closed": "00:00",
+      "closed": "16:00",
       "codCard": "rec007",
       "description": "Curibamba",
       "horary": "11AM - 4PM",
@@ -54703,11 +54705,11 @@
       "lat": "-13.664806",
       "lng": "-73.414205",
       "name": "La Tullpa",
-      "open": "00:00",
+      "open": "11:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "18:00",
       "codCard": "rec010",
       "description": "San Jeronimo",
       "horary": "11AM - 5PM",
@@ -54716,11 +54718,11 @@
       "lat": "-13.6617282",
       "lng": "-73.3511344",
       "name": "Recreo Chispita",
-      "open": "00:00",
+      "open": "11:00",
       "time": "60 - 120 min"
     },
     {
-      "closed": "00:00",
+      "closed": "17:00",
       "codCard": "rec008",
       "description": "Curibamba",
       "horary": "9AM - 5PM",
@@ -54729,11 +54731,11 @@
       "lat": "-13.664673",
       "lng": "-73.410746",
       "name": "Los Chullos",
-      "open": "00:00",
+      "open": "09:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "15:00",
       "codCard": "rec002",
       "description": "Curibamba",
       "horary": "10AM - 3PM",
@@ -54742,11 +54744,11 @@
       "lat": "-13.666157",
       "lng": "-73.411116",
       "name": "Mankora",
-      "open": "00:00",
+      "open": "10:00",
       "time": "50 - 60 min"
     },
     {
-      "closed": "00:00",
+      "closed": "17:00",
       "codCard": "rec001",
       "description": "Andahuaylas",
       "horary": "9AM - 5PM",
@@ -54755,11 +54757,11 @@
       "lat": "-13.660311",
       "lng": "-73.382634",
       "name": "Vista Alegre",
-      "open": "00:00",
+      "open": "09:00",
       "time": "50 - 60 min"
     },
     {
-      "closed": "00:00",
+      "closed": "16:00",
       "codCard": "rec005",
       "description": "Andahuaylas",
       "horary": "12PM - 4PM",
@@ -54768,7 +54770,7 @@
       "lat": "-13.6570592",
       "lng": "-73.3743746",
       "name": "El Rincon del Gato",
-      "open": "00:00",
+      "open": "12:00",
       "time": "40 - 50 min"
     }
   ],
