@@ -30,7 +30,8 @@
       "lng": "-73.3867085",
       "name": "Don Quilmes",
       "open": "08:00"
-    },{
+    },
+    {
       "closed": "00:00",
       "codCard": "beb005",
       "description": "Andahuaylas",
@@ -110,7 +111,8 @@
       "name": "El Corderito",
       "open": "6:00",
       "time": "40 - 50 min"
-    },{
+    },
+    {
       "closed": "22:00",
       "codCard": "cal004",
       "description": "Andahuaylas",
@@ -4753,7 +4755,7 @@
         "lng": "-73.3867085",
         "price": "14.00",
         "title": "Vino Artesanal Borgoña",
-        "description" : "A partir de 2 botellas el envio es gratis"
+        "description": "A partir de 2 botellas el envio es gratis"
       },
       {
         "amount": 1,
@@ -4766,8 +4768,7 @@
         "lng": "-73.3867085",
         "price": "14.00",
         "title": "Vino de Higo",
-        "description" : "A partir de 2 botellas el envio es gratis"
-
+        "description": "A partir de 2 botellas el envio es gratis"
       },
       {
         "amount": 1,
@@ -4780,8 +4781,7 @@
         "lng": "-73.3867085",
         "price": "18.00",
         "title": "Maracuya Sour con Pisco",
-        "description" : "A partir de 2 botellas el envio es gratis"
- 
+        "description": "A partir de 2 botellas el envio es gratis"
       },
       {
         "amount": 1,
@@ -4794,8 +4794,7 @@
         "lng": "-73.3867085",
         "price": "20.00",
         "title": "Crema de Pisco con Cafe",
-        "description" : "A partir de 2 botellas el envio es gratis"
-
+        "description": "A partir de 2 botellas el envio es gratis"
       },
       {
         "amount": 1,
@@ -4820,8 +4819,7 @@
         "lng": "-73.3867085",
         "price": "25.00",
         "title": "Pisco Acholado",
-        "description" : "A partir de 2 botellas el envio es gratis"
-
+        "description": "A partir de 2 botellas el envio es gratis"
       },
       {
         "amount": 1,
@@ -4834,8 +4832,7 @@
         "lng": "-73.3867085",
         "price": "20.00",
         "title": "Macerado de Coca",
-        "description" : "A partir de 2 botellas el envio es gratis"
-
+        "description": "A partir de 2 botellas el envio es gratis"
       },
       {
         "amount": 1,
@@ -4848,8 +4845,7 @@
         "lng": "-73.3867085",
         "price": "20.00",
         "title": "Macerado de Arandano",
-        "description" : "A partir de 2 botellas el envio es gratis"
-
+        "description": "A partir de 2 botellas el envio es gratis"
       },
       {
         "amount": 1,
@@ -4862,8 +4858,7 @@
         "lng": "-73.3867085",
         "price": "20.00",
         "title": "Macerado de Matico con Eucalipto",
-        "description" : "A partir de 2 botellas el envio es gratis"
-
+        "description": "A partir de 2 botellas el envio es gratis"
       }
     ],
     "bro001": [
@@ -12891,7 +12886,8 @@
         "lng": "-73.3886954",
         "price": "6.00",
         "title": "Caldo de fideos"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Platos a la Carta",
         "codProduct": 2,
@@ -12903,7 +12899,8 @@
         "lng": "-73.3886954",
         "price": "8.00",
         "title": "Caldo de fideos"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Platos a la Carta",
         "codProduct": 3,
@@ -12915,7 +12912,8 @@
         "lng": "-73.3886954",
         "price": "7.00",
         "title": "Caldo de arroz"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Platos a la Carta",
         "codProduct": 4,
@@ -12927,7 +12925,8 @@
         "lng": "-73.3886954",
         "price": "9.00",
         "title": "Caldo de arroz"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Platos a la Carta",
         "codProduct": 5,
@@ -12939,7 +12938,8 @@
         "lng": "-73.3886954",
         "price": "10.00",
         "title": "Anticucho de corazon"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Platos a la Carta",
         "codProduct": 6,
@@ -12951,7 +12951,8 @@
         "lng": "-73.3886954",
         "price": "10.00",
         "title": "Brocheta de pollo"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Platos a la Carta",
         "codProduct": 7,
@@ -12963,7 +12964,8 @@
         "lng": "-73.3886954",
         "price": "15.00",
         "title": "Lomo fino a la parrilla"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Platos a la Carta",
         "codProduct": 8,
@@ -12975,7 +12977,8 @@
         "lng": "-73.3886954",
         "price": "20.00",
         "title": "Lomo fino especial"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Platos a la Carta",
         "codProduct": 9,
@@ -12987,7 +12990,8 @@
         "lng": "-73.3886954",
         "price": "10.00",
         "title": "Pollo a la parrilla"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Platos a la Carta",
         "codProduct": 10,
@@ -12999,7 +13003,8 @@
         "lng": "-73.3886954",
         "price": "13.00",
         "title": "Rachi a la parrilla"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Platos a la Carta",
         "codProduct": 11,
@@ -13011,7 +13016,8 @@
         "lng": "-73.3886954",
         "price": "9.00",
         "title": "Tortilla de verduras con chaufa"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Hamburguesas",
         "codProduct": 12,
@@ -13023,7 +13029,8 @@
         "lng": "-73.3886954",
         "price": "5.00",
         "title": "Hamburguesa clasica"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Hamburguesas",
         "codProduct": 13,
@@ -13061,7 +13068,8 @@
         "lng": "-73.3886954",
         "price": "10.00",
         "title": "Anticucho de corazon"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Extras",
         "codProduct": 16,
@@ -13073,7 +13081,8 @@
         "lng": "-73.3886954",
         "price": "10.00",
         "title": "Chorizo"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Extras",
         "codProduct": 17,
@@ -13085,7 +13094,8 @@
         "lng": "-73.3886954",
         "price": "1.00",
         "title": "Queso"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Extras",
         "codProduct": 18,
@@ -13097,7 +13107,8 @@
         "lng": "-73.3886954",
         "price": "1.00",
         "title": "Platano"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Extras",
         "codProduct": 19,
@@ -13109,7 +13120,8 @@
         "lng": "-73.3886954",
         "price": "1.00",
         "title": "Huevo"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Extras",
         "codProduct": 20,
@@ -13121,7 +13133,8 @@
         "lng": "-73.3886954",
         "price": "2.00",
         "title": "Porcion de arroz"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Licores",
         "codProduct": 21,
@@ -13133,7 +13146,8 @@
         "lng": "-73.3886954",
         "price": "35.00",
         "title": "Vino concha de toro"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Licores",
         "codProduct": 22,
@@ -13145,7 +13159,8 @@
         "lng": "-73.3886954",
         "price": "35.00",
         "title": "Vino tinto"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Licores",
         "codProduct": 23,
@@ -13157,7 +13172,8 @@
         "lng": "-73.3886954",
         "price": "25.00",
         "title": "Vino queirolo"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Licores",
         "codProduct": 24,
@@ -13169,7 +13185,8 @@
         "lng": "-73.3886954",
         "price": "30.00",
         "title": "Vino borgoña"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Licores",
         "codProduct": 25,
@@ -13181,7 +13198,8 @@
         "lng": "-73.3886954",
         "price": "6.00",
         "title": "Cerveza chica"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Licores",
         "codProduct": 26,
@@ -13193,7 +13211,8 @@
         "lng": "-73.3886954",
         "price": "6.00",
         "title": "Cerveza negra chica"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Gaseosas",
         "codProduct": 27,
@@ -13205,7 +13224,8 @@
         "lng": "-73.3886954",
         "price": "5.00",
         "title": "Inka cola 1L"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Gaseosas",
         "codProduct": 28,
@@ -13217,7 +13237,8 @@
         "lng": "-73.3886954",
         "price": "5.00",
         "title": "Coca cola 1L"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Gaseosas",
         "codProduct": 29,
@@ -13229,7 +13250,8 @@
         "lng": "-73.3886954",
         "price": "2.00",
         "title": "Inka cola personal"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Gaseosas",
         "codProduct": 30,
@@ -13241,7 +13263,8 @@
         "lng": "-73.3886954",
         "price": "2.00",
         "title": "Coca cola personal"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Gaseosas",
         "codProduct": 31,
@@ -13253,7 +13276,8 @@
         "lng": "-73.3886954",
         "price": "2.00",
         "title": "Fanta personal"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Refrescos",
         "codProduct": 32,
@@ -13265,7 +13289,8 @@
         "lng": "-73.3886954",
         "price": "5.00",
         "title": "Limonada"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Refrescos",
         "codProduct": 33,
@@ -13277,7 +13302,8 @@
         "lng": "-73.3886954",
         "price": "5.00",
         "title": "Maracuya"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Refrescos",
         "codProduct": 34,
@@ -13289,7 +13315,8 @@
         "lng": "-73.3886954",
         "price": "5.00",
         "title": "Caranbola"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Infusiones",
         "codProduct": 35,
@@ -13301,7 +13328,8 @@
         "lng": "-73.3886954",
         "price": "2.00",
         "title": "Anis"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Infusiones",
         "codProduct": 36,
@@ -13313,7 +13341,8 @@
         "lng": "-73.3886954",
         "price": "2.00",
         "title": "Manzanilla"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Infusiones",
         "codProduct": 37,
