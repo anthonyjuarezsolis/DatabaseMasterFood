@@ -312,27 +312,29 @@
   ],
   "fast food": [
     {
-      "closed": "00:00",
-      "codCard": "bro005",
+      "closed": "21:00",
+      "codCard": "bro008",
       "description": "Andahuaylas",
-      "horary": "12PM - 8PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fandres.jpg?alt=media&token=6fadeb50-3025-4993-8316-53661f0ded2a",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fandres_closed.jpg?alt=media&token=9b6ee089-bd2c-4acd-9e6a-d670d25b678a",
-      "lat": "-13.658882",
-      "lng": "-73.389081",
-      "name": "Andres Burguer",
-      "open": "00:00",
+      "horary": "3PM - 9PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FBuguie%20burguer.png?alt=media&token=48e95db3-2927-4c08-a7a6-b2216dad67a1",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2FBuguie%20burguer_closed.png?alt=media&token=9ca2fa44-031f-4733-9ee3-c13641b113f5",
+      "lat": "-13.6606",
+      "lng": "-73.3867",
+      "name": "Buguie Burguer",
+      "open": "15:00",
       "time": "30 - 45 min"
     },
     {
       "closed": "22:00",
-      "codCard": "bro003",
+      "codCard": "bro004",
       "description": "Andahuaylas",
-      "horary": "1:30PM - 10PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fbro003.jpg?alt=media&token=eb068cd1-94eb-413e-bdf1-bbe7e0676adb",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fbro003_closed.jpg?alt=media&token=0fd484ff-38e9-4caf-b598-9ccf8fbead65",
-      "name": "Lucero",
-      "open": "13:30",
+      "horary": "10AM - 9:45PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FLa%20salchipapera.jpeg?alt=media&token=8dc76867-be9c-4ba6-983c-e623c6866a2f",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2FLa%20salchipapera_closed.jpeg?alt=media&token=f164e91f-c969-42eb-9d1e-edd4a4c0ef25",
+      "lat": "-13.653872",
+      "lng": "-73.428660",
+      "name": "La Salchipapera",
+      "open": "10:00",
       "time": "30 - 45 min"
     },
     {
@@ -345,6 +347,28 @@
       "name": "Burger Queen",
       "open": "14:00",
       "time": "35 - 45 min"
+    },
+    {
+      "closed": "22:00",
+      "codCard": "bro001",
+      "description": "Andahuaylas",
+      "horary": "4:30PM - 10PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fbro001.jpg?alt=media&token=45da3c96-60cb-482a-a304-7c6a58e4241a",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fbro001__01.jpg?alt=media&token=5d44bff9-98be-4c35-ad65-53a8f665a28a",
+      "name": "Memo's Burger",
+      "open": "16:30",
+      "time": "30 - 45 min"
+    },
+    {
+      "closed": "22:00",
+      "codCard": "bro003",
+      "description": "Andahuaylas",
+      "horary": "1:30PM - 10PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fbro003.jpg?alt=media&token=eb068cd1-94eb-413e-bdf1-bbe7e0676adb",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fbro003_closed.jpg?alt=media&token=0fd484ff-38e9-4caf-b598-9ccf8fbead65",
+      "name": "Lucero",
+      "open": "13:30",
+      "time": "30 - 45 min"
     },
     {
       "closed": "20:00",
@@ -360,43 +384,6 @@
       "time": "30 - 45 min"
     },
     {
-      "closed": "21:00",
-      "codCard": "bro008",
-      "description": "Andahuaylas",
-      "horary": "3PM - 9PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FBuguie%20burguer.png?alt=media&token=48e95db3-2927-4c08-a7a6-b2216dad67a1",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2FBuguie%20burguer_closed.png?alt=media&token=9ca2fa44-031f-4733-9ee3-c13641b113f5",
-      "lat": "-13.6606",
-      "lng": "-73.3867",
-      "name": "Buguie Burguer",
-      "open": "15:00",
-      "time": "30 - 45 min"
-    },
-    {
-      "closed": "22:00",
-      "codCard": "bro001",
-      "description": "Andahuaylas",
-      "horary": "4:30PM - 10PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fbro001.jpg?alt=media&token=45da3c96-60cb-482a-a304-7c6a58e4241a",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fbro001__01.jpg?alt=media&token=5d44bff9-98be-4c35-ad65-53a8f665a28a",
-      "name": "Memo's Burger",
-      "open": "16:30",
-      "time": "30 - 45 min"
-    },
-    {
-      "closed": "20:00",
-      "codCard": "bro004",
-      "description": "Andahuaylas",
-      "horary": "10AM - 8PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FLa%20salchipapera.jpeg?alt=media&token=8dc76867-be9c-4ba6-983c-e623c6866a2f",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2FLa%20salchipapera_closed.jpeg?alt=media&token=f164e91f-c969-42eb-9d1e-edd4a4c0ef25",
-      "lat": "-13.653872",
-      "lng": "-73.428660",
-      "name": "La Salchipapera",
-      "open": "10:00",
-      "time": "30 - 45 min"
-    },
-    {
       "closed": "00:00",
       "codCard": "bro006",
       "description": "Andahuaylas",
@@ -408,14 +395,27 @@
       "name": "La Casa de la Carne",
       "open": "00:00",
       "time": "30 - 45 min"
+    },
+    {
+      "closed": "00:00",
+      "codCard": "bro005",
+      "description": "Andahuaylas",
+      "horary": "12PM - 8PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fandres.jpg?alt=media&token=6fadeb50-3025-4993-8316-53661f0ded2a",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fandres_closed.jpg?alt=media&token=9b6ee089-bd2c-4acd-9e6a-d670d25b678a",
+      "lat": "-13.658882",
+      "lng": "-73.389081",
+      "name": "Andres Burguer",
+      "open": "00:00",
+      "time": "30 - 45 min"
     }
   ],
   "helados": [
     {
-      "closed": "22:00",
+      "closed": "21:00",
       "codCard": "hel001",
       "description": "Andahuaylas",
-      "horary": "1:30PM - 10PM",
+      "horary": "1:30PM - 9PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FLa%20salchipapera.jpeg?alt=media&token=8dc76867-be9c-4ba6-983c-e623c6866a2f",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2FLa%20salchipapera_closed.jpeg?alt=media&token=f164e91f-c969-42eb-9d1e-edd4a4c0ef25",
       "lat": "-13.653872",
@@ -750,7 +750,7 @@
     },
     {
       "local": "Hakuna Matata",
-      "number": 942391434
+      "number": 983941281
     },
     {
       "local": "El Tio Beto",
@@ -807,7 +807,7 @@
   ],
   "pizzerias": [
     {
-      "closed": "20:00",
+      "closed": "22:00",
       "codCard": "piz005",
       "description": "Andahuaylas",
       "horary": "10AM - 8PM",
@@ -820,7 +820,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "20:00",
+      "closed": "22:00",
       "codCard": "piz004",
       "description": "Andahuaylas",
       "horary": "1PM - 8PM",
@@ -833,7 +833,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "20:00",
+      "closed": "22:00",
       "codCard": "piz007",
       "description": "Andahuaylas",
       "horary": "2PM - 8PM",
@@ -846,7 +846,7 @@
       "time": "30 - 40 min"
     },
     {
-      "closed": "20:00",
+      "closed": "22:00",
       "codCard": "piz006",
       "description": "Andahuaylas",
       "horary": "5PM - 8PM",
@@ -952,7 +952,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "21:00",
+      "closed": "00:00",
       "codCard": "pol006",
       "description": "Andahuaylas - Lampa de Oro",
       "horary": "1PM - 9PM",
@@ -961,7 +961,7 @@
       "lat": "-13.656510",
       "lng": "-73.383944",
       "name": "La Nueva Casona",
-      "open": "13:00",
+      "open": "00:00",
       "time": "30 - 40 min"
     },
     {
@@ -1031,6 +1031,7 @@
     }
   ],
   "precio": [4],
+  "lluvia": [0],
   "android": ["1.3.1"],
   "ios": ["1.2.7"],
   "productos": {
@@ -5793,7 +5794,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "5.00",
-        "title": "Carne artesanal"
+        "title": "Hamburguesa de Carne artesanal"
       },
       {
         "amount": 1,
@@ -5806,7 +5807,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "4.00",
-        "title": "Pollo"
+        "title": "Hamburguesa de Pollo"
       },
       {
         "amount": 1,
@@ -5819,7 +5820,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "4.00",
-        "title": "Cerdo"
+        "title": "Hamburguesa de Cerdo"
       },
       {
         "amount": 1,
@@ -5832,7 +5833,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "3.50",
-        "title": "Carne"
+        "title": "Hamburguesa de Carne"
       },
       {
         "amount": 1,
@@ -5845,7 +5846,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "3.00",
-        "title": "Choripan"
+        "title": "Hamburguesa de Choripan"
       },
       {
         "amount": 1,
@@ -5858,7 +5859,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "13.00",
-        "title": "Clasicas 8 piezas"
+        "title": "Alitas Clasicas 8 piezas"
       },
       {
         "amount": 1,
@@ -5871,7 +5872,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "13.00",
-        "title": "Picantes 8 piezas"
+        "title": "Alitas Picantes 8 piezas"
       },
       {
         "amount": 1,
@@ -5884,7 +5885,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "16.00",
-        "title": "BBQ hot 8 piezas"
+        "title": "Alitas BBQ hot 8 piezas"
       },
       {
         "amount": 1,
@@ -5897,7 +5898,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "15.00",
-        "title": "Tausi 8 piezas"
+        "title": "Alitas Tausi 8 piezas"
       },
       {
         "amount": 1,
@@ -5910,7 +5911,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "13.00",
-        "title": "Pechugon 1/4 pieza"
+        "title": "Broster Pechugon 1/4 pieza"
       },
       {
         "amount": 1,
@@ -5923,7 +5924,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "15.00",
-        "title": "Crocante 8 piezas"
+        "title": "Broster Crocante 8 piezas"
       },
       {
         "amount": 1,
@@ -5936,7 +5937,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "16.00",
-        "title": "Crocante picante 8 piezas"
+        "title": "Broster Crocante picante 8 piezas"
       },
       {
         "amount": 1,
@@ -5949,7 +5950,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "9.00",
-        "title": "Clasica"
+        "title": "Salchipapa Clasica"
       },
       {
         "amount": 1,
@@ -5988,7 +5989,7 @@
         "lat": "-13.653872",
         "lng": "-73.428660",
         "price": "12.00",
-        "title": "La mixta"
+        "title": "Salchipapa La mixta"
       }
     ],
     "bro005": [
@@ -54788,6 +54789,8 @@
     "briner_pablo@hotmail.com",
     "djhil11zeta@gmail.com",
     "quispehuarcayarolands@gmail.com",
-    "huaracahuamancristofer@hotmail.com"
+    "huaracahuamancristofer@hotmail.com",
+    "junbergalindonavarro05.16@gmail.com",
+    "rosmelpichihuaroman@gmail.com"
   ]
 }
