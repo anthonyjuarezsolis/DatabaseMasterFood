@@ -46,7 +46,7 @@
   ],
   "cafés": [
     {
-      "closed": "22:00",
+      "closed": "21:00",
       "codCard": "caf004",
       "description": "Andahuaylas",
       "horary": "8AM - 9PM",
@@ -72,7 +72,7 @@
       "time": "30 - 40 min"
     },
     {
-      "closed": "22:00",
+      "closed": "21:30",
       "codCard": "caf006",
       "description": "San Jerónimo",
       "horary": "3PM - 9:50PM",
@@ -100,7 +100,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "cal003",
       "description": "Andahuaylas",
       "horary": "6:30AM - 8PM",
@@ -109,7 +109,7 @@
       "lat": "-13.6578213",
       "lng": "-73.3882523",
       "name": "El Corderito",
-      "open": "6:00",
+      "open": "06:30",
       "time": "40 - 50 min"
     },
     {
@@ -232,7 +232,7 @@
       "time": "20 - 35 min"
     },
     {
-      "closed": "22:00",
+      "closed": "20:00",
       "codCard": "chi007",
       "description": "Andahuaylas",
       "horary": "10:30AM - 8PM",
@@ -241,7 +241,7 @@
       "lat": "-13.6570033",
       "lng": "-73.3891073",
       "name": "Chifa Kantong",
-      "open": "10:00",
+      "open": "10:30",
       "time": "40 - 50 min"
     },
     {
@@ -267,7 +267,7 @@
       "lat": "-13.655221",
       "lng": "-73.388423",
       "name": "Chun Yon Sen",
-      "open": "12:00",
+      "open": "11:00",
       "time": "35 - 50 min"
     },
     {
@@ -299,7 +299,7 @@
   ],
   "amazonía": [
     {
-      "closed": "18:00",
+      "closed": "00:00",
       "codCard": "amaz001",
       "description": "Andahuaylas",
       "horary": "10AM - 6PM",
@@ -308,7 +308,7 @@
       "lat": "-13.6627131",
       "lng": "-73.4021843",
       "name": "El Tambo del Ñañito",
-      "open": "10:00",
+      "open": "00:00",
       "time": "40 - 50 min"
     }
   ],
@@ -327,7 +327,7 @@
       "time": "30 - 45 min"
     },
     {
-      "closed": "22:00",
+      "closed": "21:30",
       "codCard": "bro004",
       "description": "Andahuaylas",
       "horary": "10AM - 9:45PM",
@@ -399,7 +399,7 @@
       "time": "30 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "bro005",
       "description": "Andahuaylas",
       "horary": "12PM - 8PM",
@@ -408,7 +408,7 @@
       "lat": "-13.658882",
       "lng": "-73.389081",
       "name": "Andres Burguer",
-      "open": "00:00",
+      "open": "12:00",
       "time": "30 - 45 min"
     }
   ],
@@ -423,7 +423,7 @@
       "lat": "-13.653872",
       "lng": "-73.428660",
       "name": "La Salchipapera",
-      "open": "13:00",
+      "open": "13:30",
       "time": "30 - 45 min"
     }
   ],
@@ -795,6 +795,10 @@
       "number": 941411237
     },
     {
+      "local": "Don Jose",
+      "number": 941411237
+    },
+    {
       "local": "Buguie Burguer",
       "number": 996653711
     },
@@ -954,7 +958,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "21:00",
       "codCard": "pol006",
       "description": "Andahuaylas - Lampa de Oro",
       "horary": "1PM - 9PM",
@@ -963,7 +967,7 @@
       "lat": "-13.656510",
       "lng": "-73.383944",
       "name": "La Nueva Casona",
-      "open": "00:00",
+      "open": "13:00",
       "time": "30 - 40 min"
     },
     {
@@ -54739,7 +54743,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "18:00",
+      "closed": "17:00",
       "codCard": "rec010",
       "description": "San Jeronimo",
       "horary": "11AM - 5PM",
