@@ -919,7 +919,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "22:00",
+      "closed": "00:00",
       "codCard": "pol011",
       "description": "Andahuaylas",
       "horary": "5PM - 10PM",
@@ -928,7 +928,7 @@
       "lat": "-13.656050",
       "lng": "-73.388953",
       "name": "Mi Pollo Loco",
-      "open": "17:00",
+      "open": "00:00",
       "time": "35 - 45 min"
     },
     {
@@ -9196,7 +9196,7 @@
         "lat": "-13.6568318",
         "lng": "-73.3895528",
         "price": "12.00",
-        "title": "SAlitas Picantes"
+        "title": "Alitas Picantes"
       },
       {
         "amount": 1,
@@ -9209,7 +9209,7 @@
         "lat": "-13.6568318",
         "lng": "-73.3895528",
         "price": "12.00",
-        "title": "SAlitas a la BBQ"
+        "title": "Alitas a la BBQ"
       },
       {
         "amount": 1,
@@ -9221,8 +9221,8 @@
         "image": "",
         "lat": "-13.6568318",
         "lng": "-73.3895528",
-        "price": "12.00",
-        "title": "SAlitas Mixtas"
+        "price": "14.00",
+        "title": "Alitas Mixtas"
       },
       {
         "amount": 1,
