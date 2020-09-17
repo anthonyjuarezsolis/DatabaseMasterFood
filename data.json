@@ -386,7 +386,7 @@
       "time": "30 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "bro006",
       "description": "Andahuaylas",
       "horary": "4PM - 10PM",
@@ -395,7 +395,7 @@
       "lat": "-13.657789",
       "lng": "-73.383607",
       "name": "La Casa de la Carne",
-      "open": "00:00",
+      "open": "16:00",
       "time": "30 - 45 min"
     },
     {
