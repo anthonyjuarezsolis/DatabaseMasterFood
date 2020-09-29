@@ -4,7 +4,8 @@
     "mirkopb96@gmail.com",
     "m5cxpvmxk9@privaterelay.appleid.com",
     "denisrojas1028@gmail.com",
-    "briner_pablo@hotmail.com"
+    "briner_pablo@hotmail.com",
+    "yhamelizarandia@gmail.com"
   ],
   "bebidas": [
     {
@@ -128,14 +129,14 @@
   ],
   "cevicherías": [
     {
-      "closed": "17:00",
-      "codCard": "cev004",
+      "closed": "15:00",
+      "codCard": "cev011",
       "description": "Andahuaylas",
-      "horary": "8AM - 5PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicherias%2Fcev004.jpeg?alt=media&token=a61d63d2-25f8-41ba-a266-1e21fa35e987",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicher%C3%ADas%20closed%2Fcev004-01.jpeg?alt=media&token=caec0320-b2d4-4c37-8834-cabebecfbfff",
-      "name": "Armonia de Sabores",
-      "open": "08s:00",
+      "horary": "10AM - 3PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicherias%2FhappyOpen.jpg?alt=media&token=3a3f03da-87e6-45b6-acdb-c63101977e72",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicherias%2FhappyClosed.jpg?alt=media&token=1b2f648b-12ae-472e-ae0f-3a2a96c7aa3b",
+      "name": "Happy Mar",
+      "open": "10:00",
       "time": "40 - 50 min"
     },
     {
@@ -175,6 +176,17 @@
       "lng": "-73.3837551",
       "name": "Los 3 Rocotos",
       "open": "10:00",
+      "time": "40 - 50 min"
+    },
+    {
+      "closed": "00:00",
+      "codCard": "cev004",
+      "description": "Andahuaylas",
+      "horary": "8AM - 5PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicherias%2Fcev004.jpeg?alt=media&token=a61d63d2-25f8-41ba-a266-1e21fa35e987",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicher%C3%ADas%20closed%2Fcev004-01.jpeg?alt=media&token=caec0320-b2d4-4c37-8834-cabebecfbfff",
+      "name": "Armonia de Sabores",
+      "open": "00:00",
       "time": "40 - 50 min"
     },
     {
@@ -297,18 +309,16 @@
       "time": "40 - 50 min"
     }
   ],
-  "amazonía": [
+  "restaurantes": [
     {
-      "closed": "00:00",
-      "codCard": "amaz001",
+      "closed": "15:00",
+      "codCard": "res001",
       "description": "Andahuaylas",
-      "horary": "10AM - 6PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/comida%20amazonica%2FEl%20tambo%20del%20%C3%B1a%C3%B1ito.png?alt=media&token=4cf744cb-8454-45d4-ab38-599b05f1a8c3",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/comida%20amazonica%20closed%2FEl%20tambo%20del%20%C3%B1a%C3%B1ito_closed.png?alt=media&token=238ed079-31f1-460f-ba22-a25c9123ba86",
-      "lat": "-13.6627131",
-      "lng": "-73.4021843",
-      "name": "El Tambo del Ñañito",
-      "open": "00:00",
+      "horary": "11AM - 3PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/restaurantes%2FsaboresOpen.jpg?alt=media&token=c4eb12a3-a39e-40b4-8ed7-d3646d2fa698",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/restaurantes%2FsaboresClosed.jpg?alt=media&token=df3a579e-20b1-4848-ba30-c6f8a5a297ee",
+      "name": "Tierra de Sabores",
+      "open": "11:00",
       "time": "40 - 50 min"
     }
   ],
@@ -330,13 +340,13 @@
       "closed": "21:30",
       "codCard": "bro004",
       "description": "Andahuaylas",
-      "horary": "10AM - 9:45PM",
+      "horary": "11AM - 9:30PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FLa%20salchipapera.jpeg?alt=media&token=8dc76867-be9c-4ba6-983c-e623c6866a2f",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2FLa%20salchipapera_closed.jpeg?alt=media&token=f164e91f-c969-42eb-9d1e-edd4a4c0ef25",
       "lat": "-13.653872",
       "lng": "-73.428660",
       "name": "La Salchipapera",
-      "open": "10:00",
+      "open": "11:00",
       "time": "30 - 45 min"
     },
     {
@@ -414,16 +424,16 @@
   ],
   "helados": [
     {
-      "closed": "21:00",
+      "closed": "21:30",
       "codCard": "hel001",
       "description": "Andahuaylas",
-      "horary": "1:30PM - 9PM",
+      "horary": "11PM - 9:30PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FLa%20salchipapera.jpeg?alt=media&token=8dc76867-be9c-4ba6-983c-e623c6866a2f",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2FLa%20salchipapera_closed.jpeg?alt=media&token=f164e91f-c969-42eb-9d1e-edd4a4c0ef25",
       "lat": "-13.653872",
       "lng": "-73.428660",
       "name": "La Salchipapera",
-      "open": "13:30",
+      "open": "11:00",
       "time": "30 - 45 min"
     }
   ],
@@ -478,8 +488,8 @@
     },
     {
       "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%205.png?alt=media&token=79da0286-3a12-4b7b-976c-78954bb0b93c",
-      "subtitle": "Juanes, Tacachos",
-      "title": "Amazonía"
+      "subtitle": "Comida Criolla, Menús",
+      "title": "Restaurantes"
     },
     {
       "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%207.png?alt=media&token=3b9f7a72-eda2-40cc-bf1a-d98d4a1dc57a",
@@ -574,6 +584,15 @@
     }
   ],
   "numeros": [
+    {
+      "local": "Happy Mar",
+      "number": 930904605
+    },
+    {
+      "local": "Tierra de Sabores",
+      "number": 958205043
+    },
+
     {
       "local": "Chifa Milena",
       "number": 983662301
@@ -744,7 +763,7 @@
     },
     {
       "local": "El Limoncito",
-      "number": 927004497
+      "number": 957833043
     },
     {
       "local": "Pizza Express",
@@ -780,7 +799,7 @@
     },
     {
       "local": "Chifa Kantong",
-      "number": 959724870
+      "number": 931191550
     },
     {
       "local": "La Salchipapera",
@@ -919,16 +938,16 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "23:00",
       "codCard": "pol011",
       "description": "Andahuaylas",
-      "horary": "5PM - 10PM",
+      "horary": "5PM - 11PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2FMi%20pollo%20loco.jpeg?alt=media&token=37093699-b03f-42ff-b4c4-18cb30a5f111",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%20closed%2Fmi%20pollo%20loco_closed.jpeg?alt=media&token=16393ed1-80fb-45db-860c-05734625d1bc",
       "lat": "-13.656050",
       "lng": "-73.388953",
       "name": "Mi Pollo Loco",
-      "open": "00:00",
+      "open": "17:00",
       "time": "35 - 45 min"
     },
     {
@@ -1132,6 +1151,422 @@
         "lng": "-73.4021843",
         "price": "5.00",
         "title": "Patacones"
+      }
+    ],
+    "res001": [
+      {
+        "amount": 1,
+        "category": "Platos a la carta",
+        "codProduct": 1,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "10.00",
+        "title": "Lomo Saltado",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Platos a la carta",
+        "codProduct": 2,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "10.00",
+        "title": "Pechuga a la plancha",
+        "description": "Con papas doradas"
+      },
+      {
+        "amount": 1,
+        "category": "Platos a la carta",
+        "codProduct": 3,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "10.00",
+        "title": "Chicharrón de pollo",
+        "description": "Con papas doradas"
+      },
+      {
+        "amount": 1,
+        "category": "Platos a la carta",
+        "codProduct": 4,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "12.00",
+        "title": "Trucha frita",
+        "description": "Con yucas fritas"
+      },
+      {
+        "amount": 1,
+        "category": "Platos a la carta",
+        "codProduct": 5,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "12.00",
+        "title": "Chuleta a la parrilla",
+        "description": "Con papas doradas"
+      },
+      {
+        "amount": 1,
+        "category": "Platos a la carta",
+        "codProduct": 6,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "15.00",
+        "title": "Bistec a lo pobre",
+        "description": ""
+      },
+
+      {
+        "amount": 1,
+        "category": "Almuerzos saludables",
+        "codProduct": 7,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "10.00",
+        "title": "Pechuga de pollo a la plancha",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Almuerzos saludables",
+        "codProduct": 8,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "12.00",
+        "title": "Pescado al vapor",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Almuerzos saludables",
+        "codProduct": 9,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "12.00",
+        "title": "Bistec a la parrilla",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Almuerzos saludables",
+        "codProduct": 10,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "12.00",
+        "title": "Filete de tilapia",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Almuerzos saludables",
+        "codProduct": 11,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "12.00",
+        "title": "Trucha al vapor",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Almuerzos saludables",
+        "codProduct": 12,
+        "codeStore": "res001",
+        "company": "Tierra de Sabores",
+        "lat": "-13.657668",
+        "lng": "-73.410031",
+        "price": "10.00",
+        "title": "Chicharrón de pollo",
+        "description": ""
+      }
+    ],
+    "cev011": [
+      {
+        "amount": 1,
+        "category": "Marino",
+        "codProduct": 1,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "12.00",
+        "title": "Ceviche Especial",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Marino",
+        "codProduct": 2,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "16.00",
+        "title": "Arroz con mariscos",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Marino",
+        "codProduct": 3,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "15.00",
+        "title": "Chaufa con mariscos",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Marino",
+        "codProduct": 4,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "8.00",
+        "title": "Causa rellena",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Marino",
+        "codProduct": 5,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "12.00",
+        "title": "Chicharron de pota",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Marino",
+        "codProduct": 6,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "15.00",
+        "title": "Chicharron de pescado",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Marino",
+        "codProduct": 7,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "7.00",
+        "title": "Chilcano especial",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Marino",
+        "codProduct": 8,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "7.00",
+        "title": "Leche de tigre",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Marino",
+        "codProduct": 9,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "30.00",
+        "title": "Jalea real",
+        "description": ""
+      },
+
+      {
+        "amount": 1,
+        "category": "Duos",
+        "codProduct": 10,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "22.00",
+        "title": "Ceviche + Arroz con Mariscos",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Duos",
+        "codProduct": 11,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "22.00",
+        "title": "Ceviche + Chaufa",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Duos",
+        "codProduct": 12,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "20.00",
+        "title": "Ceviche + Chicharron Pescado",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Duos",
+        "codProduct": 13,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "18.00",
+        "title": "Ceviche + Chicharron pota",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Duos",
+        "codProduct": 14,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "17.00",
+        "title": "Ceviche + Causa rellena",
+        "description": ""
+      },
+
+      {
+        "amount": 1,
+        "category": "Trios",
+        "codProduct": 15,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "35.00",
+        "title": "Cev + Arroz mariscos + chicharron de pescado",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Trios",
+        "codProduct": 16,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "34.00",
+        "title": "Cev + chaufa de maris + chicharron de pescado",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Trios",
+        "codProduct": 17,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "33.00",
+        "title": "Chicharron de pescado + causa rellena + cev",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Trios",
+        "codProduct": 18,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "32.00",
+        "title": "Chicharron de pota + causa rellena + cev",
+        "description": ""
+      },
+
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 19,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "5.00",
+        "title": "Maraculla 1L",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 20,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "5.00",
+        "title": "Limonada 1L",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 21,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "6.00",
+        "title": "Piña 1L",
+        "description": ""
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 22,
+        "codeStore": "cev011",
+        "company": "Happy Mar",
+        "lat": "-13.654317",
+        "lng": "-73.386059",
+        "price": "7.00",
+        "title": "Chicha morada 1L",
+        "description": ""
       }
     ],
     "ant001": [
@@ -5938,57 +6373,44 @@
         "price": "16.00",
         "title": "Broster Crocante picante 8 piezas"
       },
+
       {
         "amount": 1,
-        "category": "Salchipapas",
+        "category": "Combos",
         "codProduct": 13,
         "codeStore": "hel001",
         "company": "La Salchipapera",
-        "description": "hot dog frankfurter + papa nativa + ensalada",
-        "image": "https://cutt.ly/cfzSXjo",
+        "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fla%20salchipapera%2FWhatsApp%20Image%202020-09-21%20at%205.58.32%20PM.jpeg?alt=media&token=86c78b2f-1985-4cfa-ac31-c05955694a1f",
         "lat": "-13.653872",
         "lng": "-73.428660",
-        "price": "9.00",
-        "title": "Salchipapa Clasica"
+        "price": "11.00",
+        "title": "Combo personal",
+        "description": "1 pieza de pollo + papas fritas + ensalada + 1 vaso de maracuyás"
       },
       {
         "amount": 1,
-        "category": "Salchipapas",
+        "category": "Combos",
         "codProduct": 14,
         "codeStore": "hel001",
         "company": "La Salchipapera",
-        "description": "hot dog frankfurter + papa nativa + ensalada",
-        "image": "https://cutt.ly/UfzFTOd",
+        "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fla%20salchipapera%2FWhatsApp%20Image%202020-09-21%20at%205.59.06%20PM.jpeg?alt=media&token=ac52c0d2-9a95-4196-be0a-ea498db2d323",
         "lat": "-13.653872",
         "lng": "-73.428660",
-        "price": "6.00",
-        "title": "Salchipapita"
+        "price": "18.00",
+        "title": "Combo doble",
+        "description": "2 piezas de pollo + papas fritas + ensalada + 1 vaso de maracuyá"
       },
       {
         "amount": 1,
-        "category": "Salchipapas",
+        "category": "Combos",
         "codProduct": 15,
         "codeStore": "hel001",
         "company": "La Salchipapera",
-        "description": "Chorizo finas hiervas + papa nativa + ensalada",
-        "image": "",
         "lat": "-13.653872",
         "lng": "-73.428660",
-        "price": "9.00",
-        "title": "Choripapa"
-      },
-      {
-        "amount": 1,
-        "category": "Salchipapas",
-        "codProduct": 16,
-        "codeStore": "hel001",
-        "company": "La Salchipapera",
-        "description": "Salchicha + chorizo + papa nativa + ensalada",
-        "image": "https://cutt.ly/bfWwhl2",
-        "lat": "-13.653872",
-        "lng": "-73.428660",
-        "price": "12.00",
-        "title": "Salchipapa La mixta"
+        "price": "30.00",
+        "title": "Combo duo",
+        "description": "4 piezas de pollo + papas fritas + ensalada + 2 vasos de maracuyá"
       }
     ],
     "bro005": [
@@ -54817,13 +55239,15 @@
     "kamepa6@outlook.es",
     "m5cxpvmxk9@privaterelay.appleid.com",
     "yelsinrp19@gmail.com",
-    "deysimildrehuaracahuaman@gmail.com",
     "jefferson_yoan12@hotmail.com",
     "briner_pablo@hotmail.com",
     "djhil11zeta@gmail.com",
     "quispehuarcayarolands@gmail.com",
-    "huaracahuamancristofer@hotmail.com",
     "junbergalindonavarro05.16@gmail.com",
-    "rosmelpichihuaroman@gmail.com"
+    "yhamelizarandia@gmail.com",
+    "joseluishuamanoscco@gmail.com",
+    "lumimazu@gmail.com",
+    "adrianprudencioq@gmail.com",
+    "angelfreites1807@gmail.com"
   ]
 }
