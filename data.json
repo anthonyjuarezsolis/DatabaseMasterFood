@@ -19,7 +19,8 @@
       "lat": "-13.6648212",
       "lng": "-73.4032917",
       "name": "Licoreria Casa Chava",
-      "open": "08:00"
+      "open": "08:00",
+      "time": "35 - 45 min"
     },
     {
       "closed": "24:00",
@@ -31,7 +32,8 @@
       "lat": "-13.655526",
       "lng": "-73.3867085",
       "name": "Don Quilmes",
-      "open": "08:00"
+      "open": "08:00",
+      "time": "35 - 45 min"
     },
     {
       "closed": "00:00",
@@ -43,6 +45,7 @@
       "lat": "-13.6606257",
       "lng": "-73.3916162",
       "name": "D'Bryan",
+      "time": "35 - 45 min",
       "open": "00:00"
     },
     {
@@ -55,6 +58,7 @@
       "lat": "-13.655901",
       "lng": "-73.389486",
       "name": "Hao",
+      "time": "35 - 45 min",
       "open": "09:00"
     }
   ],
@@ -1021,10 +1025,10 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "20:00",
+      "closed": "22:00",
       "codCard": "pol003",
       "description": "San Jerónimo",
-      "horary": "5PM - 8PM",
+      "horary": "5PM - 10PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2Fpollo003.jpg?alt=media&token=c8a06fe0-7c89-4e7c-9dc2-00cb230c416a",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%20closed%2Fpollo003-01.jpeg?alt=media&token=6d85675b-018d-463c-9661-2203b07a61dd",
       "lat": "-13.6517328",
