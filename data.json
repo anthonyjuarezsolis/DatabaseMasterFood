@@ -46,7 +46,7 @@
       "open": "00:00"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "beb006",
       "description": "Andahuaylas",
       "horary": "9AM - 10PM",
@@ -55,7 +55,7 @@
       "lat": "-13.655901",
       "lng": "-73.389486",
       "name": "Hao",
-      "open": "00:00"
+      "open": "09:00"
     }
   ],
   "cafés": [
