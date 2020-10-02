@@ -146,6 +146,20 @@
   ],
   "cevicherías": [
     {
+      "closed": "16:00",
+      "codCard": "cev009",
+      "description": "Curibamba",
+      "horary": "9AM - 4PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicherias%2Fqari%20mar%2Fqari%20mar%20open.jpg?alt=media&token=9e6b8ba0-befc-4b8d-bf41-16a6b2b7306a",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicherias%2Fqari%20mar%2Fqari%20mar%20closed.jpg?alt=media&token=a3b27ad9-6a86-4c3a-9542-8fd33f21d1c8",
+      "lat": "-13.6637608",
+      "lng": "-73.4010446",
+      "name": "Qari Mar",
+      "open": "09:00",
+      "time": "40 - 50 min",
+      "exclusive": true
+    },
+    {
       "closed": "15:00",
       "codCard": "cev011",
       "description": "Andahuaylas",
@@ -204,19 +218,6 @@
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicher%C3%ADas%20closed%2Fcev004-01.jpeg?alt=media&token=caec0320-b2d4-4c37-8834-cabebecfbfff",
       "name": "Armonia de Sabores",
       "open": "00:00",
-      "time": "40 - 50 min"
-    },
-    {
-      "closed": "16:00",
-      "codCard": "cev009",
-      "description": "Curibamba",
-      "horary": "9AM - 4PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicherias%2Fqari%20mar.jpg?alt=media&token=4d5da75a-64de-4222-8241-b008e0308a65",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/cevicher%C3%ADas%20closed%2Fqari%20mar_closed.jpg?alt=media&token=891fb8cf-7f56-49e5-81d3-ff7abbc3dded",
-      "lat": "-13.6637608",
-      "lng": "-73.4010446",
-      "name": "Qari Mar",
-      "open": "09:00",
       "time": "40 - 50 min"
     }
   ],
@@ -329,6 +330,20 @@
   "fast food": [
     {
       "closed": "22:00",
+      "codCard": "bro006",
+      "description": "Andahuaylas",
+      "horary": "4PM - 10PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fla%20casa%20de%20la%20carne.jpg?alt=media&token=0a10bf12-f03b-42fa-a546-5ab163dc3557",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fla%20casa%20de%20la%20carne%20closed.jpg?alt=media&token=de6db5c6-38b0-4db5-82c0-e569210feff2",
+      "lat": "-13.657789",
+      "lng": "-73.383607",
+      "name": "La Casa de la Carne",
+      "open": "16:00",
+      "time": "30 - 45 min",
+      "exclusive": true
+    },
+    {
+      "closed": "22:00",
       "codCard": "bro001",
       "description": "Andahuaylas",
       "horary": "4:30PM - 10PM",
@@ -397,19 +412,6 @@
       "lng": "-73.388766",
       "name": "Hakuna Matata",
       "open": "12:00",
-      "time": "30 - 45 min"
-    },
-    {
-      "closed": "22:00",
-      "codCard": "bro006",
-      "description": "Andahuaylas",
-      "horary": "4PM - 10PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fla%20casa%20de%20la%20carne.jpg?alt=media&token=0a10bf12-f03b-42fa-a546-5ab163dc3557",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fla%20casa%20de%20la%20carne%20closed.jpg?alt=media&token=de6db5c6-38b0-4db5-82c0-e569210feff2",
-      "lat": "-13.657789",
-      "lng": "-73.383607",
-      "name": "La Casa de la Carne",
-      "open": "16:00",
       "time": "30 - 45 min"
     },
     {
@@ -558,7 +560,8 @@
       "lng": "-73.3956855",
       "name": "Iclub Peru",
       "open": "08:00",
-      "time": "20 - 30 min"
+      "time": "20 - 30 min",
+      "exclusive": true
     }
   ],
   "minimarkets": [
@@ -4890,7 +4893,8 @@
         "title": "Macerado de Matico con Eucalipto"
       }
     ],
-    "beb006": [{
+    "beb006": [
+      {
         "amount": 1,
         "category": "Ron",
         "codProduct": 1,
@@ -5266,7 +5270,8 @@
         "lng": "-73.389486",
         "price": "80.00",
         "title": "Pisco Porton 750 ml"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Whisky",
         "codProduct": 30,
@@ -5499,7 +5504,7 @@
         "lng": "-73.389486",
         "price": "38.00",
         "title": "Vodka Skyy 750ml"
-      }, 
+      },
       {
         "amount": 1,
         "category": "Vodka",
@@ -5993,7 +5998,8 @@
         "lng": "-73.389486",
         "price": "4.00",
         "title": "Agua San Luis 2.5lts"
-      }],
+      }
+    ],
     "bro001": [
       {
         "amount": 1,
