@@ -105,6 +105,20 @@
   ],
   "calderías": [
     {
+      "closed": "22:00",
+      "codCard": "cal004",
+      "description": "Andahuaylas",
+      "horary": "4AM - 9:30PM",
+      "image": "https://cutt.ly/NfmlpHi",
+      "imageClosed": "https://cutt.ly/jfmldUq",
+      "lat": "-13.6560983",
+      "lng": "-73.3886954",
+      "name": "Calderia Misky",
+      "open": "04:00",
+      "time": "40 - 50 min",
+      "exclusive": true
+    },
+    {
       "closed": "14:00",
       "codCard": "cal002",
       "description": "Andahuaylas",
@@ -128,19 +142,6 @@
       "lng": "-73.3882523",
       "name": "El Corderito",
       "open": "06:30",
-      "time": "40 - 50 min"
-    },
-    {
-      "closed": "22:00",
-      "codCard": "cal004",
-      "description": "Andahuaylas",
-      "horary": "4AM - 9:30PM",
-      "image": "https://cutt.ly/NfmlpHi",
-      "imageClosed": "https://cutt.ly/jfmldUq",
-      "lat": "-13.6560983",
-      "lng": "-73.3886954",
-      "name": "Calderia Misky",
-      "open": "4:00",
       "time": "40 - 50 min"
     }
   ],
@@ -425,10 +426,16 @@
       "imageClosed": "https://cutt.ly/Nf7aiHd",
       "name": "Takos Wey",
       "open": "13:00",
-      "time": "30 - 45 min"
+      "time": "30 - 45 min",
+      "exclusive": true
     }
   ],
   "inicio": [
+    {
+      "img": "https://cutt.ly/Cf7lmyY",
+      "subtitle": "Tacos, Nachos",
+      "title": "Tacos"
+    },
     {
       "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%2011.png?alt=media&token=3e8773e2-0389-4841-85ba-128e47586671",
       "subtitle": "Cuy, Chicharrón",
@@ -481,11 +488,6 @@
       "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%205.png?alt=media&token=79da0286-3a12-4b7b-976c-78954bb0b93c",
       "subtitle": "Comida Criolla, Menús",
       "title": "Restaurantes"
-    },
-    {
-      "img": "https://cutt.ly/Cf7lmyY",
-      "subtitle": "Tacos, Nachos, Quesadillas",
-      "title": "Tacos"
     },
     {
       "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%2013.png?alt=media&token=586dc073-d7ca-4a8b-86d7-fc23d6a21ba6",
@@ -830,6 +832,47 @@
   "pizzerias": [
     {
       "closed": "22:00",
+      "codCard": "piz007",
+      "description": "Andahuaylas",
+      "horary": "2PM - 8PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%2Ffranchesco.jpg?alt=media&token=14ca06a5-5683-4480-b827-ff6c06470104",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%20closed%2Ffranchesco_closed.jpg?alt=media&token=2dcb6b06-70a1-4984-86cd-8bc040260589",
+      "lat": "-13.658852",
+      "lng": "-73.399786",
+      "name": " Franchesco Pizzeria",
+      "open": "14:00",
+      "time": "30 - 40 min",
+      "exclusive": true
+    },
+    {
+      "closed": "22:00",
+      "codCard": "piz006",
+      "description": "Andahuaylas",
+      "horary": "5PM - 8PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%2FHOT%20PIZZA%2Fhot%20pizza%20open.jpg?alt=media&token=0106f807-d14b-431a-9553-45c9b07a5094",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%2FHOT%20PIZZA%2Fhot%20pizza%20closed.jpg?alt=media&token=85f07fa4-3d9e-44c0-812d-a6f890b1245f",
+      "lat": "-13.6661312",
+      "lng": "-73.3956855",
+      "name": "Hot Pizza",
+      "open": "17:00",
+      "time": "30 - 40 min",
+      "exclusive": true
+    },
+    {
+      "closed": "22:00",
+      "codCard": "piz008",
+      "description": "Andahuaylas",
+      "horary": "4PM - 10PM",
+      "image": "https://cutt.ly/0fn0KTw",
+      "imageClosed": "https://cutt.ly/Wfn0K21",
+      "lat": "-13.6561279",
+      "lng": "-73.388704",
+      "name": "IL Gatto",
+      "open": "16:00",
+      "time": "35 - 45 min"
+    },
+    {
+      "closed": "22:00",
       "codCard": "piz005",
       "description": "Andahuaylas",
       "horary": "10AM - 8PM",
@@ -856,32 +899,6 @@
     },
     {
       "closed": "22:00",
-      "codCard": "piz007",
-      "description": "Andahuaylas",
-      "horary": "2PM - 8PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%2Ffranchesco.jpg?alt=media&token=14ca06a5-5683-4480-b827-ff6c06470104",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%20closed%2Ffranchesco_closed.jpg?alt=media&token=2dcb6b06-70a1-4984-86cd-8bc040260589",
-      "lat": "-13.658852",
-      "lng": "-73.399786",
-      "name": " Franchesco Pizzeria",
-      "open": "14:00",
-      "time": "30 - 40 min"
-    },
-    {
-      "closed": "22:00",
-      "codCard": "piz006",
-      "description": "Andahuaylas",
-      "horary": "5PM - 8PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%2Fpizza6.jpg?alt=media&token=2a04f03e-62e5-4122-93e1-acb361031b58",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%20closed%2Fpizza6_closed.jpg?alt=media&token=5df357eb-2bc8-45f3-8f8e-d4a1867bd45f",
-      "lat": "-13.6661312",
-      "lng": "-73.3956855",
-      "name": "Hot Pizza",
-      "open": "17:00",
-      "time": "30 - 40 min"
-    },
-    {
-      "closed": "22:00",
       "codCard": "piz001",
       "description": "Andahuaylas",
       "horary": "5PM - 10PM",
@@ -905,22 +922,23 @@
       "name": "Hornito",
       "open": "18:00",
       "time": "35 - 45 min"
-    },
-    {
-      "closed": "22:00",
-      "codCard": "piz008",
-      "description": "Andahuaylas",
-      "horary": "4PM - 10PM",
-      "image": "https://cutt.ly/0fn0KTw",
-      "imageClosed": "https://cutt.ly/Wfn0K21",
-      "lat": "-13.6561279",
-      "lng": "-73.388704",
-      "name": "IL Gatto",
-      "open": "16:00",
-      "time": "35 - 45 min"
     }
   ],
   "pollerias": [
+    {
+      "closed": "23:00",
+      "codCard": "pol011",
+      "description": "Andahuaylas",
+      "horary": "5PM - 11PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2FMi%20pollo%20loco.jpeg?alt=media&token=37093699-b03f-42ff-b4c4-18cb30a5f111",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%20closed%2Fmi%20pollo%20loco_closed.jpeg?alt=media&token=16393ed1-80fb-45db-860c-05734625d1bc",
+      "lat": "-13.656050",
+      "lng": "-73.388953",
+      "name": "Mi Pollo Loco",
+      "open": "17:00",
+      "time": "35 - 45 min",
+      "exclusive": true
+    },
     {
       "closed": "22:00",
       "codCard": "pol002",
@@ -933,19 +951,6 @@
       "name": "Super Gallo",
       "open": "16:00",
       "time": "40 - 50 min"
-    },
-    {
-      "closed": "23:00",
-      "codCard": "pol011",
-      "description": "Andahuaylas",
-      "horary": "5PM - 11PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2FMi%20pollo%20loco.jpeg?alt=media&token=37093699-b03f-42ff-b4c4-18cb30a5f111",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%20closed%2Fmi%20pollo%20loco_closed.jpeg?alt=media&token=16393ed1-80fb-45db-860c-05734625d1bc",
-      "lat": "-13.656050",
-      "lng": "-73.388953",
-      "name": "Mi Pollo Loco",
-      "open": "17:00",
-      "time": "35 - 45 min"
     },
     {
       "closed": "21:00",
@@ -6154,7 +6159,7 @@
         "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FBurger%20Queen%20Productos%2Fgenerico.jpeg?alt=media&token=db9ec687-5ffe-4e85-a8ad-6edb476d148e",
         "lat": "-13.6567359",
         "lng": "-73.389423",
-        "price": "5.00",
+        "price": "4.00",
         "title": "Hamburguesa de Carne casera (120g)"
       },
       {
@@ -6167,21 +6172,8 @@
         "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FBurger%20Queen%20Productos%2Fgenerico.jpeg?alt=media&token=db9ec687-5ffe-4e85-a8ad-6edb476d148e",
         "lat": "-13.6567359",
         "lng": "-73.389423",
-        "price": "5.00",
-        "title": "Hamburguesa de Pollo"
-      },
-      {
-        "amount": 1,
-        "category": "Hamburguesas",
-        "codProduct": 4722,
-        "codeStore": "bro002",
-        "company": "Burger Queen",
-        "description": "",
-        "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FBurger%20Queen%20Productos%2Fgenerico.jpeg?alt=media&token=db9ec687-5ffe-4e85-a8ad-6edb476d148e",
-        "lat": "-13.6567359",
-        "lng": "-73.389423",
-        "price": "5.00",
-        "title": "Hamburguesa de Carne"
+        "price": "4.00",
+        "title": "Hamburguesa de Pollo (120g)"
       },
       {
         "amount": 1,
@@ -6215,12 +6207,12 @@
         "codProduct": 4725,
         "codeStore": "bro002",
         "company": "Burger Queen",
-        "description": "hamburguesa",
+        "description": "( Chorizo Finas Hierbas + Papas Doradas + Ensalada Fresca + Cremas )",
         "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FBurger%20Queen%20Productos%2FWhatsApp%20Image%202020-08-23%20at%207.00.39%20PM%20(3).jpeg?alt=media&token=0c032288-18eb-4fd8-977b-3c3a135dfa0b",
         "lat": "-13.6567359",
         "lng": "-73.389423",
-        "price": "6.00",
-        "title": "Hamburguesa de chorizo"
+        "price": "5.00",
+        "title": "Chori Burger"
       },
       {
         "amount": 1,
@@ -6450,7 +6442,7 @@
         "codeStore": "bro002",
         "company": "Burger Queen",
         "description": "doble hot dog + huevo + queso + jamón + abundantes papas doradas",
-        "image": "",
+        "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FBurger%20Queen%20Productos%2Fsalchipapa%20especial.jpeg?alt=media&token=4fc0aae8-0afc-453e-9196-84f6e407a0b4",
         "lat": "-13.6567359",
         "lng": "-73.389423",
         "price": "9.50",
@@ -6463,7 +6455,7 @@
         "codeStore": "bro002",
         "company": "Burger Queen",
         "description": "hot dog + chorizo + huevo + queso + pechuga a la plancha",
-        "image": "",
+        "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FBurger%20Queen%20Productos%2Fsalchimix.jpeg?alt=media&token=0d2ce778-5afa-419c-aacf-7e0b1314f3d1",
         "lat": "-13.6567359",
         "lng": "-73.389423",
         "price": "13.50",
@@ -29390,86 +29382,85 @@
         "title": "Limonada 1/2 litro"
       }
     ],
-    "mex001":[
+    "mex001": [
       {
-      "amount": 1,
-      "category": "Carta",
-      "codProduct": 1,
-      "codeStore": "mex001",
-      "company": "Takos Wey",
-      "description": "3 tortillas de maiz rellena con carne de cerdo, pollo o res condimentada con salsa de especias y chiles secos",
-      "image": "",
-      "lat": "-13.785987",
-      "lng": "-72.97698",
-      "price": "15.00",
-      "title": "Tacos mexicanos"
-    },
-    {
-      "amount": 1,
-      "category": "Carta",
-      "codProduct": 2,
-      "codeStore": "mex001",
-      "company": "Takos Wey",
-      "description": "6 piezas de pollo bañadas en deliciosa salsa a la BBQ. Acompañada con papas fritas y salas",
-      "image": "",
-      "lat": "-13.785987",
-      "lng": "-72.97698",
-      "price": "15.00",
-      "title": "Alitas BBQ"
-    },
-    {
-      "amount": 1,
-      "category": "Carta",
-      "codProduct": 3,
-      "codeStore": "mex001",
-      "company": "Takos Wey",
-      "description": "4 piezas de pollo extra crujientes. Con el sabor exacto que tanto te gusta. Disfrutalas con papas fritas y salsas a tu eleccion",
-      "image": "",
-      "lat": "-13.785987",
-      "lng": "-72.97698",
-      "price": "15.00",
-      "title": "Pollo Crispy"
-    },
-    {
-      "amount": 1,
-      "category": "Carta",
-      "codProduct": 4,
-      "codeStore": "mex001",
-      "company": "Takos Wey",
-      "description": "Tortilla de maiz 100% casera, rellena de carne o pollo o al pastor, acompañada de frijoles, cebollas, culantro, lechuga, tomates, limon, queso rallado",
-      "image": "",
-      "lat": "-13.785987",
-      "lng": "-72.97698",
-      "price": "15.00",
-      "title": "Burritos tex mex"
-    },
-    {
-      "amount": 1,
-      "category": "Carta",
-      "codProduct": 5,
-      "codeStore": "mex001",
-      "company": "Takos Wey",
-      "description": "Tortilla de maiz 100% caseras, con un picantito exacto, acompañado de guacamole (palta, tomate, queso y limon",
-      "image": "",
-      "lat": "-13.785987",
-      "lng": "-72.97698",
-      "price": "14.00",
-      "title": "Nachos con guacamole"
-    },
-    {
-      "amount": 1,
-      "category": "Carta",
-      "codProduct": 6,
-      "codeStore": "mex001",
-      "company": "Takos Wey",
-      "description": "Quesadillas en tortillas de maiz 100% caseras, rellenas de pollo o carne, con abundante queso, tomatillos, culantro y picante",
-      "image": "",
-      "lat": "-13.785987",
-      "lng": "-72.97698",
-      "price": "14.00",
-      "title": "Quesadillas mex"
-    }
-  ],
+        "amount": 1,
+        "category": "Carta",
+        "codProduct": 1,
+        "codeStore": "mex001",
+        "company": "Takos Wey",
+        "description": "3 tortillas de maiz rellena con carne de cerdo, pollo o res condimentada con salsa de especias y chiles secos",
+        "image": "",
+        "lat": "-13.785987",
+        "lng": "-72.97698",
+        "price": "15.00",
+        "title": "Tacos mexicanos"      },
+      {
+        "amount": 1,
+        "category": "Carta",
+        "codProduct": 2,
+        "codeStore": "mex001",
+        "company": "Takos Wey",
+        "description": "6 piezas de pollo bañadas en deliciosa salsa a la BBQ. Acompañada con papas fritas y salas",
+        "image": "",
+        "lat": "-13.785987",
+        "lng": "-72.97698",
+        "price": "15.00",
+        "title": "Alitas BBQ"
+      },
+      {
+        "amount": 1,
+        "category": "Carta",
+        "codProduct": 3,
+        "codeStore": "mex001",
+        "company": "Takos Wey",
+        "description": "4 piezas de pollo extra crujientes. Con el sabor exacto que tanto te gusta. Disfrutalas con papas fritas y salsas a tu eleccion",
+        "image": "",
+        "lat": "-13.785987",
+        "lng": "-72.97698",
+        "price": "15.00",
+        "title": "Pollo Crispy"
+      },
+      {
+        "amount": 1,
+        "category": "Carta",
+        "codProduct": 4,
+        "codeStore": "mex001",
+        "company": "Takos Wey",
+        "description": "Tortilla de maiz 100% casera, rellena de carne o pollo o al pastor, acompañada de frijoles, cebollas, culantro, lechuga, tomates, limon, queso rallado",
+        "image": "",
+        "lat": "-13.785987",
+        "lng": "-72.97698",
+        "price": "15.00",
+        "title": "Burritos tex mex"
+      },
+      {
+        "amount": 1,
+        "category": "Carta",
+        "codProduct": 5,
+        "codeStore": "mex001",
+        "company": "Takos Wey",
+        "description": "Tortilla de maiz 100% caseras, con un picantito exacto, acompañado de guacamole (palta, tomate, queso y limon",
+        "image": "",
+        "lat": "-13.785987",
+        "lng": "-72.97698",
+        "price": "14.00",
+        "title": "Nachos con guacamole"
+      },
+      {
+        "amount": 1,
+        "category": "Carta",
+        "codProduct": 6,
+        "codeStore": "mex001",
+        "company": "Takos Wey",
+        "description": "Quesadillas en tortillas de maiz 100% caseras, rellenas de pollo o carne, con abundante queso, tomatillos, culantro y picante",
+        "image": "",
+        "lat": "-13.785987",
+        "lng": "-72.97698",
+        "price": "14.00",
+        "title": "Quesadillas mex"
+      }
+    ],
     "mak001": [
       {
         "amount": 1,
@@ -55648,19 +55639,6 @@
   },
   "recreos": [
     {
-      "closed": "16:00",
-      "codCard": "rec006",
-      "description": "Curibamba",
-      "horary": "10AM - 4PM",
-      "image": "https://cutt.ly/Yfh4kau",
-      "imageClosed": "https://cutt.ly/kfh4g48",
-      "lat": "-13.664546",
-      "lng": "-73.413894",
-      "name": "Sabores Andinos",
-      "open": "10:00",
-      "time": "40 - 50 min"
-    },
-    {
       "closed": "15:00",
       "codCard": "rec011",
       "description": "Andahuaylas",
@@ -55671,6 +55649,33 @@
       "lng": "-73.3778505",
       "name": "El Perolito",
       "open": "11:30",
+      "time": "40 - 50 min",
+      "exclusive": true
+    },
+    {
+      "closed": "17:00",
+      "codCard": "rec010",
+      "description": "San Jeronimo",
+      "horary": "11AM - 5PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%2Fchispita.jpg?alt=media&token=83ba199d-19be-435f-a067-a5694ed8a0aa",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%20closed%2Fchispita_closed.jpg?alt=media&token=76377ec2-1ebc-443a-86ad-b15439f1d1ee",
+      "lat": "-13.6617282",
+      "lng": "-73.3511344",
+      "name": "Recreo Chispita",
+      "open": "11:00",
+      "time": "60 - 120 min"
+    },
+    {
+      "closed": "16:00",
+      "codCard": "rec006",
+      "description": "Curibamba",
+      "horary": "10AM - 4PM",
+      "image": "https://cutt.ly/Yfh4kau",
+      "imageClosed": "https://cutt.ly/kfh4g48",
+      "lat": "-13.664546",
+      "lng": "-73.413894",
+      "name": "Sabores Andinos",
+      "open": "10:00",
       "time": "40 - 50 min"
     },
     {
@@ -55711,19 +55716,6 @@
       "name": "La Tullpa",
       "open": "11:00",
       "time": "40 - 50 min"
-    },
-    {
-      "closed": "17:00",
-      "codCard": "rec010",
-      "description": "San Jeronimo",
-      "horary": "11AM - 5PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%2Fchispita.jpg?alt=media&token=83ba199d-19be-435f-a067-a5694ed8a0aa",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%20closed%2Fchispita_closed.jpg?alt=media&token=76377ec2-1ebc-443a-86ad-b15439f1d1ee",
-      "lat": "-13.6617282",
-      "lng": "-73.3511344",
-      "name": "Recreo Chispita",
-      "open": "11:00",
-      "time": "60 - 120 min"
     },
     {
       "closed": "17:00",
@@ -55808,7 +55800,6 @@
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/restaurantes%2FsaboresClosed.jpg?alt=media&token=df3a579e-20b1-4848-ba30-c6f8a5a297ee",
       "name": "Tierra de Sabores",
       "open": "11:00",
-      "time": "40 - 50 min"
-    }
+      "time": "40 - 50 min"    }
   ]
 }
