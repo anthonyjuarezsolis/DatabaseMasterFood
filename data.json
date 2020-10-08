@@ -7,7 +7,7 @@
     "briner_pablo@hotmail.com",
     "yhamelizarandia@gmail.com"
   ],
-  "android": ["1.3.5"],
+  "android": ["1.3.6"],
   "bebidas": [
     {
       "closed": "22:00",
@@ -576,6 +576,10 @@
   ],
   "numeros": [
     {
+      "local": "La Cusqueñita",
+      "number": 978031303
+    },
+    {
       "local": "Takos Wey",
       "number": 970271283
     },
@@ -839,16 +843,16 @@
       "time": "30 - 40 min"
     },
     {
-      "closed": "22:00",
+      "closed": "21:50",
       "codCard": "piz006",
       "description": "Andahuaylas",
-      "horary": "5PM - 8PM",
+      "horary": "4PM - 9:50PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%2FHOT%20PIZZA%2Fhot%20pizza%20open.jpg?alt=media&token=0106f807-d14b-431a-9553-45c9b07a5094",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pizzerias%2FHOT%20PIZZA%2Fhot%20pizza%20closed.jpg?alt=media&token=85f07fa4-3d9e-44c0-812d-a6f890b1245f",
       "lat": "-13.6661312",
       "lng": "-73.3956855",
       "name": "Hot Pizza",
-      "open": "17:00",
+      "open": "16:00",
       "time": "30 - 40 min"
     },
     {
