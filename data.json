@@ -1049,7 +1049,6 @@
       "time": "30 - 40 min"
     }
   ],
-  "precio": [4],
   "productos": {
     "amaz001": [
       {
@@ -20264,7 +20263,8 @@
         "lng": "-73.389081",
         "price": "8.50",
         "title": "Aeropuerto"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Menu",
         "codProduct": 4,
@@ -29489,7 +29489,8 @@
         "lat": "-13.785987",
         "lng": "-72.97698",
         "price": "15.00",
-        "title": "Tacos mexicanos"      },
+        "title": "Tacos mexicanos"
+      },
       {
         "amount": 1,
         "category": "Carta",
@@ -55894,6 +55895,18 @@
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/restaurantes%2FsaboresClosed.jpg?alt=media&token=df3a579e-20b1-4848-ba30-c6f8a5a297ee",
       "name": "Tierra de Sabores",
       "open": "11:00",
-      "time": "40 - 50 min"    }
+      "time": "40 - 50 min"
+    }
+  ],
+  "precio": [4],
+  "prices": [
+    {
+      "rangeOne": [2],
+      "rangeTwo": [2.5],
+      "rangeThree": [3],
+      "rangeFour": [4],
+      "rangeSix": [5],
+      "rangemax": [6]
+    }
   ]
 }
