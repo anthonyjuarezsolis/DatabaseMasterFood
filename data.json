@@ -641,7 +641,7 @@
     },
     {
       "local": "Chun Yon Sen",
-      "number": 984858832
+      "number": "(083) 201122"
     },
     {
       "local": "El Dragon",
@@ -653,7 +653,7 @@
     },
     {
       "local": "Burger Queen",
-      "number": 959404876
+      "number": 986169300
     },
     {
       "local": "Los 3 Rocotos",
@@ -813,7 +813,7 @@
     },
     {
       "local": "Buguie Burguer",
-      "number": 996653711
+      "number": 959404876
     },
     {
       "local": "Coffee Luwak",
@@ -29486,8 +29486,8 @@
         "company": "Takos Wey",
         "description": "3 tortillas de maiz rellena con carne de cerdo, pollo o res condimentada con salsa de especias y chiles secos",
         "image": "",
-        "lat": "-13.785987",
-        "lng": "-72.97698",
+        "lat": "-13.663801",
+        "lng": "-73.402010",
         "price": "15.00",
         "title": "Tacos mexicanos"
       },
@@ -29499,8 +29499,8 @@
         "company": "Takos Wey",
         "description": "6 piezas de pollo bañadas en deliciosa salsa a la BBQ. Acompañada con papas fritas y salas",
         "image": "",
-        "lat": "-13.785987",
-        "lng": "-72.97698",
+        "lat": "-13.663801",
+        "lng": "-73.402010",
         "price": "15.00",
         "title": "Alitas BBQ"
       },
@@ -29512,8 +29512,8 @@
         "company": "Takos Wey",
         "description": "4 piezas de pollo extra crujientes. Con el sabor exacto que tanto te gusta. Disfrutalas con papas fritas y salsas a tu eleccion",
         "image": "",
-        "lat": "-13.785987",
-        "lng": "-72.97698",
+        "lat": "-13.663801",
+        "lng": "-73.402010",
         "price": "15.00",
         "title": "Pollo Crispy"
       },
@@ -29525,8 +29525,8 @@
         "company": "Takos Wey",
         "description": "Tortilla de maiz 100% casera, rellena de carne o pollo o al pastor, acompañada de frijoles, cebollas, culantro, lechuga, tomates, limon, queso rallado",
         "image": "",
-        "lat": "-13.785987",
-        "lng": "-72.97698",
+        "lat": "-13.663801",
+        "lng": "-73.402010",
         "price": "15.00",
         "title": "Burritos tex mex"
       },
@@ -29538,8 +29538,8 @@
         "company": "Takos Wey",
         "description": "Tortilla de maiz 100% caseras, con un picantito exacto, acompañado de guacamole (palta, tomate, queso y limon",
         "image": "",
-        "lat": "-13.785987",
-        "lng": "-72.97698",
+        "lat": "-13.663801",
+        "lng": "-73.402010",
         "price": "14.00",
         "title": "Nachos con guacamole"
       },
@@ -29551,8 +29551,8 @@
         "company": "Takos Wey",
         "description": "Quesadillas en tortillas de maiz 100% caseras, rellenas de pollo o carne, con abundante queso, tomatillos, culantro y picante",
         "image": "",
-        "lat": "-13.785987",
-        "lng": "-72.97698",
+        "lat": "-13.663801",
+        "lng": "-73.402010",
         "price": "14.00",
         "title": "Quesadillas mex"
       }
@@ -46157,8 +46157,8 @@
         "company": "Pizza Express",
         "description": "Chorizo + Tocino + Jamonada + Salchicha + Peperoni + Champiñones + Aceitunas + Pimiento",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "38.00",
         "title": "Hiper Express Mediana"
       },
@@ -46170,8 +46170,8 @@
         "company": "Pizza Express",
         "description": "Tomate en Rodajas + Pimientos + Aceitunas",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "28.00",
         "title": "Siciliana Mediana"
       },
@@ -46183,8 +46183,8 @@
         "company": "Pizza Express",
         "description": "Jamón Ingles  + Piña + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "33.00",
         "title": "Hawaiana Mediana"
       },
@@ -46196,8 +46196,8 @@
         "company": "Pizza Express",
         "description": "Jamón + Chorizo + Tocino + Salchicha + Pimiento",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "36.00",
         "title": "Super Express Mediana"
       },
@@ -46209,8 +46209,8 @@
         "company": "Pizza Express",
         "description": "Jamón Ingles + Champiñones + Rodajas de Tomate",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "35.00",
         "title": "Mixta Mediana"
       },
@@ -46222,8 +46222,8 @@
         "company": "Pizza Express",
         "description": "Plátano + Manzana + Papaya + Pasas + Leche Nestle + Canela",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "31.00",
         "title": "Frutisima Mediana"
       },
@@ -46235,8 +46235,8 @@
         "company": "Pizza Express",
         "description": "Selectas Salchichas + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "29.00",
         "title": "Salchicha Mediana"
       },
@@ -46248,8 +46248,8 @@
         "company": "Pizza Express",
         "description": "Deliciosa Jamonada + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "26.00",
         "title": "Jamonada Mediana"
       },
@@ -46261,8 +46261,8 @@
         "company": "Pizza Express",
         "description": "Durazno + Piña + Mermelada de Fresa + Leche Nestle + Chocolate",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "42.00",
         "title": "Primavera Mediana"
       },
@@ -46274,8 +46274,8 @@
         "company": "Pizza Express",
         "description": "Delicioso Chorizo + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "34.00",
         "title": "Chorizo Mediana"
       },
@@ -46287,8 +46287,8 @@
         "company": "Pizza Express",
         "description": "Jamonada + Rocoto + Cabanossi + Cebolla + Champiñones",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "35.00",
         "title": "Marciano Mediana"
       },
@@ -46300,8 +46300,8 @@
         "company": "Pizza Express",
         "description": "Champiñones + Aceitunas Negras + Pimiento + Cebolla Blanca + Esparragos",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "30.00",
         "title": "Vegetariana Mediana"
       },
@@ -46313,8 +46313,8 @@
         "company": "Pizza Express",
         "description": "Champiñones y Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "33.00",
         "title": "Champiñones Mediana"
       },
@@ -46326,8 +46326,8 @@
         "company": "Pizza Express",
         "description": "Delicioso Pollo + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "33.00",
         "title": "Pollo Mediana"
       },
@@ -46339,8 +46339,8 @@
         "company": "Pizza Express",
         "description": "Sabroso Peperoni + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "35.00",
         "title": "Peperoni Mediana"
       },
@@ -46352,8 +46352,8 @@
         "company": "Pizza Express",
         "description": "Delicioso Jamón Ingles + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "30.00",
         "title": "Jamón Ingles Mediana"
       },
@@ -46365,8 +46365,8 @@
         "company": "Pizza Express",
         "description": "Rico Tocino + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "33.00",
         "title": "Tocino Mediana"
       },
@@ -46378,8 +46378,8 @@
         "company": "Pizza Express",
         "description": "Tocino + Piña + Durazno + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "35.00",
         "title": "Alemana Mediana"
       },
@@ -46391,8 +46391,8 @@
         "company": "Pizza Express",
         "description": "Chorizo + Jamón Ingles + Frutas + Champiñones",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "56.00",
         "title": "4 Estaciones Familiar"
       },
@@ -46404,8 +46404,8 @@
         "company": "Pizza Express",
         "description": "Chorizo + Tocino + Jamonada + Salchicha + Peperoni + Champiñones + Aceitunas + Pimiento",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "58.00",
         "title": "Hiper Express Familiar"
       },
@@ -46417,8 +46417,8 @@
         "company": "Pizza Express",
         "description": "Tomate en Rodajas + Pimientos + Aceitunas",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "46.00",
         "title": "Siciliana Familiar"
       },
@@ -46430,8 +46430,8 @@
         "company": "Pizza Express",
         "description": "Jamón Ingles  + Piña + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "54.00",
         "title": "Hawaiana Familiar"
       },
@@ -46443,8 +46443,8 @@
         "company": "Pizza Express",
         "description": "Jamón + Chorizo + Tocino + Salchicha + Pimiento",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "56.00",
         "title": "Super Express Familiar"
       },
@@ -46456,8 +46456,8 @@
         "company": "Pizza Express",
         "description": "Jamón Ingles + Champiñones + Rodajas de Tomate",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "55.00",
         "title": "Mixta Familiar"
       },
@@ -46469,8 +46469,8 @@
         "company": "Pizza Express",
         "description": "Plátano + Manzana + Papaya + Pasas + Leche Nestle + Canela",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "51.00",
         "title": "Frutisima Familiar"
       },
@@ -46482,8 +46482,8 @@
         "company": "Pizza Express",
         "description": "Selectas Salchichas + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "47.00",
         "title": "Salchicha Familiar"
       },
@@ -46495,8 +46495,8 @@
         "company": "Pizza Express",
         "description": "Deliciosa Jamonada + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "46.00",
         "title": "Jamonada Familiar"
       },
@@ -46508,8 +46508,8 @@
         "company": "Pizza Express",
         "description": "Durazno + Piña + Mermelada de Fresa + Leche Nestle + Chocolate",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "62.00",
         "title": "Primavera Familiar"
       },
@@ -46521,8 +46521,8 @@
         "company": "Pizza Express",
         "description": "Delicioso Chorizo + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "54.00",
         "title": "Chorizo Familiar"
       },
@@ -46534,8 +46534,8 @@
         "company": "Pizza Express",
         "description": "Jamonada + Rocoto + Cabanossi + Cebolla + Champiñones",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "55.00",
         "title": "Marciano Familiar"
       },
@@ -46547,8 +46547,8 @@
         "company": "Pizza Express",
         "description": "Champiñones + Aceitunas Negras + Pimiento + Cebolla Blanca + Esparragos",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "50.00",
         "title": "Vegetariana Familiar"
       },
@@ -46560,8 +46560,8 @@
         "company": "Pizza Express",
         "description": "Champiñones y Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "53.00",
         "title": "Champiñones Familiar"
       },
@@ -46573,8 +46573,8 @@
         "company": "Pizza Express",
         "description": "Delicioso Pollo + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "53.00",
         "title": "Pollo Familiar"
       },
@@ -46586,8 +46586,8 @@
         "company": "Pizza Express",
         "description": "Sabroso Peperoni + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "55.00",
         "title": "Peperoni Familiar"
       },
@@ -46599,8 +46599,8 @@
         "company": "Pizza Express",
         "description": "Delicioso Jamón Ingles + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "50.00",
         "title": "Jamón Ingles Familiar"
       },
@@ -46612,8 +46612,8 @@
         "company": "Pizza Express",
         "description": "Rico Tocino + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "53.00",
         "title": "Tocino Familiar"
       },
@@ -46625,8 +46625,8 @@
         "company": "Pizza Express",
         "description": "Tocino + Piña + Durazno + Full Mozarella",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "55.00",
         "title": "Alemana Familiar"
       },
@@ -46638,8 +46638,8 @@
         "company": "Pizza Express",
         "description": "Pizza Hiper Express + Gaseosa de 2 Litros",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "65.00",
         "title": "Combo 01"
       },
@@ -46651,8 +46651,8 @@
         "company": "Pizza Express",
         "description": "Pizza Super Express + Lata de Durazno + Gaseosa de 2 Litros",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "68.00",
         "title": "Combo 02"
       },
@@ -46664,8 +46664,8 @@
         "company": "Pizza Express",
         "description": "Pizza Familiar Super Express + Pizza Mediana Mixta + 1 Jarra de Chicha o Limonada",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "98.00",
         "title": "Combo 03"
       },
@@ -46677,8 +46677,8 @@
         "company": "Pizza Express",
         "description": "Pizza Familiar Hiper Express + Pizza Mediana Hawaiana + Gaseosa de 2 Litros",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "95.00",
         "title": "Combo 04"
       },
@@ -46690,8 +46690,8 @@
         "company": "Pizza Express",
         "description": "Pizza Familiar Hiper Express + Pizza Familiar Peperoni + 1 Jarra de Chicha o Limonada",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "119.00",
         "title": "Combo 05"
       },
@@ -46703,8 +46703,8 @@
         "company": "Pizza Express",
         "description": "",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "14.00",
         "title": "1 Jarra de Chicha Morada"
       },
@@ -46716,8 +46716,8 @@
         "company": "Pizza Express",
         "description": "",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "8.00",
         "title": "1/2 Jarra de Chicha Morada"
       },
@@ -46729,8 +46729,8 @@
         "company": "Pizza Express",
         "description": "",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "14.00",
         "title": "1 Jarra de Limonada Express"
       },
@@ -46742,8 +46742,8 @@
         "company": "Pizza Express",
         "description": "",
         "image": "",
-        "lat": "-13.6516287",
-        "lng": "-73.3650569",
+        "lat": "-13.657182",
+        "lng": "-73.382739",
         "price": "8.00",
         "title": "1/2 Jarra de Limonada Express"
       }
@@ -55905,7 +55905,7 @@
       "rangeTwo": [2.5],
       "rangeThree": [3],
       "rangeFour": [4],
-      "rangeSix": [5],
+      "rangeFive": [5],
       "rangemax": [6]
     }
   ]
