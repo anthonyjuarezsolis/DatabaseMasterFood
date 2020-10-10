@@ -428,16 +428,6 @@
   ],
   "inicio": [
     {
-      "img": "https://cutt.ly/Cf7lmyY",
-      "subtitle": "Tacos, Nachos",
-      "title": "Tacos"
-    },
-    {
-      "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%2011.png?alt=media&token=3e8773e2-0389-4841-85ba-128e47586671",
-      "subtitle": "Cuy, Chicharrón",
-      "title": "Recreos"
-    },
-    {
       "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%2010.png?alt=media&token=106400ea-0acd-4602-a4bf-c5724ef75975",
       "imglocal": "/assets/brasa3.jpg",
       "subtitle": "Pollos a la Brasa",
@@ -448,6 +438,16 @@
       "imglocal": "/assets/pizza.jpg",
       "subtitle": "Pizzas y Pastas",
       "title": "Pizzerias"
+    },
+    {
+      "img": "https://cutt.ly/Cf7lmyY",
+      "subtitle": "Tacos, Nachos",
+      "title": "Tacos"
+    },
+    {
+      "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%2011.png?alt=media&token=3e8773e2-0389-4841-85ba-128e47586671",
+      "subtitle": "Cuy, Chicharrón",
+      "title": "Recreos"
     },
     {
       "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%206.png?alt=media&token=8997a24a-6b1f-42af-be83-c5ddf517ada1",
@@ -492,7 +492,7 @@
     },
     {
       "img": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/new%20home%2FMesa%20de%20trabajo%201%20copia%2018.png?alt=media&token=31a0743e-f0ab-435d-9b2a-3bdabe97bf2f",
-      "subtitle": "Productos para el hogar",
+      "subtitle": "Todo para el hogar",
       "title": "Minimarkets"
     },
     {
@@ -7516,7 +7516,7 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "4.50",
+        "price": "5.50",
         "title": "Buguie de carne, pollo o cerdo"
       },
       {
@@ -7529,7 +7529,7 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "6.50",
+        "price": "7.50",
         "title": "Buguie especial"
       },
       {
@@ -7542,7 +7542,7 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "8.00",
+        "price": "9.00",
         "title": "Buguie super especial"
       },
       {
@@ -7555,8 +7555,8 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "4.00",
-        "title": "Pollo deshilachado"
+        "price": "4.50",
+        "title": "Sandwich de Pollo deshilachado"
       },
       {
         "amount": 1,
@@ -7568,8 +7568,8 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "4.00",
-        "title": "Chorizo"
+        "price": "4.50",
+        "title": "Sandwich de Chorizo"
       },
       {
         "amount": 1,
@@ -7582,7 +7582,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "3.50",
-        "title": "Hot dog"
+        "title": "Sandwich de Hot dog"
       },
       {
         "amount": 1,
@@ -7595,7 +7595,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "4.50",
-        "title": "Jamon"
+        "title": "Sandwich de Jamon"
       },
       {
         "amount": 1,
@@ -7608,7 +7608,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "5.00",
-        "title": "Mixto"
+        "title": "Sandwich Mixto"
       },
       {
         "amount": 1,
@@ -7621,7 +7621,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "3.50",
-        "title": "Carne"
+        "title": "Hamburguesa de Carne"
       },
       {
         "amount": 1,
@@ -7633,8 +7633,8 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "3.50",
-        "title": "Pollo"
+        "price": "4.00",
+        "title": "Hamburguesa de Pollo"
       },
       {
         "amount": 1,
@@ -7647,7 +7647,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "4.00",
-        "title": "Cerdo"
+        "title": "Hamburguesa de Cerdo"
       },
       {
         "amount": 1,
@@ -7659,8 +7659,8 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "5.00",
-        "title": "Especial 1"
+        "price": "5.50",
+        "title": "Hamburguesa Especial 1"
       },
       {
         "amount": 1,
@@ -7672,8 +7672,8 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "6.00",
-        "title": "Especial 2"
+        "price": "6.50",
+        "title": "Hamburguesa Especial 2"
       },
       {
         "amount": 1,
@@ -7685,8 +7685,8 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "7.50",
-        "title": "Super especial"
+        "price": "8.00",
+        "title": "Hamburguesa Super especial"
       },
       {
         "amount": 1,
@@ -7698,8 +7698,8 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "6.00",
-        "title": "Pollo deshilachado al plato"
+        "price": "6.50",
+        "title": "Sandwich de Pollo deshilachado al plato"
       },
       {
         "amount": 1,
@@ -7711,8 +7711,8 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "6.00",
-        "title": "Chorizo al plato"
+        "price": "6.50",
+        "title": "Sandwich de Chorizo al plato"
       },
       {
         "amount": 1,
@@ -7725,7 +7725,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "5.50",
-        "title": "Hot dog al plato"
+        "title": "Sandwich de Hot dog al plato"
       },
       {
         "amount": 1,
@@ -7738,7 +7738,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "6.50",
-        "title": "Jamon al plato"
+        "title": "Sandwich de Jamon al plato"
       },
       {
         "amount": 1,
@@ -7751,7 +7751,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "7.00",
-        "title": "Mixto al plato"
+        "title": "Sandwich Mixto al plato"
       },
       {
         "amount": 1,
@@ -7764,7 +7764,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "5.50",
-        "title": "Carne al plato"
+        "title": "Hamburguesa de Carne al plato"
       },
       {
         "amount": 1,
@@ -7777,7 +7777,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "5.50",
-        "title": "Pollo al plato"
+        "title": "Hamburguesa de Pollo al plato"
       },
       {
         "amount": 1,
@@ -7790,7 +7790,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "6.00",
-        "title": "Cerdo al plato"
+        "title": "Hamburguesa de Cerdo al plato"
       },
       {
         "amount": 1,
@@ -7798,12 +7798,12 @@
         "codProduct": 30023,
         "codeStore": "bro008",
         "company": "Buguie Burguer",
-        "description": "Hamburguesa eleccion + jamon + queso",
+        "description": "Hamburguesa elección + jamon + queso",
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "7.00",
-        "title": "Especial 1 al plato"
+        "price": "7.50",
+        "title": "Hamburguesa Especial 1 al plato"
       },
       {
         "amount": 1,
@@ -7815,8 +7815,8 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "8.00",
-        "title": "Especial 2 al plato"
+        "price": "8.50",
+        "title": "Hamburguesa Especial 2 al plato"
       },
       {
         "amount": 1,
@@ -7828,8 +7828,8 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "9.50",
-        "title": "Super especial al plato"
+        "price": "10.00",
+        "title": "Hamburguesa Super especial al plato"
       },
       {
         "amount": 1,
@@ -7842,7 +7842,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "1.00",
-        "title": "Hot dog"
+        "title": "Hot Dog Extra"
       },
       {
         "amount": 1,
@@ -7855,7 +7855,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "1.50",
-        "title": "Queso"
+        "title": "Queso Extra"
       },
       {
         "amount": 1,
@@ -7868,7 +7868,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "1.50",
-        "title": "Huevo"
+        "title": "Huevo Extra"
       },
       {
         "amount": 1,
@@ -7881,7 +7881,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "2.00",
-        "title": "Hamburguesa carne"
+        "title": "Hamburguesa carne extra"
       },
       {
         "amount": 1,
@@ -7894,7 +7894,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "3.00",
-        "title": "Papas"
+        "title": "Papas Extra"
       },
       {
         "amount": 1,
@@ -7907,7 +7907,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "3.00",
-        "title": "Tocino"
+        "title": "Tocino Extra"
       },
       {
         "amount": 1,
@@ -7920,7 +7920,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "2.00",
-        "title": "Jamon del pais"
+        "title": "Jamon del pais extra"
       },
       {
         "amount": 1,
@@ -7933,7 +7933,7 @@
         "lat": "-13.6606",
         "lng": "-73.3867",
         "price": "3.00",
-        "title": "Sandwich pollo"
+        "title": "Sandwich pollo extra"
       },
       {
         "amount": 1,
@@ -7945,7 +7945,7 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "1.50",
+        "price": "2.00",
         "title": "Te"
       },
       {
@@ -7958,7 +7958,7 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "1.50",
+        "price": "2.00",
         "title": "Mate"
       },
       {
@@ -7971,7 +7971,7 @@
         "image": "",
         "lat": "-13.6606",
         "lng": "-73.3867",
-        "price": "1.50",
+        "price": "2.00",
         "title": "Cafe"
       },
       {
@@ -55887,7 +55887,8 @@
     "lumimazu@gmail.com",
     "adrianprudencioq@gmail.com",
     "angelfreites1807@gmail.com",
-    "147escobararenas@gmail.com"
+    "147escobararenas@gmail.com",
+    "rodri_horna@hotmail.com"
   ],
   "restaurantes": [
     {
