@@ -7,7 +7,7 @@
     "briner_pablo@hotmail.com",
     "yhamelizarandia@gmail.com"
   ],
-  "android": ["1.3.6"],
+  "android": ["1.3.7"],
   "bebidas": [
     {
       "closed": "22:00",
@@ -23,7 +23,7 @@
       "time": "35 - 45 min"
     },
     {
-      "closed": "24:00",
+      "closed": "22:00",
       "codCard": "beb004",
       "description": "Andahuaylas",
       "horary": "8AM - 12PM",
@@ -936,7 +936,7 @@
   ],
   "pollerias": [
     {
-      "closed": "23:00",
+      "closed": "22:00",
       "codCard": "pol011",
       "description": "Andahuaylas",
       "horary": "5PM - 11PM",
@@ -4810,7 +4810,7 @@
         "image": "https://cutt.ly/nfn0a42",
         "lat": "-13.655526",
         "lng": "-73.3867085",
-        "price": "18.00",
+        "price": "20.00",
         "title": "Maracuya Sour con Pisco"
       },
       {
@@ -57994,7 +57994,9 @@
     "angelfreites1807@gmail.com",
     "147escobararenas@gmail.com",
     "rodri_horna@hotmail.com",
-    "jmigueld04@gmail.com"
+    "jmigueld04@gmail.com",
+    "jefferson_yoan12@hotmail.com",
+    "marzo_9999@hotmail.com"
   ],
   "restaurantes": [
     {
