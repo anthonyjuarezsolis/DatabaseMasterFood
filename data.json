@@ -365,6 +365,19 @@
       "time": "30 - 45 min"
     },
     {
+      "closed": "22:00",
+      "codCard": "bro005",
+      "description": "Andahuaylas",
+      "horary": "12PM - 8PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FAndres%20Burger%20Productos%2Fandres%20open.jpg?alt=media&token=2dc0f566-231e-40d4-ab80-35b022fb361d",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FAndres%20Burger%20Productos%2Fandres%20closed.jpg?alt=media&token=e82c2ed7-dcf4-43f7-90df-ac8da1346204",
+      "lat": "-13.658882",
+      "lng": "-73.389081",
+      "name": "Los Favoritos de Andres",
+      "open": "12:00",
+      "time": "30 - 45 min"
+    },
+    {
       "closed": "21:00",
       "codCard": "bro008",
       "description": "Andahuaylas",
@@ -409,19 +422,6 @@
       "lat": "-13.655654",
       "lng": "-73.388766",
       "name": "Hakuna Matata",
-      "open": "12:00",
-      "time": "30 - 45 min"
-    },
-    {
-      "closed": "22:00",
-      "codCard": "bro005",
-      "description": "Andahuaylas",
-      "horary": "12PM - 8PM",
-      "image": "https://cutt.ly/ifF4F4N",
-      "imageClosed": "https://cutt.ly/9fF4GOd",
-      "lat": "-13.658882",
-      "lng": "-73.389081",
-      "name": "Los Favoritos de Andres",
       "open": "12:00",
       "time": "30 - 45 min"
     }
@@ -57996,7 +57996,8 @@
     "rodri_horna@hotmail.com",
     "jmigueld04@gmail.com",
     "jefferson_yoan12@hotmail.com",
-    "marzo_9999@hotmail.com"
+    "marzo_9999@hotmail.com",
+    "djhil11zeta@gmail.com"
   ],
   "restaurantes": [
     {
