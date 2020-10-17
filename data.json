@@ -964,6 +964,19 @@
     },
     {
       "closed": "22:00",
+      "codCard": "pol015",
+      "description": "Andahuaylas",
+      "horary": "4PM - 10PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fla%20casa%20de%20la%20carne.jpg?alt=media&token=0a10bf12-f03b-42fa-a546-5ab163dc3557",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fla%20casa%20de%20la%20carne%20closed.jpg?alt=media&token=de6db5c6-38b0-4db5-82c0-e569210feff2",
+      "lat": "-13.657789",
+      "lng": "-73.383607",
+      "name": "La Casa de la Carne",
+      "open": "16:00",
+      "time": "30 - 45 min"
+    },
+    {
+      "closed": "22:00",
       "codCard": "pol002",
       "description": "Andahuaylas",
       "horary": "4PM - 10PM",
@@ -1078,19 +1091,6 @@
       "name": "Tuc Tuc",
       "open": "18:00",
       "time": "30 - 40 min"
-    },
-    {
-      "closed": "22:00",
-      "codCard": "pol015",
-      "description": "Andahuaylas",
-      "horary": "4PM - 10PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fla%20casa%20de%20la%20carne.jpg?alt=media&token=0a10bf12-f03b-42fa-a546-5ab163dc3557",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fla%20casa%20de%20la%20carne%20closed.jpg?alt=media&token=de6db5c6-38b0-4db5-82c0-e569210feff2",
-      "lat": "-13.657789",
-      "lng": "-73.383607",
-      "name": "La Casa de la Carne",
-      "open": "16:00",
-      "time": "30 - 45 min"
     }
   ],
   "productos": {
@@ -53826,12 +53826,12 @@
     "pol015": [
       {
         "amount": 1,
-        "category": "Pollos",
+        "category": "Pollos al cilindro",
         "codProduct": 1,
         "codeStore": "bro006",
         "company": "La Casa de la Carne",
         "description": "Pollo al cilindro + papas nativas fritas + ensalada fresca + cremas",
-        "image": "",
+        "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2Fla%20casa%20de%20la%20carne%2FWhatsApp%20Image%202020-10-17%20at%202.38.39%20PM.jpeg?alt=media&token=69747430-8536-4325-ad84-a61effa9b928",
         "lat": "-13.657789",
         "lng": "-73.383607",
         "price": "50.00",
@@ -53839,12 +53839,12 @@
       },
       {
         "amount": 1,
-        "category": "Pollos",
+        "category": "Pollos al cilindro",
         "codProduct": 2,
         "codeStore": "bro006",
         "company": "La Casa de la Carne",
         "description": "Pollo al cilindro + papas nativas fritas + ensalada fresca + cremas",
-        "image": "",
+        "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2Fla%20casa%20de%20la%20carne%2FWhatsApp%20Image%202020-10-17%20at%202.38.39%20PM.jpeg?alt=media&token=69747430-8536-4325-ad84-a61effa9b928",
         "lat": "-13.657789",
         "lng": "-73.383607",
         "price": "26.00",
@@ -53852,12 +53852,12 @@
       },
       {
         "amount": 1,
-        "category": "Pollos",
+        "category": "Pollos al cilindro",
         "codProduct": 3,
         "codeStore": "bro006",
         "company": "La Casa de la Carne",
         "description": "Pollo al cilindro + papas nativas fritas + ensalada fresca + cremas",
-        "image": "",
+        "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2Fla%20casa%20de%20la%20carne%2FWhatsApp%20Image%202020-10-17%20at%202.38.39%20PM.jpeg?alt=media&token=69747430-8536-4325-ad84-a61effa9b928",
         "lat": "-13.657789",
         "lng": "-73.383607",
         "price": "13.00",
