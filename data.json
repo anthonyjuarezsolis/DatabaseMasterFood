@@ -142,6 +142,19 @@
       "name": "El Corderito",
       "open": "06:30",
       "time": "40 - 50 min"
+    },
+    {
+      "closed": "15:00",
+      "codCard": "cal005",
+      "description": "Andahuaylas",
+      "horary": "7:30AM - 3PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%2Fvista%20alegre.jpg?alt=media&token=cb2d94e2-b886-4658-9a39-3f36fd8a8f63",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%20closed%2Fvista%20alegre_closed.jpg?alt=media&token=54ecf4e9-f004-42cc-baf9-e82569ebd9a0",
+      "lat": "-13.660311",
+      "lng": "-73.382634",
+      "name": "Vista Alegre",
+      "open": "07:30",
+      "time": "50 - 60 min"
     }
   ],
   "cevicherías": [
@@ -1064,6 +1077,19 @@
       "name": "Tuc Tuc",
       "open": "18:00",
       "time": "30 - 40 min"
+    },
+    {
+      "closed": "22:00",
+      "codCard": "pol015",
+      "description": "Andahuaylas",
+      "horary": "4PM - 10PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fla%20casa%20de%20la%20carne.jpg?alt=media&token=0a10bf12-f03b-42fa-a546-5ab163dc3557",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fla%20casa%20de%20la%20carne%20closed.jpg?alt=media&token=de6db5c6-38b0-4db5-82c0-e569210feff2",
+      "lat": "-13.657789",
+      "lng": "-73.383607",
+      "name": "La Casa de la Carne",
+      "open": "16:00",
+      "time": "30 - 45 min"
     }
   ],
   "productos": {
@@ -14073,6 +14099,34 @@
         "lng": "-73.3886954",
         "price": "2.00",
         "title": "Te"
+      }
+    ],
+    "cal005": [
+      {
+        "amount": 1,
+        "category": "Sopas",
+        "codProduct": 1,
+        "codeStore": "rec001",
+        "company": "Vista Alegre",
+        "description": "",
+        "image": "https://cutt.ly/yghB3r2",
+        "lat": "-13.660311",
+        "lng": "-73.382634",
+        "price": "12.00",
+        "title": "Caldo de gallina"
+      },
+      {
+        "amount": 1,
+        "category": "Sopas",
+        "codProduct": 2,
+        "codeStore": "rec001",
+        "company": "Vista Alegre",
+        "description": "",
+        "image": "https://cutt.ly/UghB4Uw",
+        "lat": "-13.660311",
+        "lng": "-73.382634",
+        "price": "8.00",
+        "title": "Chairo"
       }
     ],
     "cev001": [
@@ -53768,6 +53822,47 @@
         "title": "1/8 Mostro"
       }
     ],
+    "pol015": [
+      {
+        "amount": 1,
+        "category": "Pollos",
+        "codProduct": 1,
+        "codeStore": "bro006",
+        "company": "La Casa de la Carne",
+        "description": "Pollo al cilindro + papas nativas fritas + ensalada fresca + cremas",
+        "image": "",
+        "lat": "-13.657789",
+        "lng": "-73.383607",
+        "price": "50.00",
+        "title": "1 Pollo entero"
+      },
+      {
+        "amount": 1,
+        "category": "Pollos",
+        "codProduct": 2,
+        "codeStore": "bro006",
+        "company": "La Casa de la Carne",
+        "description": "Pollo al cilindro + papas nativas fritas + ensalada fresca + cremas",
+        "image": "",
+        "lat": "-13.657789",
+        "lng": "-73.383607",
+        "price": "26.00",
+        "title": "1/2 Pollo"
+      },
+      {
+        "amount": 1,
+        "category": "Pollos",
+        "codProduct": 3,
+        "codeStore": "bro006",
+        "company": "La Casa de la Carne",
+        "description": "Pollo al cilindro + papas nativas fritas + ensalada fresca + cremas",
+        "image": "",
+        "lat": "-13.657789",
+        "lng": "-73.383607",
+        "price": "13.00",
+        "title": "1/4 Pollo"
+      }
+    ],
     "poll001": [
       {
         "amount": 1,
@@ -57953,13 +58048,13 @@
       "closed": "17:00",
       "codCard": "rec001",
       "description": "Andahuaylas",
-      "horary": "9AM - 5PM",
+      "horary": "11AM - 5PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%2Fvista%20alegre.jpg?alt=media&token=cb2d94e2-b886-4658-9a39-3f36fd8a8f63",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%20closed%2Fvista%20alegre_closed.jpg?alt=media&token=54ecf4e9-f004-42cc-baf9-e82569ebd9a0",
       "lat": "-13.660311",
       "lng": "-73.382634",
       "name": "Vista Alegre",
-      "open": "09:00",
+      "open": "11:00",
       "time": "50 - 60 min"
     },
     {
