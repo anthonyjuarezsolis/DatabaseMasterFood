@@ -106,17 +106,17 @@
   ],
   "calderías": [
     {
-      "closed": "22:00",
-      "codCard": "cal004",
+      "closed": "15:00",
+      "codCard": "cal005",
       "description": "Andahuaylas",
-      "horary": "4AM - 9:30PM",
-      "image": "https://cutt.ly/NfmlpHi",
-      "imageClosed": "https://cutt.ly/jfmldUq",
-      "lat": "-13.6560983",
-      "lng": "-73.3886954",
-      "name": "Calderia Misky",
-      "open": "04:00",
-      "time": "40 - 50 min"
+      "horary": "8:00AM - 3PM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%2Fvista%20alegre.jpg?alt=media&token=cb2d94e2-b886-4658-9a39-3f36fd8a8f63",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%20closed%2Fvista%20alegre_closed.jpg?alt=media&token=54ecf4e9-f004-42cc-baf9-e82569ebd9a0",
+      "lat": "-13.660311",
+      "lng": "-73.382634",
+      "name": "Vista Alegre",
+      "open": "08:00",
+      "time": "50 - 60 min"
     },
     {
       "closed": "14:00",
@@ -132,30 +132,30 @@
       "time": "40 - 50 min"
     },
     {
+      "closed": "21:30",
+      "codCard": "cal004",
+      "description": "Andahuaylas",
+      "horary": "8AM - 9:30PM",
+      "image": "https://cutt.ly/NfmlpHi",
+      "imageClosed": "https://cutt.ly/jfmldUq",
+      "lat": "-13.6560983",
+      "lng": "-73.3886954",
+      "name": "Calderia Misky",
+      "open": "08:00",
+      "time": "40 - 50 min"
+    },
+    {
       "closed": "20:00",
       "codCard": "cal003",
       "description": "Andahuaylas",
-      "horary": "6:30AM - 8PM",
+      "horary": "8:00AM - 8PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/sopas%2Fsopa003.jpg?alt=media&token=2267a591-5648-4924-b4b3-5b003ad10b62",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/sopas%20closed%2Fsopa003.jpg?alt=media&token=6f7b4e30-f671-4969-9023-7914b2053743",
       "lat": "-13.6578213",
       "lng": "-73.3882523",
       "name": "El Corderito",
-      "open": "06:30",
+      "open": "08:00",
       "time": "40 - 50 min"
-    },
-    {
-      "closed": "15:00",
-      "codCard": "cal005",
-      "description": "Andahuaylas",
-      "horary": "7:30AM - 3PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%2Fvista%20alegre.jpg?alt=media&token=cb2d94e2-b886-4658-9a39-3f36fd8a8f63",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%20closed%2Fvista%20alegre_closed.jpg?alt=media&token=54ecf4e9-f004-42cc-baf9-e82569ebd9a0",
-      "lat": "-13.660311",
-      "lng": "-73.382634",
-      "name": "Vista Alegre",
-      "open": "07:30",
-      "time": "50 - 60 min"
     }
   ],
   "cevicherías": [
