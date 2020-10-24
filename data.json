@@ -605,6 +605,10 @@
   "numeros": [
     {
       "local": "La Cusqueñita",
+      "category": "Calderias",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/sopas%2Fsopa002.jpeg?alt=media&token=bcf061f4-cc4d-49a5-8c27-d06438777722",
+      "lat": "-13.656376",
+      "lng": "-73.382767",
       "number": 952600017
     },
     {
@@ -28716,7 +28720,7 @@
         "title": "Mostrito"
       }
     ],
-    "chi009":[
+    "chi009": [
       {
         "amount": 1,
         "category": "Menu Chifa",
@@ -30133,7 +30137,8 @@
         "lng": "-73.389081",
         "price": "12.00",
         "title": "Chaufa con pollo y frejolito"
-      },{
+      },
+      {
         "amount": 1,
         "category": "Arroz chaufa",
         "codProduct": 90,
@@ -58118,7 +58123,8 @@
       "rangeThree": [3],
       "rangeFour": [4],
       "rangeFive": [5],
-      "rangemax": [6]
+      "rangemax": [6],
+      "rain": [0]
     }
   ]
 }
