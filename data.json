@@ -609,7 +609,7 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/sopas%2Fsopa002.jpeg?alt=media&token=bcf061f4-cc4d-49a5-8c27-d06438777722",
       "lat": "-13.656376",
       "lng": "-73.382767",
-      "number": 952600017
+      "number": 952600017,
     },
     {
       "local": "Takos Wey",
@@ -1098,6 +1098,14 @@
       "lat":"-13.6627131",
       "lng":"-73.4021843",
       "number": 920190171
+    },
+    {
+      "local": "Otros",
+      "category": "Otros",
+      "image":"",
+      "lat":"",
+      "lng":"",
+      "number": ""
     }
   ],
   "pizzerias": [
