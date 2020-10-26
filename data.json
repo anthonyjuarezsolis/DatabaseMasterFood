@@ -66,7 +66,7 @@
   ],
   "cafés": [
     {
-      "closed": "00:00",
+      "closed": "21:00",
       "codCard": "caf004",
       "description": "Andahuaylas",
       "horary": "8AM - 9PM",
@@ -75,11 +75,11 @@
       "lat": "-13.6568318",
       "lng": "-73.3895528",
       "name": "D'Marce",
-      "open": "00:00",
+      "open": "08:00",
       "time": "35 - 45 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "caf008",
       "description": "Andahuaylas",
       "horary": "8AM - 8PM",
@@ -88,7 +88,7 @@
       "lat": "-13.6565615",
       "lng": "-73.3864404",
       "name": "San Roque",
-      "open": "00:00",
+      "open": "08:00",
       "time": "30 - 40 min"
     },
     {
@@ -133,7 +133,7 @@
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "21:30",
       "codCard": "cal004",
       "description": "Andahuaylas",
       "horary": "8AM - 9:30PM",
@@ -142,7 +142,7 @@
       "lat": "-13.6560983",
       "lng": "-73.3886954",
       "name": "Calderia Misky",
-      "open": "00:00",
+      "open": "08:00",
       "time": "40 - 50 min"
     },
     {
@@ -315,7 +315,7 @@
       "time": "35 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "chi002",
       "description": "Andahuaylas",
       "horary": "12PM - 10PM",
@@ -324,11 +324,11 @@
       "lat": "-13.656392",
       "lng": "-73.384386",
       "name": "Chifa Milena",
-      "open": "00:00",
+      "open": "12:00",
       "time": "40 - 50 min"
     },
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "chi005",
       "description": "Andahuaylas",
       "horary": "11AM - 8PM",
@@ -337,7 +337,7 @@
       "lat": "-13.6560581",
       "lng": "-73.3900559",
       "name": "Iguana Grill",
-      "open": "00:00",
+      "open": "11:00",
       "time": "40 - 50 min"
     },
     {
@@ -443,14 +443,14 @@
   ],
   "tacos": [
     {
-      "closed": "00:00",
+      "closed": "21:00",
       "codCard": "mex001",
       "description": "Andahuaylas",
       "horary": "1PM - 9PM",
       "image": "https://cutt.ly/zf7aigV",
       "imageClosed": "https://cutt.ly/Nf7aiHd",
       "name": "Takos Wey",
-      "open": "00:00",
+      "open": "13:00",
       "time": "30 - 45 min"
     }
   ],
@@ -533,7 +533,7 @@
   "lluvia": [0],
   "makis": [
     {
-      "closed": "00:00",
+      "closed": "20:00",
       "codCard": "mak001",
       "description": "Andahuaylas",
       "horary": "11AM - 8PM",
@@ -542,7 +542,7 @@
       "lat": "-13.6560581",
       "lng": "-73.3900559",
       "name": "Iguana Grill",
-      "open": "00:00",
+      "open": "11:00",
       "time": "40 - 50 min"
     },
     {
@@ -917,7 +917,7 @@
     },
     {
       "local": "Pico de Oro",
-      "category": "pollerias",
+      "category": "Pollerias",
       "image":"https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2Fpico%20de%20oro.jpeg?alt=media&token=035e495c-ac7c-414f-9bba-3cd350de7563",
       "lat":"-13.657562",
       "lng":"-73.386713",
@@ -1203,7 +1203,7 @@
   ],
   "pollerias": [
     {
-      "closed": "00:00",
+      "closed": "23:00",
       "codCard": "pol011",
       "description": "Andahuaylas",
       "horary": "5PM - 11PM",
@@ -1212,7 +1212,7 @@
       "lat": "-13.656050",
       "lng": "-73.388953",
       "name": "Mi Pollo Loco",
-      "open": "00:00",
+      "open": "17:00",
       "time": "35 - 45 min"
     },
     {
