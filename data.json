@@ -369,7 +369,7 @@
   ],
   "fast food": [
     {
-      "closed": "00:00",
+      "closed": "22:00",
       "codCard": "bro006",
       "description": "Andahuaylas",
       "horary": "4PM - 10PM",
@@ -378,7 +378,7 @@
       "lat": "-13.657789",
       "lng": "-73.383607",
       "name": "La Casa de la Carne",
-      "open": "00:00",
+      "open": "16:00",
       "time": "30 - 45 min"
     },
     {
@@ -1082,7 +1082,7 @@
     },
     {
       "local": "Vista Alegre",
-      "category": "Calderías",
+      "category": "Multiple",
       "image":"https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%2Fvista%20alegre.jpg?alt=media&token=cb2d94e2-b886-4658-9a39-3f36fd8a8f63",
       "lat":"-13.660311",
       "lng":"-73.382634",
@@ -60661,14 +60661,14 @@
   ],
   "restaurantes": [
     {
-      "closed": "00:00",
+      "closed": "15:00",
       "codCard": "res001",
       "description": "Andahuaylas",
       "horary": "11AM - 3PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/restaurantes%2FsaboresOpen.jpg?alt=media&token=c4eb12a3-a39e-40b4-8ed7-d3646d2fa698",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/restaurantes%2FsaboresClosed.jpg?alt=media&token=df3a579e-20b1-4848-ba30-c6f8a5a297ee",
       "name": "Tierra de Sabores",
-      "open": "00:00",
+      "open": "11:00",
       "time": "40 - 50 min"
     }
   ],
