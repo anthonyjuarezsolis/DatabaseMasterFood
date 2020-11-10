@@ -973,15 +973,9 @@
     {
       "local": "La Nueva Casona",
       "category": "Pollerias",
-<<<<<<< HEAD
       "image":"https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2Fcasona%20parque.jpg?alt=media&token=e24bf1aa-c81e-4513-8e69-6932b523c212",
       "lat": "-13.6566515",
       "lng": "-73.3894164",
-=======
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/pollerias%2Fpollo006.jpg?alt=media&token=02fc6c3f-488f-43a5-91e8-187a21883351",
-      "lat": "-13.656510",
-      "lng": "-73.383944",
->>>>>>> f7f768454bd4cd5dbd2b89893fdfbd32e5e0b776
       "number": "(083) 421396"
     },
     {
