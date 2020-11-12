@@ -726,8 +726,8 @@
       "local": "Tierra de Sabores",
       "category": "Restaurantes",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/restaurantes%2FsaboresOpen.jpg?alt=media&token=c4eb12a3-a39e-40b4-8ed7-d3646d2fa698",
-      "lat": "-13.657668",
-      "lng": "-73.410031",
+      "lat": "-13.658550",
+      "lng": "-73.406332",
       "number": 958205043
     },
     {
@@ -933,7 +933,7 @@
     {
       "local": "Los Favoritos de Andres",
       "category": "Multiple",
-      "image":"https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FAndres%20Burger%20Productos%2Fhamburguesa%20clasica.jpeg?alt=media&token=b1eca5f4-d709-45ad-94ba-2f6b9d160a80",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2FAndres%20Burger%20Productos%2Fhamburguesa%20clasica.jpeg?alt=media&token=b1eca5f4-d709-45ad-94ba-2f6b9d160a80",
       "lat": "-13.6633217",
       "lng": "-73.3987589",
       "number": 989647476
@@ -1157,7 +1157,7 @@
     {
       "local": "Don Jose",
       "category": "Pollerias",
-      "image":"https://cutt.ly/PflWCRp",
+      "image": "https://cutt.ly/PflWCRp",
       "lat": "-13.6601793",
       "lng": "-73.3826057",
       "number": 941411237
@@ -61150,8 +61150,8 @@
         "company": "Tierra de Sabores",
         "description": "",
         "image": "https://cutt.ly/Rf8R8TY",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "10.00",
         "title": "Lomo Saltado"
       },
@@ -61163,8 +61163,8 @@
         "company": "Tierra de Sabores",
         "description": "Con papas doradas",
         "image": "",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "10.00",
         "title": "Pechuga a la plancha"
       },
@@ -61176,8 +61176,8 @@
         "company": "Tierra de Sabores",
         "description": "Con papas doradas",
         "image": "https://cutt.ly/zf8ThPs",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "10.00",
         "title": "Chicharrón de pollo"
       },
@@ -61189,8 +61189,8 @@
         "company": "Tierra de Sabores",
         "description": "Con yucas fritas",
         "image": "https://cutt.ly/bf8Tuhg",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "12.00",
         "title": "Trucha frita"
       },
@@ -61202,8 +61202,8 @@
         "company": "Tierra de Sabores",
         "description": "Con papas doradas",
         "image": "",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "12.00",
         "title": "Chuleta a la parrilla"
       },
@@ -61215,8 +61215,8 @@
         "company": "Tierra de Sabores",
         "description": "",
         "image": "",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "15.00",
         "title": "Bistec a lo pobre"
       },
@@ -61228,8 +61228,8 @@
         "company": "Tierra de Sabores",
         "description": "",
         "image": "https://cutt.ly/lf8TLEn",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "10.00",
         "title": "Pechuga de pollo a la plancha"
       },
@@ -61241,8 +61241,8 @@
         "company": "Tierra de Sabores",
         "description": "",
         "image": "https://cutt.ly/of8TAz5",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "12.00",
         "title": "Salmon al vapor"
       },
@@ -61254,8 +61254,8 @@
         "company": "Tierra de Sabores",
         "description": "",
         "image": "https://cutt.ly/8f8Tx6J",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "12.00",
         "title": "Bistec a la parrilla"
       },
@@ -61267,8 +61267,8 @@
         "company": "Tierra de Sabores",
         "description": "",
         "image": "https://cutt.ly/Zf8TWaZ",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "12.00",
         "title": "Filete de tilapia"
       },
@@ -61280,8 +61280,8 @@
         "company": "Tierra de Sabores",
         "description": "",
         "image": "https://cutt.ly/2f8TIDI",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "12.00",
         "title": "Trucha al vapor"
       },
@@ -61293,8 +61293,8 @@
         "company": "Tierra de Sabores",
         "description": "",
         "image": "",
-        "lat": "-13.657668",
-        "lng": "-73.410031",
+        "lat": "-13.658550",
+        "lng": "-73.406332",
         "price": "10.00",
         "title": "Chicharrón de pollo"
       }
