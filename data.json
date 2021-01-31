@@ -15,11 +15,11 @@
       "closed": "22:00",
       "codCard": "par001",
       "description": "Andahuaylas",
-      "horary": "1:30PM - 10PM",
+      "horary": "6PM - 10PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%2Fbro003.jpg?alt=media&token=eb068cd1-94eb-413e-bdf1-bbe7e0676adb",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/brosterias%20closed%2Fbro003_closed.jpg?alt=media&token=0fd484ff-38e9-4caf-b598-9ccf8fbead65",
       "name": "Lucero",
-      "open": "13:30",
+      "open": "18:00",
       "time": "30 - 45 min"
     }
   ],
@@ -107,17 +107,6 @@
     }
   ],
   "vida": [
-    {
-      "closed": "00:00",
-      "codCard": "vid001",
-      "description": "Andahuaylas",
-      "horary": "0AM - 0PM",
-      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%20nuevos%20dic%2Fviveromaya.jpeg?alt=media&token=58989ea8-eaea-4b8b-be90-19b29bc274e5",
-      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%20nuevos%20dic%2Fviveromaya_closed.jpeg?alt=media&token=114c141e-c9dd-4152-bc1e-f87ee40be6ea",
-      "name": "El Vivero de Maya",
-      "open": "00:00",
-      "time": "40 - 50 min"
-    },
     {
       "closed": "00:00",
       "codCard": "vid002",
@@ -648,7 +637,7 @@
       "time": "30 - 45 min"
     },
     {
-      "closed": "21:00",
+      "closed": "00:00",
       "codCard": "hel003",
       "description": "Andahuaylas",
       "horary": "8AM - 9PM",
@@ -657,20 +646,20 @@
       "lat": "-13.6568318",
       "lng": "-73.3895528",
       "name": "D'Marce",
-      "open": "08:00",
+      "open": "00:00",
       "time": "35 - 45 min"
     }
   ],
   "tacos": [
     {
-      "closed": "22:00",
+      "closed": "00:00",
       "codCard": "mex001",
       "description": "Andahuaylas",
       "horary": "4PM - 10PM",
       "image": "https://cutt.ly/zf7aigV",
       "imageClosed": "https://cutt.ly/Nf7aiHd",
       "name": "Takos Wey",
-      "open": "16:00",
+      "open": "00:00",
       "time": "30 - 45 min"
     },
     {
@@ -922,22 +911,8 @@
       "codCard": "tec001",
       "description": "Andahuaylas",
       "horary": "9AM - 8PM",
-      "image": "",
-      "imageClosed": "",
-      "lat": "-13.6661312",
-      "lng": "-73.3956855",
-      "name": "Iclub Peru",
-      "open": "08:00",
-      "time": "20 - 30 min",
-      "exclusive": true
-    },
-    {
-      "closed": "22:00",
-      "codCard": "tec001",
-      "description": "Andahuaylas",
-      "horary": "9AM - 8PM",
-      "image": "",
-      "imageClosed": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/master%20food%20%2B%2Ficlub.jpg?alt=media&token=03025526-1c28-498e-aaf3-cf61809b0c35",
+      "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/master%20food%20%2B_closed%2Ficlub_closed.jpg?alt=media&token=068aa9e4-0a14-449c-8d3c-6196a0ae4d4d",
       "lat": "-13.6661312",
       "lng": "-73.3956855",
       "name": "Iclub Peru",
@@ -1066,8 +1041,8 @@
       "local": "Takos Wey",
       "category": "Tacos",
       "image": "https://cutt.ly/zf7aigV",
-      "lat": "-13.663801",
-      "lng": "-73.402010",
+      "lat": "-13.6560912",
+      "lng": "-73.3927113",
       "number": 970271283
     },
     {
@@ -1574,7 +1549,7 @@
       "time": "30 - 40 min"
     },
     {
-      "closed": "21:50",
+      "closed": "00:00",
       "codCard": "piz006",
       "description": "Andahuaylas",
       "horary": "4PM - 9:50PM",
@@ -1583,7 +1558,7 @@
       "lat": "-13.6661312",
       "lng": "-73.3956855",
       "name": "Hot Pizza",
-      "open": "16:00",
+      "open": "00:00",
       "time": "30 - 40 min"
     },
     {
@@ -9948,270 +9923,166 @@
       {
         "amount": 1,
         "category": "Combos",
-        "codProduct": 4591,
+        "codProduct": 1,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Rachi + Anticucho + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "17.00",
+        "title": "Combo 1 - Rachi + Anticucho"
+      },
+      {
+        "amount": 1,
+        "category": "Combos",
+        "codProduct": 2,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
         "price": "16.00",
-        "title": "Combo 1 Rachi + Anticucho"
+        "title": "Combo 2 - Parrilla de pollo + Anticucho"
       },
       {
         "amount": 1,
         "category": "Combos",
-        "codProduct": 4592,
-        "codeStore": "par001",
-        "company": "Lucero",
-        "description": "Parrilla de pollo + Anticucho + Papa + Ensalada",
-        "image": "",
-        "lat": "-13.6566245",
-        "lng": "-73.3893933",
-        "price": "15.00",
-        "title": "Combo 2 Parrilla de pollo + Anticucho"
-      },
-      {
-        "amount": 1,
-        "category": "Combos",
-        "codProduct": 4593,
+        "codProduct": 3,
         "codeStore": "par001",
         "company": "Lucero",
         "description": "Lomo fino + Rachi + Anticucho + Mollejita + Chorizo + Platano + Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
-        "price": "24.00",
+        "price": "25.00",
         "title": "Super Combo"
       },
       {
         "amount": 1,
-        "category": "Filetes",
-        "codProduct": 4611,
+        "category": "Parrillas",
+        "codProduct": 4,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Filete de pollo a la parrilla + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
-        "price": "10.00",
+        "price": "11.00",
         "title": "Filete de pollo a la parrilla"
       },
       {
         "amount": 1,
-        "category": "Lomos",
-        "codProduct": 4612,
+        "category": "Parrillas",
+        "codProduct": 5,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Lomo fino a la parrilla + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
-        "price": "14.00",
+        "price": "16.00",
         "title": "Lomo fino a la parrilla"
       },
       {
         "amount": 1,
-        "category": "Chuletas",
-        "codProduct": 4613,
+        "category": "Parrillas",
+        "codProduct": 6,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Chuleta de cerdo a la parrilla + Papa + Ensalada",
-        "image": "",
-        "lat": "-13.6566245",
-        "lng": "-73.3893933",
-        "price": "13.00",
-        "title": "Chuleta de cerdo a la parrilla"
-      },
-      {
-        "amount": 1,
-        "category": "Lomos",
-        "codProduct": 4614,
-        "codeStore": "par001",
-        "company": "Lucero",
-        "description": "Lomo fino al pisco + Papa + Ensalada",
-        "image": "",
-        "lat": "-13.6566245",
-        "lng": "-73.3893933",
-        "price": "15.00",
-        "title": "Lomo fino al pisco"
-      },
-      {
-        "amount": 1,
-        "category": "Pollos",
-        "codProduct": 4615,
-        "codeStore": "par001",
-        "company": "Lucero",
-        "description": "Pollo marinado + Papa + Ensalada",
-        "image": "",
-        "lat": "-13.6566245",
-        "lng": "-73.3893933",
-        "price": "12.00",
-        "title": "Pollo marinado"
-      },
-      {
-        "amount": 1,
-        "category": "Lomos",
-        "codProduct": 4599,
-        "codeStore": "par001",
-        "company": "Lucero",
-        "description": "Lomo saltado + Papa + Ensalada",
-        "image": "",
-        "lat": "-13.6566245",
-        "lng": "-73.3893933",
-        "price": "9.00",
-        "title": "Lomo saltado"
-      },
-      {
-        "amount": 1,
-        "category": "Tallarines",
-        "codProduct": 4600,
-        "codeStore": "par001",
-        "company": "Lucero",
-        "description": "Tallarin saltado + Papa + Ensalada",
-        "image": "",
-        "lat": "-13.6566245",
-        "lng": "-73.3893933",
-        "price": "10.00",
-        "title": "Tallarin saltado"
-      },
-      {
-        "amount": 1,
-        "category": "Extras",
-        "codProduct": 4601,
-        "codeStore": "par001",
-        "company": "Lucero",
-        "description": "Rachi + Papa + Ensalada",
-        "image": "",
-        "lat": "-13.6566245",
-        "lng": "-73.3893933",
-        "price": "13.50",
-        "title": "Rachi"
-      },
-      {
-        "amount": 1,
-        "category": "Extras",
-        "codProduct": 4602,
-        "codeStore": "par001",
-        "company": "Lucero",
-        "description": "Mollejitas + Papa + Ensalada",
-        "image": "",
-        "lat": "-13.6566245",
-        "lng": "-73.3893933",
-        "price": "13.00",
-        "title": "Mollejitas"
-      },
-      {
-        "amount": 1,
-        "category": "Lomos",
-        "codProduct": 4603,
-        "codeStore": "par001",
-        "company": "Lucero",
-        "description": "Lomo a lo pobre + Papa + Ensalada",
-        "image": "",
-        "lat": "-13.6566245",
-        "lng": "-73.3893933",
-        "price": "18.00",
-        "title": "Lomo a lo pobre"
-      },
-      {
-        "amount": 1,
-        "category": "Piqueos",
-        "codProduct": 4604,
-        "codeStore": "par001",
-        "company": "Lucero",
-        "description": "Piqueo mixto + Papa + Ensalada",
-        "image": "",
-        "lat": "-13.6566245",
-        "lng": "-73.3893933",
-        "price": "20.00",
-        "title": "Piqueo mixto"
-      },
-      {
-        "amount": 1,
-        "category": "Extras",
-        "codProduct": 4605,
-        "codeStore": "par001",
-        "company": "Lucero",
-        "description": "Churrasco + Papa + Ensalada",
-        "image": "",
-        "lat": "-13.6566245",
-        "lng": "-73.3893933",
-        "price": "12.00",
-        "title": "Churrasco"
-      },
-      {
-        "amount": 1,
-        "category": "Extras",
-        "codProduct": 4606,
-        "codeStore": "par001",
-        "company": "Lucero",
-        "description": "Pancita + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
         "price": "14.00",
-        "title": "Pancita"
+        "title": "Chuleta de cerdo a la parrilla"
       },
       {
         "amount": 1,
-        "category": "Extras",
-        "codProduct": 4607,
+        "category": "Parrillas",
+        "codProduct": 7,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Higado encebollado al jugo + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
         "price": "13.00",
-        "title": "Higado encebollado al jugo"
+        "title": "Lomo saltado al pisco"
       },
       {
         "amount": 1,
-        "category": "Chicharrones",
-        "codProduct": 4608,
+        "category": "Parrillas",
+        "codProduct": 8,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Chicharron de pollo + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
-        "price": "10.00",
-        "title": "Chicharron de pollo"
+        "price": "14.00",
+        "title": "Pollo marinado"
       },
       {
         "amount": 1,
-        "category": "Extras",
-        "codProduct": 4609,
+        "category": "Combinados",
+        "codProduct": 9,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Mollejitas + Rachi y Pancita + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
-        "price": "18.00",
-        "title": "Mollejitas + Rachi y Pancita"
+        "price": "11.00",
+        "title": "Lomo saltado"
       },
       {
         "amount": 1,
-        "category": "Brochetas",
-        "codProduct": 4610,
+        "category": "Combinados",
+        "codProduct": 10,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Brocheta Hawaiana + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
-        "price": "12.00",
-        "title": "Brocheta Hawaiana"
+        "price": "11.00",
+        "title": "Tallarin saltado"
+      },
+      {
+        "amount": 1,
+        "category": "Combinados",
+        "codProduct": 11,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "+ Papa + Ensalada",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "15.00",
+        "title": "Rachi"
+      },
+      {
+        "amount": 1,
+        "category": "Combinados",
+        "codProduct": 12,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "+ Papa + Ensalada",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "14.00",
+        "title": "Mollejitas"
       },
       {
         "amount": 1,
         "category": "Anticuchos",
-        "codProduct": 4594,
+        "codProduct": 13,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Anticucho de lomito + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
@@ -10221,54 +10092,301 @@
       {
         "amount": 1,
         "category": "Anticuchos",
-        "codProduct": 4595,
+        "codProduct": 14,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Anticucho de pollo + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
-        "price": "9.50",
+        "price": "10.00",
         "title": "Anticucho de pollo"
       },
       {
         "amount": 1,
         "category": "Anticuchos",
-        "codProduct": 4596,
+        "codProduct": 15,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Anticucho de Corazon + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
-        "price": "10.00",
+        "price": "11.00",
         "title": "Anticucho de Corazon"
       },
       {
         "amount": 1,
-        "category": "Brochetas",
-        "codProduct": 4597,
+        "category": "Anticuchos",
+        "codProduct": 16,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Brochetas de pollo + Papa + Ensalada",
+        "description": "+ Papa + Ensalada",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
-        "price": "9.00",
+        "price": "11.00",
         "title": "Brochetas de pollo"
       },
       {
         "amount": 1,
-        "category": "Anticuchos",
-        "codProduct": 4598,
+        "category": "Bebidas",
+        "codProduct": 17,
         "codeStore": "par001",
         "company": "Lucero",
-        "description": "Anticucho de alitas + Papa + Ensalada",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "6.00",
+        "title": "Gaseosa inka kola 1Lt"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 18,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "6.00",
+        "title": "Gaseosa coca cola 1Lt"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 19,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
         "image": "",
         "lat": "-13.6566245",
         "lng": "-73.3893933",
         "price": "10.00",
-        "title": "Anticucho de alitas"
+        "title": "Gaseosa inka kola 2Lt"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 20,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "6.00",
+        "title": "Gaseosa coca cola 2Lt"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 21,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "2.00",
+        "title": "Gaseosa personal"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 22,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "8.00",
+        "title": "1 jarra de chicha morada"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 23,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "5.00",
+        "title": "1/2 jarra de chicha morada"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 24,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "8.00",
+        "title": "1 jarra de limonada"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 25,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "5.00",
+        "title": "1/2 jarra de chicha morada"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 26,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "8.00",
+        "title": "1 jarra de maracuya"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 27,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "5.00",
+        "title": "1/2 jarra de chicha morada"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 28,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "25.00",
+        "title": "Vino"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 29,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "25.00",
+        "title": "Hidromiel"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 30,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "7.00",
+        "title": "Cerveza corona"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 31,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "6.00",
+        "title": "Cerveza pilsen"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 32,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "7.00",
+        "title": "Cerveza negra"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 33,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "7.00",
+        "title": "Cerveza cuzqueña de trigo"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 34,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "7.00",
+        "title": "Cerveza cuzqueña dorada"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 35,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "4.00",
+        "title": "Cafe"
+      },
+      {
+        "amount": 1,
+        "category": "Bebidas",
+        "codProduct": 36,
+        "codeStore": "par001",
+        "company": "Lucero",
+        "description": "",
+        "image": "",
+        "lat": "-13.6566245",
+        "lng": "-73.3893933",
+        "price": "2.00",
+        "title": "infusiones"
       }
     ],
     "bro004": [
@@ -19855,11 +19973,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 0,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "12.00",
+        "price": "13.00",
         "title": "Choros a la chalaca"
       },
       {
@@ -19869,11 +19987,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 0,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "9.00",
+        "price": "10.00",
         "title": "Pichanguita de mariscos"
       },
       {
@@ -19883,11 +20001,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 0,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "12.00",
+        "price": "13.00",
         "title": "Tequeño de langostino"
       },
       {
@@ -19897,11 +20015,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 0,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "6.00",
+        "price": "7.00",
         "title": "Tequeño de Queso"
       },
       {
@@ -19911,11 +20029,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "14.00",
+        "price": "15.00",
         "title": "Causa rellena langostinos"
       },
       {
@@ -19925,11 +20043,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "15.00",
+        "price": "16.00",
         "title": "Causa rellena de pulpa de cangrejo"
       },
       {
@@ -19939,11 +20057,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "19.00",
+        "price": "20.00",
         "title": "Causa rellena de Trucha a la Parrilla"
       },
       {
@@ -19953,11 +20071,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "16.00",
+        "price": "17.00",
         "title": "Causa rellena de Langostinos al Panko"
       },
       {
@@ -19967,11 +20085,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "8.00",
+        "price": "9.00",
         "title": "Leche de tigre"
       },
       {
@@ -19981,11 +20099,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "15.00",
+        "price": "16.00",
         "title": "Leche de pantera"
       },
       {
@@ -19995,11 +20113,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "13.00",
+        "price": "14.00",
         "title": "Ceviche Pescado Junior"
       },
       {
@@ -20009,11 +20127,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "12.00",
+        "price": "13.00",
         "title": "Ceviche Trucha Junior"
       },
       {
@@ -20023,11 +20141,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "15.00",
+        "price": "16.00",
         "title": "Arroz c/ Marisco Junior"
       },
       {
@@ -20037,11 +20155,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "13.00",
+        "price": "14.00",
         "title": "Chicharrón de Pescado Junior"
       },
       {
@@ -20051,11 +20169,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "12.00",
+        "price": "12300",
         "title": "Chicharrón de Trucha Junior"
       },
       {
@@ -20065,11 +20183,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "15.00",
+        "price": "16.00",
         "title": "Arroz Chaufa Mariscos Junior"
       },
       {
@@ -20079,11 +20197,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "15.00",
+        "price": "16.00",
         "title": "Ceviche Mixto Pescado Junior"
       },
       {
@@ -20093,11 +20211,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "22.00",
+        "price": "23.00",
         "title": "Ceviche de Pescado"
       },
       {
@@ -20107,11 +20225,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "25.00",
+        "price": "26.00",
         "title": "Ceviche Mixto de Pescado"
       },
       {
@@ -20121,11 +20239,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "20.00",
+        "price": "21.00",
         "title": "Ceviche Trucha"
       },
       {
@@ -20135,11 +20253,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "24.00",
+        "price": "25.00",
         "title": "Ceviche Mixto Trucha"
       },
       {
@@ -20149,11 +20267,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "25.00",
+        "price": "26.00",
         "title": "Ceviche Conchas Negras"
       },
       {
@@ -20163,11 +20281,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "28.00",
+        "price": "29.00",
         "title": "Ceviche Clásico"
       },
       {
@@ -20177,11 +20295,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "27.00",
+        "price": "28.00",
         "title": "Ceviche DLoa"
       },
       {
@@ -20191,11 +20309,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "23.00",
+        "price": "24.00",
         "title": "Tiradito de Pescado en Crema Aji Amarillo"
       },
       {
@@ -20205,11 +20323,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "22.00",
+        "price": "23.00",
         "title": "Tiradito de Trucha en Crema Aji Amarillo"
       },
       {
@@ -20219,11 +20337,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "33.00",
+        "price": "34.00",
         "title": "Ceviche Trilogía, Pescado, Conchas Negras, Pulpo"
       },
       {
@@ -20233,11 +20351,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "25.00",
+        "price": "26.00",
         "title": "Ceviche de Pescado + Chicharrón de Pescado"
       },
       {
@@ -20247,11 +20365,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "35.00",
+        "price": "36.00",
         "title": "Ceviche de Pescado + Chicharrón de Calamar"
       },
       {
@@ -20261,11 +20379,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "28.00",
+        "price": "29.00",
         "title": "Ceviche de Pescado + Arroz c/ Mariscos"
       },
       {
@@ -20275,11 +20393,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "29.00",
+        "price": "30.00",
         "title": "Ceviche de Pescado + Arroz Chaufa de Mariscos"
       },
       {
@@ -20289,11 +20407,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "24.00",
+        "price": "25.00",
         "title": "Ceviche de Trucha + Chicharrón de Trucha"
       },
       {
@@ -20303,11 +20421,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "27.00",
+        "price": "28.00",
         "title": "Ceviche de Trucha + Arroz c/ Mariscos"
       },
       {
@@ -20317,11 +20435,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "28.00",
+        "price": "29.00",
         "title": "Ceviche de Trucha + Chaufa de Mariscos"
       },
       {
@@ -20331,11 +20449,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "26.00",
+        "price": "27.00",
         "title": "Ceviche de Pescado + Causa Rellena de Langostinos"
       },
       {
@@ -20345,11 +20463,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "33.00",
+        "price": "34.00",
         "title": "Ceviche de Pescado + Chicharrón de Pescado + Causa Rellena de Langostinos"
       },
       {
@@ -20359,11 +20477,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "33.00",
+        "price": "34.00",
         "title": "Ceviche de Pescado + Chicharrón + Arroz c/ Mariscos"
       },
       {
@@ -20373,11 +20491,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "32.00",
+        "price": "33.00",
         "title": "Ceviche de Trucha + Arroz c/ Mariscos + Chicharrón de Trucha"
       },
       {
@@ -20387,11 +20505,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "25.00",
+        "price": "26.00",
         "title": "Arroz c/ Mariscos"
       },
       {
@@ -20401,11 +20519,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "28.00",
+        "price": "29.00",
         "title": "Chaufa de Mariscos"
       },
       {
@@ -20415,11 +20533,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "23.00",
+        "price": "24.00",
         "title": "Chaufa de Pescado"
       },
       {
@@ -20429,11 +20547,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "35.00",
+        "price": "36.00",
         "title": "Arroz con Camarones"
       },
       {
@@ -20443,11 +20561,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "27.00",
+        "price": "28.00",
         "title": "Arroz DLoa"
       },
       {
@@ -20457,11 +20575,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "26.00",
+        "price": "27.00",
         "title": "Arroz c/ Langostinos"
       },
       {
@@ -20471,11 +20589,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "28.00",
+        "price": "29.00",
         "title": "Tallarines c/ Mariscos"
       },
       {
@@ -20485,11 +20603,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "30.00",
+        "price": "31.00",
         "title": "Arroz c/ Conchas Negras"
       },
       {
@@ -20499,11 +20617,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "28.00",
+        "price": "29.00",
         "title": "Tallarines Verdes c/ Langostino al Panko"
       },
       {
@@ -20513,11 +20631,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "Salsas: Al ajo, A lo macho, de Champiñones",
+        "description": "Salsas: Al ajo, A lo macho, de Champiñones - incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "25.00",
+        "price": "26.00",
         "title": "Filete a la Plancha c/ Papas Fritas y Arroz"
       },
       {
@@ -20527,11 +20645,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "Salsas: Al ajo, A lo macho, de Champiñones",
+        "description": "Salsas: Al ajo, A lo macho, de Champiñones - incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "25.00",
+        "price": "26.00",
         "title": "Filete de Pescado Frito, Yuca y Arroz"
       },
       {
@@ -20541,11 +20659,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "Salsas: Al ajo, A lo macho, de Champiñones",
+        "description": "Salsas: Al ajo, A lo macho, de Champiñones - incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "45.00",
+        "price": "46.00",
         "title": "Chita Frita con Arroz y Yucas Fritas"
       },
       {
@@ -20555,11 +20673,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "Salsas: Al ajo, A lo macho, de Champiñones",
+        "description": "Salsas: Al ajo, A lo macho, de Champiñones - incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "30.00",
+        "price": "31.00",
         "title": "Cabrilla Frita con Arroz y Yucas Fritas"
       },
       {
@@ -20569,11 +20687,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "Salsas: Al ajo, A lo macho, de Champiñones",
+        "description": "Salsas: Al ajo, A lo macho, de Champiñones - incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "35.00",
+        "price": "36.00",
         "title": "Tramboyo Frito"
       },
       {
@@ -20583,11 +20701,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "23.00",
+        "price": "24.00",
         "title": "Sudado de Pescado"
       },
       {
@@ -20597,11 +20715,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "25.00",
+        "price": "26.00",
         "title": "Sudado Mixto de Pescado"
       },
       {
@@ -20611,11 +20729,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "22.00",
+        "price": "23.00",
         "title": "Sudado de Trucha"
       },
       {
@@ -20625,11 +20743,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "25.00",
+        "price": "26.00",
         "title": "Parihuela"
       },
       {
@@ -20639,11 +20757,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "45.00",
+        "price": "46.00",
         "title": "Parihuela de Chita"
       },
       {
@@ -20653,11 +20771,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "35.00",
+        "price": "36.00",
         "title": "Parihuela de Cabrilla"
       },
       {
@@ -20667,11 +20785,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "35.00",
+        "price": "36.00",
         "title": "Sudado de Tramboyo"
       },
       {
@@ -20681,11 +20799,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "23.00",
+        "price": "24.00",
         "title": "Chupe de Pescado"
       },
       {
@@ -20695,11 +20813,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "35.00",
+        "price": "36.00",
         "title": "Chupe de Camarones"
       },
       {
@@ -20709,11 +20827,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "22.00",
+        "price": "23.00",
         "title": "Chicharrón de Pescado"
       },
       {
@@ -20723,11 +20841,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "20.00",
+        "price": "21.00",
         "title": "Chicharrón de Trucha"
       },
       {
@@ -20737,11 +20855,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "32.00",
+        "price": "33.00",
         "title": "Chicharrón de Calamar"
       },
       {
@@ -20751,11 +20869,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "35.00",
+        "price": "36.00",
         "title": "Chicharrón de Mariscos"
       },
       {
@@ -20765,11 +20883,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "25.00",
+        "price": "26.00",
         "title": "Chicharrón Mixto de Pescado"
       },
       {
@@ -20779,11 +20897,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "24.00",
+        "price": "25.00",
         "title": "Chicharrón Mixto de Trucha"
       },
       {
@@ -20793,11 +20911,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "23.00",
+        "price": "24.00",
         "title": "Jalea de Pescado"
       },
       {
@@ -20807,11 +20925,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "20.00",
+        "price": "21.00",
         "title": "Jalea de Trucha"
       },
       {
@@ -20821,11 +20939,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "25.00",
+        "price": "26.00",
         "title": "Jalea Mixta de Pescado"
       },
       {
@@ -20835,11 +20953,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "24.00",
+        "price": "25.00",
         "title": "Jalea Mixta de Trucha"
       },
       {
@@ -20849,11 +20967,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "30.00",
+        "price": "31.00",
         "title": "Jalea DLoa"
       },
       {
@@ -20863,11 +20981,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "26.00",
+        "price": "27.00",
         "title": "Lomo Saltado"
       },
       {
@@ -20877,11 +20995,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "26.00",
+        "price": "27.00",
         "title": "Lomo a la Plancha c/ Papas y Arroz"
       },
       {
@@ -20891,11 +21009,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "20.00",
+        "price": "21.00",
         "title": "Pollo a la Plancha"
       },
       {
@@ -20905,11 +21023,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "20.00",
+        "price": "21.00",
         "title": "Pollo Saltado"
       },
       {
@@ -20919,11 +21037,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "20.00",
+        "price": "21.00",
         "title": "Milanesa de Pollo + Papas Fritas + Arroz"
       },
       {
@@ -20933,11 +21051,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "24.00",
+        "price": "25.00",
         "title": "Arroz c/ Pato"
       },
       {
@@ -20947,11 +21065,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "24.00",
+        "price": "25.00",
         "title": "Seco de Pato"
       },
       {
@@ -20961,11 +21079,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "28.00",
+        "price": "29.00",
         "title": "Tacu Tacu c/ Lomo Saltado, Lomo a la Parrilla"
       },
       {
@@ -20975,11 +21093,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 1,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "28.00",
+        "price": "29.00",
         "title": "Fetuccini a la Huancaina con Lomo Saltado o Parrilla"
       },
       {
@@ -20989,11 +21107,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 0,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "3.00",
+        "price": "4.00",
         "title": "Arroz Blanco"
       },
       {
@@ -21003,11 +21121,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 0,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "5.00",
+        "price": "6.00",
         "title": "Papas Fritas"
       },
       {
@@ -21017,11 +21135,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 0,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "5.00",
+        "price": "6.00",
         "title": "Yuca Frita"
       },
       {
@@ -21031,11 +21149,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 10,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "5.00",
+        "price": "6.00",
         "title": "Camote Glaseado"
       },
       {
@@ -21045,11 +21163,11 @@
         "codeStore": "cev001",
         "company": "D'Loa",
         "custom": 0,
-        "description": "",
+        "description": "incluye taper",
         "image": "",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "5.00",
+        "price": "6.00",
         "title": "Chifles"
       },
       {
@@ -38152,8 +38270,8 @@
         "company": "Takos Wey",
         "description": "3 tortillas de maiz rellena con carne de cerdo, pollo o res condimentada con salsa de especias y chiles secos",
         "image": "",
-        "lat": "-13.663801",
-        "lng": "-73.402010",
+        "lat": "-13.6560912",
+        "lng": "-73.3927113",
         "price": "15.00",
         "title": "Tacos mexicanos"
       },
@@ -38165,8 +38283,8 @@
         "company": "Takos Wey",
         "description": "6 piezas de pollo bañadas en deliciosa salsa a la BBQ. Acompañada con papas fritas y salas",
         "image": "",
-        "lat": "-13.663801",
-        "lng": "-73.402010",
+        "lat": "-13.6560912",
+        "lng": "-73.3927113",
         "price": "15.00",
         "title": "Alitas BBQ"
       },
@@ -38178,8 +38296,8 @@
         "company": "Takos Wey",
         "description": "4 piezas de pollo extra crujientes. Con el sabor exacto que tanto te gusta. Disfrutalas con papas fritas y salsas a tu eleccion",
         "image": "",
-        "lat": "-13.663801",
-        "lng": "-73.402010",
+        "lat": "-13.6560912",
+        "lng": "-73.3927113",
         "price": "15.00",
         "title": "Pollo Crispy"
       },
@@ -38191,8 +38309,8 @@
         "company": "Takos Wey",
         "description": "Tortilla de maiz 100% casera, rellena de carne o pollo o al pastor, acompañada de frijoles, cebollas, culantro, lechuga, tomates, limon, queso rallado",
         "image": "",
-        "lat": "-13.663801",
-        "lng": "-73.402010",
+        "lat": "-13.6560912",
+        "lng": "-73.3927113",
         "price": "15.00",
         "title": "Burritos tex mex"
       },
@@ -38204,8 +38322,8 @@
         "company": "Takos Wey",
         "description": "Tortilla de maiz 100% caseras, con un picantito exacto, acompañado de guacamole (palta, tomate, queso y limon",
         "image": "",
-        "lat": "-13.663801",
-        "lng": "-73.402010",
+        "lat": "-13.6560912",
+        "lng": "-73.3927113",
         "price": "14.00",
         "title": "Nachos con guacamole"
       },
@@ -38217,8 +38335,8 @@
         "company": "Takos Wey",
         "description": "Quesadillas en tortillas de maiz 100% caseras, rellenas de pollo o carne, con abundante queso, tomatillos, culantro y picante",
         "image": "",
-        "lat": "-13.663801",
-        "lng": "-73.402010",
+        "lat": "-13.6560912",
+        "lng": "-73.3927113",
         "price": "14.00",
         "title": "Quesadillas mex"
       }
@@ -38663,11 +38781,11 @@
         "codProduct": 80500,
         "codeStore": "cev001",
         "company": "D'Loa",
-        "description": "",
+        "description": "incluye taper",
         "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/makis%2FIguana%20grill%20productos%2Fmaki%20california.jpeg?alt=media&token=d62ed3c0-0dbf-4227-9d07-b4c853cc3329",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "12.00",
+        "price": "20.00",
         "title": "Maki California"
       },
       {
@@ -38676,11 +38794,11 @@
         "codProduct": 80501,
         "codeStore": "cev001",
         "company": "D'Loa",
-        "description": "",
+        "description": "incluye taper",
         "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/makis%2FIguana%20grill%20productos%2Fmaki%20acevichado.jpeg?alt=media&token=c1ea0764-d073-48d9-9225-2baf2592b865",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "12.00",
+        "price": "20.00",
         "title": "Maki Acevichado"
       },
       {
@@ -38689,11 +38807,11 @@
         "codProduct": 80502,
         "codeStore": "cev001",
         "company": "D'Loa",
-        "description": "",
+        "description": "incluye taper",
         "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/makis%2FIguana%20grill%20productos%2Fmaki%20emperador.jpeg?alt=media&token=28918754-8a06-4a61-874b-e6fd99338b15",
         "lat": "-13.663634",
         "lng": "-73.406601",
-        "price": "12.00",
+        "price": "20.00",
         "title": "Maki Emperador"
       }
     ],
@@ -60982,7 +61100,7 @@
         "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/recreos%2Fhuallpar.jpg?alt=media&token=d5388e93-fd34-488d-89dd-01d80d09fea1",
         "lat": "-13.659070",
         "lng": "-73.435178",
-        "price": "35.00",
+        "price": "37.00",
         "title": "Cuy al Estilo Huallpar"
       }
     ],
@@ -64894,20 +65012,20 @@
     "arturopariona231@gmail.com",
     "fequiso2000@gmail.com",
     "gregorioariasotero4@gmail.com",
-    "junbergalindonavarro05.16@gmail.com",
     "noepumallanqui@gmail.com",
-    "juanyjaqui1406@gmail.com"
+    "juanyjaqui1406@gmail.com",
+    "frankantonyquispeccorimanya@gmail.com"
   ],
   "restaurantes": [
     {
-      "closed": "15:00",
+      "closed": "00:00",
       "codCard": "res001",
       "description": "Andahuaylas",
       "horary": "11AM - 3PM",
       "image": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/restaurantes%2FsaboresOpen.jpg?alt=media&token=c4eb12a3-a39e-40b4-8ed7-d3646d2fa698",
       "imageClosed": "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/restaurantes%2FsaboresClosed.jpg?alt=media&token=df3a579e-20b1-4848-ba30-c6f8a5a297ee",
       "name": "Tierra de Sabores",
-      "open": "11:00",
+      "open": "00:00",
       "time": "40 - 50 min"
     }
   ],
