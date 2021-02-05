@@ -68,7 +68,7 @@
     "closed" : "00:00",
     "codCard" : "bel001",
     "description" : "Andahuaylas",
-    "horary" : "0AM - 0PM",
+    "horary" : "8AM - 6PM",
     "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Fbelleza%2FH_J.jpg?alt=media&token=4d5278ca-569a-4d78-b21e-b80695df8d30",
     "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20cerrados%2Fbelleza%2FC%20H_J.jpg?alt=media&token=b86c18c2-c296-44ba-81ab-cb2fe3ab7636",
     "name" : "J&H Sorpresitas",
@@ -399,13 +399,13 @@
     "closed" : "00:00",
     "codCard" : "bro004",
     "description" : "Andahuaylas",
-    "horary" : "11AM - 9:30PM",
+    "horary" : "11AM - 12:00AM",
     "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Ffast%20food%2Fla%20salchipapera%202%20abierto.jpg?alt=media&token=08e7a94f-5d1a-41bf-a461-9e0df038ce10",
     "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20cerrados%2Ffast%20food%2Fla%20salchipapera%20%202%20cerrado.jpg?alt=media&token=2daab9cb-c897-426a-b6c2-44e21255c4e5",
     "lat" : "-13.6559485",
     "lng" : "-73.3912334",
     "name" : "La Salchipapera",
-    "open" : "00:00",
+    "open" : "11:00",
     "time" : "30 - 45 min"
   }, {
     "closed" : "22:00",
@@ -433,13 +433,13 @@
     "closed" : "22:00",
     "codCard" : "bro008",
     "description" : "Andahuaylas",
-    "horary" : "1PM - 10PM",
+    "horary" : "2PM - 10PM",
     "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Ffast%20food%2Fbuguie%20burguer%20abierto.jpg?alt=media&token=2aa8c960-da18-42ef-bd24-331b7cabfaef",
     "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20cerrados%2Ffast%20food%2Fbuguie%20burguer%20cerrado.jpg?alt=media&token=7093eb28-3d0a-4e74-8f95-b1fe7f9fea39",
     "lat" : "-13.6606",
     "lng" : "-73.3867",
     "name" : "Buguie Burguer",
-    "open" : "13:00",
+    "open" : "14:00",
     "time" : "30 - 45 min"
   }, {
     "closed" : "00:00",
@@ -465,7 +465,7 @@
     "time" : "30 - 45 min"
   } ],
   "helados" : [ {
-    "closed" : "21:30",
+    "closed" : "00:00",
     "codCard" : "hel001",
     "description" : "Andahuaylas",
     "horary" : "11AM - 9:30PM",
@@ -604,7 +604,7 @@
     "closed" : "00:00",
     "codCard" : "joy002",
     "description" : "Andahuaylas",
-    "horary" : "0AM - 0PM",
+    "horary" : "8AM - 6PM",
     "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Fjoyeria%2FH_J.jpg?alt=media&token=52446f64-6dea-4295-8154-b487d75155ad",
     "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20cerrados%2Fjoyeria%2FC%20H_J.jpg?alt=media&token=382b831c-efb4-4467-92a5-5a7c599ecf0c",
     "name" : "J&H Sorpresitas",
@@ -714,11 +714,32 @@
     "time" : "40 - 50 min"
   } ],
   "numeros" : [ {
+    "category" : "Multiple",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Fvida%2F491%20store%20abierto.jpg?alt=media&token=91c7b332-cbbd-41be-8f40-90cab47e9018",
+    "lat" : "",
+    "lng" : "",
+    "local" : "491 Store",
+    "number" : 123456
+  },{
+    "category" : "Multiple",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Fvida%2Fjyh%20sorpresitas%20abierto.jpg?alt=media&token=64effed4-6210-4e02-a350-0d5d78a4a75a",
+    "lat" : "-13.657095",
+    "lng" : "-73.394032",
+    "local" : "J&H Sorpresitas",
+    "number" : 978634188
+  },{
+    "category" : "Vida",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Fvida%2Fel%20vivero%20de%20maya%20abierto.jpg?alt=media&token=b3435e83-4a46-4cc4-8dd6-5e4bb7b37cd2",
+    "lat" : "-13.656431",
+    "lng" : "-73.392579",
+    "local" : "El Vivero de Maya",
+    "number" : 990505501
+  },{
     "category" : "Tacos",
     "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Ftacos%2Ftacos%20abierto.jpg?alt=media&token=e7b6a931-8b2c-4ff4-99ce-5eca41bc4674",
     "lat" : "-13.657034",
     "lng" : "-73.383663",
-    "local" : "Tacos",
+    "local" : "Tacos - Andahuaylas",
     "number" : 927100300
   },{
     "category" : "Bebidas",
@@ -35033,7 +35054,7 @@
       "category" : "Aperitivos",
       "codProduct" : 1,
       "codeStore" : "mex003",
-      "company" : "Tacos",
+      "company" : "Tacos - Andahuaylas",
       "description" : "",
       "image" : "",
       "lat" : "-13.657034",
@@ -35045,7 +35066,7 @@
       "category" : "Platos Principales",
       "codProduct" : 2,
       "codeStore" : "mex003",
-      "company" : "Tacos",
+      "company" : "Tacos - Andahuaylas",
       "description" : "(2 unidades) - Tortilla elegida (maiz, trigo, quinua e integral), pollo, carne y chorizo en trozos, guacamole y ensalada de tomate",
       "image" : "",
       "lat" : "-13.657034",
@@ -35057,7 +35078,7 @@
       "category" : "Platos Principales",
       "codProduct" : 3,
       "codeStore" : "mex003",
-      "company" : "Tacos",
+      "company" : "Tacos - Andahuaylas",
       "description" : "(1 unidad) - Tortilla elegida (maiz, trigo, quinua e integral), pollo o carne en trozos, guacamole y ensalada de tomate",
       "image" : "",
       "lat" : "-13.657034",
@@ -35069,7 +35090,7 @@
       "category" : "Platos Principales",
       "codProduct" : 4,
       "codeStore" : "mex003",
-      "company" : "Tacos",
+      "company" : "Tacos - Andahuaylas",
       "description" : "(1 unidad) - Tortilla elegida (maiz, trigo, quinua e integral), una capa de queso, carne elegida en trozos adresada en crema especial (pollo, chorizo, res y mixto), guacamole, papas al ilo y ensalada de tomate",
       "image" : "",
       "lat" : "-13.657034",
@@ -35081,7 +35102,7 @@
       "category" : "Platos Principales",
       "codProduct" : 5,
       "codeStore" : "mex003",
-      "company" : "Tacos",
+      "company" : "Tacos - Andahuaylas",
       "description" : "(1 unidad) - Tortilla elegida (maiz, trigo, quinua e integral), capa de queso, carne elegida en trozos adresada en crema especial (pollo, chorizo, res y mixto), arroz mexicano, guacamole, papas al ilo y ensalada de tomate",
       "image" : "",
       "lat" : "-13.657034",
@@ -35093,7 +35114,7 @@
       "category" : "Platos Principales",
       "codProduct" : 6,
       "codeStore" : "mex003",
-      "company" : "Tacos",
+      "company" : "Tacos - Andahuaylas",
       "description" : "tortilla de trigo, carne elegida en trozos (pollo, chorizo, res y mixto), queso andino, acompañado de tomate y crema de rocoto",
       "image" : "",
       "lat" : "-13.657034",
@@ -59877,16 +59898,16 @@
     "open" : "10:00",
     "time" : "40 - 50 min"
   }, {
-    "closed" : "17:00",
+    "closed" : "17:30",
     "codCard" : "rec009",
     "description" : "Andahuaylas",
-    "horary" : "11AM - 5PM",
+    "horary" : "10AM - 5:30PM",
     "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Frecreos%2FPUMA%20DE%20PIEDRA.jpg?alt=media&token=1081454b-e3ff-409d-a0ae-c7aee85e330c",
     "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20cerrados%2Frecreos%2FC%20PUMA%20DE%20PIEDRA.jpg?alt=media&token=e71366d8-1d12-4f46-9787-53b3c98b06be",
     "lat" : "-13.6608774",
     "lng" : "-73.3832314",
     "name" : "Puma de Piedra",
-    "open" : "00:00",
+    "open" : "10:00",
     "time" : "50 - 60 min"
   }, {
     "closed" : "16:00",
@@ -59997,14 +60018,14 @@
     "closed" : "00:00",
     "codCard" : "reg004",
     "description" : "Andahuaylas",
-    "horary" : "0AM - 0PM",
+    "horary" : "8AM - 6PM",
     "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Fregalos%2FH_J.jpg?alt=media&token=6615eaf9-4d1b-442c-94d0-aa9c4269c910",
     "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20cerrados%2Fregalos%2FC%20H_J.jpg?alt=media&token=82e80104-192b-4b29-8744-1a6760090887",
     "name" : "J&H Sorpresitas",
     "open" : "00:00",
     "time" : "40 - 50 min"
   } ],
-  "repartidores" : [ "anthonyjuarezsolis@gmail.com", "mirkopb96@gmail.com", "denisrojas1028@gmail.com", "briner1997@gmail.com", "briner_pablo@hotmail.com", "yhamelizarandia@gmail.com", "anthonyjuarezsolis@icloud.com", "gregorioariasotero4@gmail.com","jmigueld04@gmail.com","jhordanxz@gmail.com","rorpi1234@gmail.com","reynagacruzalfredo2019@gmail.com", "rayozx.0@gmail.com","mariluromanportillo@gmail.com"],
+  "repartidores" : [ "anthonyjuarezsolis@gmail.com", "mirkopb96@gmail.com", "denisrojas1028@gmail.com", "briner1997@gmail.com", "briner_pablo@hotmail.com", "yhamelizarandia@gmail.com", "anthonyjuarezsolis@icloud.com", "gregorioariasotero4@gmail.com","jmigueld04@gmail.com","rorpi1234@gmail.com","reynagacruzalfredo2019@gmail.com", "rayozx.0@gmail.com","mariluromanportillo@gmail.com","junbergalindonavarro05.16@gmail.com"],
   "restaurantes" : [ {
     "closed" : "15:00",
     "codCard" : "res001",
@@ -60017,10 +60038,10 @@
     "time" : "40 - 50 min"
   } ],
   "tacos" : [ {
-    "closed" : "18:00",
+    "closed" : "19:30",
     "codCard" : "mex001",
     "description" : "Andahuaylas",
-    "horary" : "2PM - 6PM",
+    "horary" : "2PM - 7:30PM",
     "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Ftacos%2FTAKOS%20WEY.jpg?alt=media&token=becf1494-3448-4a6a-abd6-45f047f6a6ca",
     "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20cerrados%2Ftacos%2FC%20TAKOS%20WEY.jpg?alt=media&token=07fce2a2-519a-42a0-be7a-67a989c98768",
     "name" : "Takos Wey",
@@ -60033,7 +60054,7 @@
     "horary" : "12PM - 8PM",
     "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Ftacos%2Ftacos%20abierto.jpg?alt=media&token=e7b6a931-8b2c-4ff4-99ce-5eca41bc4674",
     "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20cerrados%2Ftacos%2Ftacos%20cerrado.jpg?alt=media&token=9e787992-5e08-44f7-9528-12d1bb2f0659",
-    "name" : "Tacos",
+    "name" : "Tacos - Andahuaylas",
     "open" : "12:00",
     "time" : "30 - 45 min"
   }, {
@@ -60065,9 +60086,9 @@
     "closed" : "00:00",
     "codCard" : "vid001",
     "description" : "Andahuaylas",
-    "horary" : "0AM - 0PM",
-    "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%20nuevos%20dic%2Fviveromaya.jpeg?alt=media&token=58989ea8-eaea-4b8b-be90-19b29bc274e5",
-    "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%20nuevos%20dic%2Fviveromaya_closed.jpeg?alt=media&token=114c141e-c9dd-4152-bc1e-f87ee40be6ea",
+    "horary" : "8AM - 6PM",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Fvida%2Fel%20vivero%20de%20maya%20abierto.jpg?alt=media&token=b3435e83-4a46-4cc4-8dd6-5e4bb7b37cd2",
+    "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20cerrados%2Fvida%2Fel%20vivero%20de%20maya%20cerrado.jpg?alt=media&token=555ebb38-d6c3-4b50-b103-c3549c341ebb",
     "name" : "El Vivero de Maya",
     "open" : "00:00",
     "time" : "40 - 50 min"
@@ -60075,9 +60096,9 @@
     "closed" : "00:00",
     "codCard" : "vid002",
     "description" : "Andahuaylas",
-    "horary" : "0AM - 0PM",
-    "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%20nuevos%20dic%2Fjyhsorpresitas.jpeg?alt=media&token=d5bb46ed-ddf7-4253-aeb0-2ddadbb5fc39",
-    "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%20nuevos%20dic%2Fjyhsorpresitas_closed.jpeg?alt=media&token=cb326b3b-30b2-4689-adb1-4469647800ed",
+    "horary" : "8AM - 6PM",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Fvida%2Fjyh%20sorpresitas%20abierto.jpg?alt=media&token=64effed4-6210-4e02-a350-0d5d78a4a75a",
+    "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20cerrados%2Fvida%2Fjyh%20sorpresitas%20cerrado.jpg?alt=media&token=6fb38c6e-a8ce-4be4-9d27-33010142e602",
     "name" : "J&H Sorpresitas",
     "open" : "00:00",
     "time" : "40 - 50 min"
@@ -60086,8 +60107,8 @@
     "codCard" : "vid003",
     "description" : "Andahuaylas",
     "horary" : "0AM - 0PM",
-    "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%20nuevos%20dic%2F491store.jpeg?alt=media&token=9042c9ad-80d4-4c31-a45b-e18406d78fcd",
-    "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%20nuevos%20dic%2F491store_closed.jpeg?alt=media&token=fcfd6517-7205-4909-b7bd-518e6d62c732",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20abiertos%2Fvida%2F491%20store%20abierto.jpg?alt=media&token=91c7b332-cbbd-41be-8f40-90cab47e9018",
+    "imageClosed" : "https://firebasestorage.googleapis.com/v0/b/shoppingandahuaylas.appspot.com/o/locales%202021%2Flocales%20normales%20cerrados%2Fvida%2F491%20store%20cerrado.jpg?alt=media&token=3d0e1588-cfec-4571-87e8-bf8b85322238",
     "name" : "491 Store",
     "open" : "00:00",
     "time" : "40 - 50 min"
